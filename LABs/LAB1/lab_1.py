@@ -1,6 +1,6 @@
-import nltk
-#nl.download()
-#nl.download("punkt")
+import nltk as nl
+nl.download()
+nl.download("punkt")
 from nltk.book import*
 
 moby_dick=text1
