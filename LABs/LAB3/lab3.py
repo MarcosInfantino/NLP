@@ -26,9 +26,9 @@ def analizar_oracion(oracion, mostrar_nombre):
 def leer_pdf(archivo):
     reader = PyPDF2.PdfFileReader(archivo)
     cant_pags=reader.getNumPages()
-    string_lectura= reader.getPage(1).extractText()
+    string_lectura= reader.getPage(0).extractText()
     print(cant_pags)
-    for i in range(cant_pags-1):
+    for i in range(cant_pags):
         string_lectura = string_lectura + reader.getPage(i).extractText()
 
     return string_lectura
@@ -45,6 +45,7 @@ string_cuento = leer_pdf(corpus_file)
 
 print("------------------------------------------Análisis de un cuento de Edgar Allan Poe------------------------------------------")
 analizar_oracion(string_cuento,False)
+
 
 
 

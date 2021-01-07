@@ -4,6 +4,7 @@ from config import CONFIG
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 
+
 logging.basicConfig(level = logging.INFO, filename = CONFIG["LOG_FILE"])
 
 stopwordsSpanish = stopwords.words('spanish')
@@ -110,6 +111,18 @@ class NGramas:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 preProcessorBuilder = PreProcessorBuilder()
 preProcessor = preProcessorBuilder.build()
 
@@ -118,6 +131,7 @@ preProcessor = preProcessorBuilder.build()
 
 oracion1="the the the the the the the"
 oracion2="the cat is on the mat"
+
 
 sTok1 = tokenizer.ejecutar(oracion1)
 sTok2 = tokenizer.ejecutar(oracion2)
