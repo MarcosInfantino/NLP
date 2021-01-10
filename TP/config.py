@@ -3,6 +3,6 @@ CONFIG = {
     "PUNCTUATION_REMOVAL" : True,
     "LOWER_CASE_CONVERTION":True,
     "STOPWORD_REMOVAL":True,
-    "STEMMING":True,
+    "STEMMING":False,
     "DOCS_DB": "C:\dataset-nlp-plagio-utn"
 }

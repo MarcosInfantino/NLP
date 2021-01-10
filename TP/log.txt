@@ -133,3 +133,19 @@ INFO:root:STEMMING ACTIVADO
 INFO:root:2
 INFO:root:['the', 'the', 'the', 'the', 'the', 'the', 'the']
 INFO:root:0.30769230769230765
+INFO:root:STEMMING ACTIVADO
+INFO:root:2
+INFO:root:['the', 'the', 'the', 'the', 'the', 'the', 'the']
+INFO:root:0.30769230769230765
+INFO:root:STEMMING ACTIVADO
+INFO:root:2
+INFO:root:['the', 'the', 'the', 'the', 'the', 'the', 'the']
+INFO:root:0.30769230769230765
+INFO:root:STEMMING ACTIVADO
+INFO:root:2
+INFO:root:['the', 'the', 'the', 'the', 'the', 'the', 'the']
+INFO:root:0.30769230769230765
+INFO:root:STEMMING ACTIVADO
+INFO:root:2
+INFO:root:['the', 'the', 'the', 'the', 'the', 'the', 'the']
+INFO:root:0.30769230769230765
