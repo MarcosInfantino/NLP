@@ -2,6 +2,7 @@ from os import listdir
 from config import CONFIG
 import PyPDF2
 import docx
+import pdfplumber
 from pptx import Presentation
 import nltk.tag.stanford
 import nltk as nl
@@ -10,11 +11,24 @@ import spacy
 import re
 
 
+
+
 nlpSpanish = spacy.load("es_core_news_md")
 
 
-
 def readPdf(filename):
+    pdf = pdfplumber.open(filename)
+    cant_pags = len(pdf.pages)
+    string_lectura = ""
+    for i in range(cant_pags):
+        pagActual =  pdf.pages[i].extract_text()
+        if pagActual is not None:
+            string_lectura = string_lectura + pagActual
+
+    pdf.close()
+    return string_lectura
+
+def readPdf2(filename):
     print(filename)
     archivo = open(filename, "rb")
     reader = PyPDF2.PdfFileReader(archivo)
@@ -28,13 +42,20 @@ def readPdf(filename):
     return string_lectura
 
 
-def readDoc(filename):
+def readDocX(filename):
     doc = docx.Document(filename)
     fullText = []
     for para in doc.paragraphs:
         fullText.append(para.text)
     return '\n'.join(fullText)
 
+def readDoc(filename):
+    from bs4 import BeautifulSoup as bs
+    soup = bs(open(filename).read())
+    [s.extract() for s in soup(['style', 'script'])]
+    tmpText = soup.get_text()
+    text = "".join("".join(tmpText.split('\t')).split('\n')).encode('utf-8').strip()
+    return text
 
 def readPpt(archivo):
     prs = Presentation(archivo)
@@ -51,8 +72,12 @@ def readFile(path):
     fType = fileType(path)
     if fType == "pdf":
         return readPdf(path)
-    elif fType == "doc" or fType == "docx":
-        return readDoc(path)
+    elif  fType == "docx":
+        return readDocX(path)
+        ##return ""
+    elif fType == "doc":
+        ##return readDoc(path)
+        return ""
     elif fType == "pptx":
         return readPpt(path)
     else:
@@ -81,8 +106,11 @@ class Doc:
 
     @staticmethod
     def newDoc(filePath):
+
         doc = Doc()
         doc.fileType = fileType(filePath)
+        spl = filePath.split("/")
+        doc.name = spl[len(spl)-1]
         doc.text = readFile(filePath)
         doc.paragraphs = [Parragraph.newParagraph(s) for s in doc.text.split("\n")]
         return doc
@@ -105,8 +133,10 @@ def citations(string):
     citations = [text[match.start(): match.end()] for match in results]
     return citations
 
+def hasCitations(string):
+    return len(citations(string)) > 0
 
-##print([x for x in Doc.newDoc("C:/dataset-nlp-plagio-utn/Marketing - TP 0.docx").paragraphs[14].sentences])
+##print([x for x in Doc.newDoc("C:/dataset-nlp-plagio-utn/Economía de experiencia (1).pdf").paragraphs[14].sentences])
 
 ##doc = nlpSpanish("Juan estaba sentado en la puerta de su casa, cuando escucho un fuerte llanto.")
 ##for token in doc:
@@ -116,3 +146,5 @@ def citations(string):
 ejemploCita = "La primer cita es (Anónimo, n.d.), la segunda es (Qianyi Gu & Sumner, 2006). También hay que tener en cuenta a (Sabbagh, 2009) y a (\"Barcelona to Ban Burqa\", 2010). [5] y [500] tambien son muy importantes."
 
 ##print([x for x in citations(ejemploCita)])
+print(ls(CONFIG["DOCS_DB"]))
+##print(readDoc(CONFIG["DOCS_DB"] + "/" + "TP 1 Wikinomics (1).doc"))

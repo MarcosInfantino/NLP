@@ -4,7 +4,9 @@ from config import CONFIG
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 import docs
-
+import urllib
+from bs4 import BeautifulSoup as soup
+import re
 
 logging.basicConfig(level = logging.INFO, filename = CONFIG["LOG_FILE"])
 
@@ -17,22 +19,23 @@ class Log:
        logging.info(string)
 
 log = Log()
-
+log.info("-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------")
 class Tokenizer:
     def ejecutar(self, string):
-        return nl.word_tokenize(string)
+        sTok = [PosTaggedWord.newPosTaggedWord(x.pos_, x.text, x.text) for x in docs.nlpSpanish(string)]
+        return sTok
 
 class PunctuationRemover:
     def ejecutar(self, string_array):
-        return [x for x in string_array if x.isalnum()]
+        return [x for x in string_array if x.text.isalnum()]
 
 class StopWordsRemover:
     def ejecutar(self, string_array):
-        return [x for x in string_array if x not in stopwordsSpanish]
+        return [x for x in string_array if x.text not in stopwordsSpanish]
 
 class LowerCaseConverter:
     def ejecutar(self, stringArray):
-        return [x.lower() for x in stringArray]
+        return [PosTaggedWord.newPosTaggedWord(x.pos, x.text.lower(), x.original.lower()) for x in stringArray]
 
 class StemmedCountVectorizer(CountVectorizer):
     def build_analyzer(self):
@@ -44,7 +47,16 @@ stemAnalize = stemVectorizer.build_analyzer()
 
 class Stemmer:
     def ejecutar(self, string):
-        return [x for x in stemAnalize(string)]
+        sTok = tokenizer.ejecutar(string)
+        sRet = []
+        for x in sTok:
+            textStem = [x for x in stemAnalize(x.text)]
+            if len(textStem) > 0:
+                element = PosTaggedWord.newPosTaggedWord(x.pos, textStem[0], x.text.lower())
+                sRet.append(element)
+
+        return sRet
+
 
 tokenizer = Tokenizer()
 punctuationRemover = PunctuationRemover()
@@ -62,23 +74,10 @@ class PreProcessor:
         stringRet = stringTok
 
         for i in range(len(self.preProcessors)):
-
-            if i == 0:
-                stringRet = self.preProcessors[i].ejecutar(stringTok)
-            else:
                 stringRet = self.preProcessors[i].ejecutar(stringRet)
 
         return stringRet
 
-    def crearMetadata(self, string):
-        tokensAdmitidos = self.preProcesar(string)
-        metaText = [PosTaggedWord.newPosTaggedWord(tok.pos_, tok.text) for tok in docs.nlpSpanish(string)]
-        metaFinal = [x for x in metaText if x.text.lower() in tokensAdmitidos]
-
-        if(CONFIG["LOWER_CASE_CONVERTION"]):
-            metaFinal = [PosTaggedWord.newPosTaggedWord(x.pos, x.text.lower()) for x in metaFinal]
-
-        return metaFinal
 
 
 
@@ -105,8 +104,17 @@ class PreProcessorBuilder:
             return self.varPreProcessor
 
 
+
+def containsPosWord(stringTok, posWord):
+    for x in stringTok:
+        ##if x.pos == posWord.pos and x.text == posWord.text:
+        if x.pos == posWord.pos and x.text == posWord.text :
+            return True
+    return False
+
+
 def repeticionesNGramas(stringTok1, stringTok2): ##cuantos ngramas del string 1 estan en el string 2
-    return len( [x for x in filter (lambda x: x in stringTok2, stringTok1  )])
+    return len( [x for x in filter (lambda x: containsPosWord(stringTok2, x), stringTok1 )])
 
 def repeticionesNGramasClip(stringTok1, stringTok2):
     return min([repeticionesNGramas(stringTok1, stringTok2), repeticionesNGramas(stringTok2, stringTok1)])
@@ -119,46 +127,125 @@ class NGramas:
         score = (2* R * P) / (R + P)
         return score
 
+
+
 class PosTaggedWord:
     pos = ""
     text = ""
+    original = ""
 
     def equals(self, otherWord):
         return self.pos == otherWord.pos and self.text == otherWord.text
 
     @staticmethod
-    def newPosTaggedWord(pos, text):
+    def newPosTaggedWord(pos, text, original):
         obj = PosTaggedWord()
         obj.pos = pos
         obj.text = text
+        obj.original = original
         return obj
 
 
-'''def JaccardScore(text1, text2):
+
+def JaccardScore(referenceText, candidateText):
     
-    metaText1 = [PosTaggedWord.newPosTaggedWord() for tok in docs.nlpSpanish(text1)]
-    metaText2 = [PosTaggedWord.newPosTaggedWord() for tok in docs.nlpSpanish(text2)]
-    print()'''
+    metaReferenceText = preProcessor.preProcesar(referenceText)
+    metaCandidateText = preProcessor.preProcesar(candidateText)
+
+    intersection = repeticionesNGramasClip(metaReferenceText,metaCandidateText)
+
+
+
+    if docs.hasCitations(candidateText):
+        return 0
+    else:
+        dividendo = (len(metaReferenceText) + len(metaCandidateText) - intersection)
+        if dividendo == 0:
+            return 0
+        else:
+            return (intersection / dividendo)*100
+
+
+def loadDocsFromDb(cantidad):
+    log.info("COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS")
+    documentsList = docs.ls(CONFIG["DOCS_DB"])
+    cantDocs = len(docs.ls(CONFIG["DOCS_DB"]))
+    documents = []
+
+    if cantidad > 0 and cantidad < cantDocs:
+        cantDocs = cantidad
+
+    for i in range (cantDocs):
+
+        log.info("PORCENTAJE DE LA CARGA: " + str((i/cantDocs)*100))
+        filename = documentsList[i]
+        log.info("SE CARGA EL DOCUMENTO: " + filename)
+        documents.append(docs.Doc.newDoc(CONFIG["DOCS_DB"] + "/" + filename))
+    return documents
+
+
+
+class PlagiarismRegister:
+    referenceDocument = ""
+    plagiarismScore = ""
+    parragraphNumber = ""
+    parragraphTextReference = ""
+    parragraphTextCandidate = ""
+    @staticmethod
+    def newPlagiarismRegister(referenceDocument, plagiarismScore, parragraphNumber, parragraphTextReference, parragraphTextCandidate):
+        o = PlagiarismRegister()
+        o.referenceDocument = referenceDocument
+        o.plagiarismScore = plagiarismScore
+        o.parragraphNumber = parragraphNumber
+        o.parragraphTextReference = parragraphTextReference
+        o.parragraphTextCandidate = parragraphTextCandidate
+        return o
 
 
 
 
-
-
-
-
-ejemplo = "La detección de plagios en los trabajos entregados por los alumnos es un problema que ha existido tradicionalmente cuando se entregaban en formato papel pero que en los últimos años se ha incrementado debido a la gran cantidad de información que existe en Internet, a la facilidad para encontrarla usando buscadores y a la entrega electrónica de los trabajos o actividades (ciberplagio). Incluso existen plataformas en Internet que estructuran y ofrecen gratuitamente los trabajos para que se puedan descargar."
-
-
-
-
-
-
+plagiarismRegisters = []
 preProcessorBuilder = PreProcessorBuilder()
 preProcessor = preProcessorBuilder.build()
 
+ejemplo = "La detección de plagios en los trabajos entregados por los alumnos es un problema que ha existido tradicionalmente cuando se entregaban en formato papel pero que en los últimos años se ha incrementado debido a la gran cantidad de información que existe en Internet, a la facilidad para encontrarla usando buscadores y a la entrega electrónica de los trabajos o actividades (ciberplagio). Incluso existen plataformas en Internet que estructuran y ofrecen gratuitamente los trabajos para que se puedan descargar (Qianyi Gu & Sumner, 2006)."
+
+candidateDocument = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/Trabajo Práctico 1 - Hernan Dalle Nogare.docx")
+documents = loadDocsFromDb(CONFIG["CANTIDAD_DOCS_DATASET"])
 
 
+def compareCandidateText():
+    for i in range(len(documents)):
+        actualDoc = documents[i]
+        for j in range(len(actualDoc.paragraphs)):
+            actualReferenceParragraph = actualDoc.paragraphs[j]
+            for k in range(len(candidateDocument.paragraphs)):
+                actualCandidateParragraph = candidateDocument.paragraphs[k]
+                score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text)
+                print("JACCARD: " + str(score))
+                if score > CONFIG["PORCENTAJE_PLAGIO_AVISO"]:
+                    ##log.info("Se ha detectado mas de un " + str(CONFIG["PORCENTAJE_PLAGIO_AVISO"]) + "% de plagio con el documento " + actualDoc.name)
+                    plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
+
+def showPlagiarismParameters():
+    for i in range(len(plagiarismRegisters)):
+        actual = plagiarismRegisters[i]
+        if actual.plagiarismScore > CONFIG["PORCENTAJE_PLAGIO_AVISO"]:
+            log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
+            log.info("Se ha detectado plagio con el documento " + actual.referenceDocument + ". Parrafo numero: " + str(actual.parragraphNumber) + ". Puntaje del " + str(actual.plagiarismScore) + "%.")
+            log.info("Fragmento plagiado")
+            log.info("Referencia:")
+            log.info(actual.parragraphTextReference)
+            log.info("Candidato:")
+            log.info(actual.parragraphTextCandidate)
+
+
+
+compareCandidateText()
+showPlagiarismParameters()
+
+
+'''
 
 oracion1="the the the the the the the"
 oracion2="the cat is on the mat"
@@ -167,12 +254,13 @@ oracion2="the cat is on the mat"
 sTok1 = tokenizer.ejecutar(oracion1)
 sTok2 = tokenizer.ejecutar(oracion2)
 
-log.info(repeticionesNGramasClip(sTok1, sTok2))
 
 
-log.info(NGramas.puntaje(sTok1, sTok2))
-
-
-for x in preProcessor.crearMetadata(ejemplo):
+for x in preProcessor.preProcesar(ejemplo):
     print(x.text + "-" + x.pos)
 
+
+print("----------------------------")
+
+print(JaccardScore(ejemplo, ejemplo))
+'''
