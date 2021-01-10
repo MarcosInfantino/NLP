@@ -107,9 +107,13 @@ class PreProcessorBuilder:
 
 def containsPosWord(stringTok, posWord):
     for x in stringTok:
-        ##if x.pos == posWord.pos and x.text == posWord.text:
-        if x.pos == posWord.pos and x.text == posWord.text :
+        if x.pos == posWord.pos and x.text == posWord.text:
             return True
+        '''if x.pos == posWord.pos :
+            if CONFIG["POS"] and x.text == posWord.text:
+                return True
+            else:
+                return True'''
     return False
 
 
