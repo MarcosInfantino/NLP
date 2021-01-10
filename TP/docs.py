@@ -3,7 +3,6 @@ from config import CONFIG
 import PyPDF2
 import docx
 from pptx import Presentation
-import main
 import nltk.tag.stanford
 import nltk as nl
 from spacy.lang.es import Spanish
@@ -107,13 +106,13 @@ def citations(string):
     return citations
 
 
-print([x for x in Doc.newDoc("C:/dataset-nlp-plagio-utn/Marketing - TP 0.docx").paragraphs[14].sentences])
+##print([x for x in Doc.newDoc("C:/dataset-nlp-plagio-utn/Marketing - TP 0.docx").paragraphs[14].sentences])
 
-doc = nlpSpanish("Juan estaba sentado en la puerta de su casa, cuando escucho un fuerte llanto.")
-for token in doc:
-    print(token.text, token.pos_)
+##doc = nlpSpanish("Juan estaba sentado en la puerta de su casa, cuando escucho un fuerte llanto.")
+##for token in doc:
+  ##  print(token.text, token.pos_)
 
 
 ejemploCita = "La primer cita es (Anónimo, n.d.), la segunda es (Qianyi Gu & Sumner, 2006). También hay que tener en cuenta a (Sabbagh, 2009) y a (\"Barcelona to Ban Burqa\", 2010). [5] y [500] tambien son muy importantes."
 
-print([x for x in citations(ejemploCita)])
+##print([x for x in citations(ejemploCita)])

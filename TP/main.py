@@ -3,6 +3,7 @@ import logging
 from config import CONFIG
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
+import docs
 
 
 logging.basicConfig(level = logging.INFO, filename = CONFIG["LOG_FILE"])
@@ -55,7 +56,7 @@ stemmer = Stemmer()
 class PreProcessor:
     preTokenizer = ""
     preProcessors = []
-    def ejecutar(self, string):
+    def preProcesar(self, string):
         stringTok = self.preTokenizer.ejecutar(string)
 
         stringRet = stringTok
@@ -68,6 +69,17 @@ class PreProcessor:
                 stringRet = self.preProcessors[i].ejecutar(stringRet)
 
         return stringRet
+
+    def crearMetadata(self, string):
+        tokensAdmitidos = self.preProcesar(string)
+        metaText = [PosTaggedWord.newPosTaggedWord(tok.pos_, tok.text) for tok in docs.nlpSpanish(string)]
+        metaFinal = [x for x in metaText if x.text.lower() in tokensAdmitidos]
+
+        if(CONFIG["LOWER_CASE_CONVERTION"]):
+            metaFinal = [PosTaggedWord.newPosTaggedWord(x.pos, x.text.lower()) for x in metaFinal]
+
+        return metaFinal
+
 
 
 class PreProcessorBuilder:
@@ -107,6 +119,26 @@ class NGramas:
         score = (2* R * P) / (R + P)
         return score
 
+class PosTaggedWord:
+    pos = ""
+    text = ""
+
+    def equals(self, otherWord):
+        return self.pos == otherWord.pos and self.text == otherWord.text
+
+    @staticmethod
+    def newPosTaggedWord(pos, text):
+        obj = PosTaggedWord()
+        obj.pos = pos
+        obj.text = text
+        return obj
+
+
+'''def JaccardScore(text1, text2):
+    
+    metaText1 = [PosTaggedWord.newPosTaggedWord() for tok in docs.nlpSpanish(text1)]
+    metaText2 = [PosTaggedWord.newPosTaggedWord() for tok in docs.nlpSpanish(text2)]
+    print()'''
 
 
 
@@ -115,8 +147,7 @@ class NGramas:
 
 
 
-
-
+ejemplo = "La detección de plagios en los trabajos entregados por los alumnos es un problema que ha existido tradicionalmente cuando se entregaban en formato papel pero que en los últimos años se ha incrementado debido a la gran cantidad de información que existe en Internet, a la facilidad para encontrarla usando buscadores y a la entrega electrónica de los trabajos o actividades (ciberplagio). Incluso existen plataformas en Internet que estructuran y ofrecen gratuitamente los trabajos para que se puedan descargar."
 
 
 
@@ -138,7 +169,10 @@ sTok2 = tokenizer.ejecutar(oracion2)
 
 log.info(repeticionesNGramasClip(sTok1, sTok2))
 
-log.info(preProcessor.ejecutar( oracion1))
 
 log.info(NGramas.puntaje(sTok1, sTok2))
+
+
+for x in preProcessor.crearMetadata(ejemplo):
+    print(x.text + "-" + x.pos)
 
