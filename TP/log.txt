@@ -16077,3 +16077,759 @@ INFO:root:Referencia:
 INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
 INFO:root:Candidato:
 INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 0. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:Trabajo Práctico N° 1
+INFO:root:Candidato:
+INFO:root:Trabajo Práctico 1
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 2. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:La Larga Cola
+INFO:root:Candidato:
+INFO:root:La Larga Cola
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2) 	Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3) 	Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7)     ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2)  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 77.77777777777779%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3)  Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 0. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:Trabajo Práctico N° 1
+INFO:root:Candidato:
+INFO:root:Trabajo Práctico 1
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 2. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:La Larga Cola
+INFO:root:Candidato:
+INFO:root:La Larga Cola
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2) 	Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3) 	Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7)     ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2)  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 77.77777777777779%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3)  Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 0. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:Trabajo Práctico N° 1
+INFO:root:Candidato:
+INFO:root:Trabajo Práctico 1
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 2. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:La Larga Cola
+INFO:root:Candidato:
+INFO:root:La Larga Cola
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2) 	Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3) 	Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7)     ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2)  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 77.77777777777779%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3)  Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 0. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:Trabajo Práctico N° 1
+INFO:root:Candidato:
+INFO:root:Trabajo Práctico 1
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 2. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:La Larga Cola
+INFO:root:Candidato:
+INFO:root:La Larga Cola
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2) 	Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3) 	Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7)     ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2)  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 77.77777777777779%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3)  Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 0. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:Trabajo Práctico N° 1
+INFO:root:Candidato:
+INFO:root:Trabajo Práctico 1
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 2. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:La Larga Cola
+INFO:root:Candidato:
+INFO:root:La Larga Cola
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2) 	Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3) 	Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7)     ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2)  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 77.77777777777779%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3)  Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 0. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:Trabajo Práctico N° 1
+INFO:root:Candidato:
+INFO:root:Trabajo Práctico 1
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 2. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:La Larga Cola
+INFO:root:Candidato:
+INFO:root:La Larga Cola
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2) 	Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3) 	Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7)     ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 4. Puntaje del 54.54545454545454%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:1) 	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+INFO:root:Candidato:
+INFO:root:1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 12. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:2)  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:Candidato:
+INFO:root:2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 17. Puntaje del 77.77777777777779%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:3)  Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:Candidato:
+INFO:root:3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola.
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 21. Puntaje del 63.63636363636363%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:4) 	¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+INFO:root:Candidato:
+INFO:root:4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 34. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:6) 	¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola?
+INFO:root:Candidato:
+INFO:root:6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga Cola?
+INFO:root:------------------------------------------------------------------------------------------------------------------------------------------------
+INFO:root:Se ha detectado plagio con el documento TP 1 - Marketing.docx. Parrafo numero: 40. Puntaje del 100.0%.
+INFO:root:Fragmento plagiado
+INFO:root:Referencia:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:Candidato:
+INFO:root:7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente.
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc
+INFO:root:-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------
+INFO:root:STEMMING ACTIVADO
+INFO:root:COMIENZA LA CARGA DE DOCUMENTOS DESDE LA BASE DE DATOS
+INFO:root:PORCENTAJE DE LA CARGA: 0.0
+INFO:root:SE CARGA EL DOCUMENTO: TP 1 - Marketing.docx
+INFO:root:PORCENTAJE DE LA CARGA: 50.0
+INFO:root:SE CARGA EL DOCUMENTO: TP1 - La Larga Cola - Chris Anderson (1).doc

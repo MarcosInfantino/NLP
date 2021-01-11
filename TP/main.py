@@ -4,6 +4,7 @@ from config import CONFIG
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 import docs
+import threading
 import urllib
 from bs4 import BeautifulSoup as soup
 import re
@@ -156,7 +157,7 @@ def JaccardScore(referenceText, candidateText):
     metaReferenceText = preProcessor.preProcesar(referenceText)
     metaCandidateText = preProcessor.preProcesar(candidateText)
 
-    intersection = repeticionesNGramasClip(metaReferenceText,metaCandidateText)
+    intersection = repeticionesNGramasClip(metaCandidateText,metaReferenceText)
 
 
 
@@ -207,7 +208,8 @@ class PlagiarismRegister:
 
 
 
-
+registersSemaphore = 1
+registersSem = threading.Semaphore(registersSemaphore)
 plagiarismRegisters = []
 preProcessorBuilder = PreProcessorBuilder()
 preProcessor = preProcessorBuilder.build()
@@ -215,6 +217,8 @@ preProcessor = preProcessorBuilder.build()
 ejemplo = "La detección de plagios en los trabajos entregados por los alumnos es un problema que ha existido tradicionalmente cuando se entregaban en formato papel pero que en los últimos años se ha incrementado debido a la gran cantidad de información que existe en Internet, a la facilidad para encontrarla usando buscadores y a la entrega electrónica de los trabajos o actividades (ciberplagio). Incluso existen plataformas en Internet que estructuran y ofrecen gratuitamente los trabajos para que se puedan descargar (Qianyi Gu & Sumner, 2006)."
 
 candidateDocument = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/Trabajo Práctico 1 - Hernan Dalle Nogare.docx")
+
+
 documents = loadDocsFromDb(CONFIG["CANTIDAD_DOCS_DATASET"])
 
 
@@ -226,10 +230,7 @@ def compareCandidateText():
             for k in range(len(candidateDocument.paragraphs)):
                 actualCandidateParragraph = candidateDocument.paragraphs[k]
                 score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text)
-                print("JACCARD: " + str(score))
-                if score > CONFIG["PORCENTAJE_PLAGIO_AVISO"]:
-                    ##log.info("Se ha detectado mas de un " + str(CONFIG["PORCENTAJE_PLAGIO_AVISO"]) + "% de plagio con el documento " + actualDoc.name)
-                    plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
+                plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
 
 def showPlagiarismParameters():
     for i in range(len(plagiarismRegisters)):
@@ -244,9 +245,39 @@ def showPlagiarismParameters():
             log.info(actual.parragraphTextCandidate)
 
 
+def compareCandidateTextThread(i):
+
+        actualDoc = documents[i]
+        for j in range(len(actualDoc.paragraphs)):
+            actualReferenceParragraph = actualDoc.paragraphs[j]
+            for k in range(len(candidateDocument.paragraphs)):
+                actualCandidateParragraph = candidateDocument.paragraphs[k]
+                score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text)
+                print("JACCARD: " + str(score))
+                registersSem.acquire()
+                plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
+                registersSem.release()
+
+threads = []
+
+def compareCandidateWithThreads():
+    for threadNum in range(len(documents)):
+        thread = threading.Thread(target = compareCandidateTextThread,args = (threadNum,))
+        thread.start()
+        threads.append(thread)
+        if(threadNum == (len(documents)-1)):
+            for i in range(len(threads)):
+                threads[i].join()
+
+def synonims(word):
+    data = str(urllib.request.urlopen('https://educalingo.com/en/dic-es/{}'.format(word)).read())
+    final_results = re.findall('\w+', [i.text for i in soup(data, 'lxml').find_all('div', {"class": 'contenido_sinonimos_antonimos'})][0])
+    return final_results
 
 compareCandidateText()
 showPlagiarismParameters()
+
+##synonims("gato")
 
 
 '''
