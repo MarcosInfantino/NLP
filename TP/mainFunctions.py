@@ -9,11 +9,13 @@ import urllib
 from bs4 import BeautifulSoup as soup
 import re
 
-##logging.basicConfig(level = logging.INFO, filename = CONFIG["LOG_FILE"])
+
 root_logger= logging.getLogger()
 root_logger.setLevel(logging.INFO) # or whatever
-handler = logging.FileHandler('logs/log.log', 'w', 'utf-8') # or whatever
-
+handler = logging.FileHandler(CONFIG["LOG_FILE"], 'w', 'utf-8') # or whatever
+formatter = logging.Formatter('%(asctime)s %(message)s') # or whatever
+handler.setFormatter(formatter) # Pass handler as a parameter, not assign
+root_logger.addHandler(handler)
 
 
 
@@ -23,7 +25,7 @@ spanishStemmer = nl.stem.SnowballStemmer("spanish")
 
 class Log:
     def info(self, string):
-       ##print(string)
+       print(string)
        logging.info(string)
 
 log = Log()
@@ -159,26 +161,25 @@ class PosTaggedWord:
 
 
 def JaccardScorePlainText(referenceText, candidateText):
-    return JaccardScore(candidateText, preProcessor.preProcesar(referenceText), preProcessor.preProcesar(candidateText))
+    return JaccardScore(referenceText, candidateText, preProcessor.preProcesar(referenceText), preProcessor.preProcesar(candidateText))
 
 
-def JaccardScore(candidateText, metaReferenceText, metaCandidateText):
+def JaccardScore(referenceText, candidateText, metaReferenceText, metaCandidateText):
 
-    ##metaReferenceText = preProcessor.preProcesar(referenceText)
-    ##metaCandidateText = preProcessor.preProcesar(candidateText)
+    if docs.hasCitations(candidateText):
+        return 0
+
 
     intersection = repeticionesNGramasClip(metaCandidateText,metaReferenceText)
 
 
+    dividendo = (len(metaReferenceText) + len(metaCandidateText) - intersection)
 
-    if docs.hasCitations(candidateText):
+
+    if dividendo == 0:
         return 0
     else:
-        dividendo = (len(metaReferenceText) + len(metaCandidateText) - intersection)
-        if dividendo == 0:
-            return 0
-        else:
-            return (intersection / dividendo)*100
+        return (intersection / dividendo)*100
 
 
 def loadDocsFromDb(cantidad):
@@ -228,9 +229,14 @@ def compareCandidateText(documents, candidateDocument):
             actualReferenceParragraph = actualDoc.paragraphs[j]
             for k in range(len(candidateDocument.paragraphs)):
                 actualCandidateParragraph = candidateDocument.paragraphs[k]
-                score = JaccardScore( actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
-                ##print(score)
-                plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
+
+                if not CONFIG["QUESTIONS_PUNCTUATION"]:
+                    if (not docs.isQuestion(actualReferenceParragraph.text)) and (not docs.isQuestion(actualCandidateParragraph.text)):
+                        score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                        plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
+                else:
+                    score = JaccardScore( actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                    plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
 
 def showPlagiarismParameters():
     for i in range(len(plagiarismRegisters)):
@@ -245,60 +251,15 @@ def showPlagiarismParameters():
             log.info(actual.parragraphTextCandidate)
 
 
-def compareCandidateTextThread(i, documents, candidateDocument):
-
-        actualDoc = documents[i]
-        for j in range(len(actualDoc.paragraphs)):
-            actualReferenceParragraph = actualDoc.paragraphs[j]
-            for k in range(len(candidateDocument.paragraphs)):
-                actualCandidateParragraph = candidateDocument.paragraphs[k]
-                score = JaccardScore(actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
-                print("JACCARD: " + str(score))
-                registersSem.acquire()
-                plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
-                registersSem.release()
-
-threads = []
-
-def compareCandidateWithThreads(documents):
-    for threadNum in range(len(documents)):
-        thread = threading.Thread(target = compareCandidateTextThread,args = (threadNum,))
-        thread.start()
-        threads.append(thread)
-        if(threadNum == (len(documents)-1)):
-            for i in range(len(threads)):
-                threads[i].join()
-
 def synonims(word):
     '''data = str(urllib.request.urlopen('https://educalingo.com/en/dic-es/{}'.format(word)).read())
     final_results = re.findall('\w+', [i.text for i in soup(data, 'lxml').find_all('div', {"class": 'contenido_sinonimos_antonimos'})][0])'''
     return []
 
-registersSemaphore = 1
-registersSem = threading.Semaphore(registersSemaphore)
+
 plagiarismRegisters = []
 preProcessorBuilder = PreProcessorBuilder()
 preProcessor = preProcessorBuilder.build()
 
 
 
-
-'''
-
-oracion1="the the the the the the the"
-oracion2="the cat is on the mat"
-
-
-sTok1 = tokenizer.ejecutar(oracion1)
-sTok2 = tokenizer.ejecutar(oracion2)
-
-
-
-for x in preProcessor.preProcesar(ejemplo):
-    print(x.text + "-" + x.pos)
-
-
-print("----------------------------")
-
-print(JaccardScore(ejemplo, ejemplo))
-'''

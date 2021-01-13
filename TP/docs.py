@@ -141,19 +141,16 @@ def citations(string):
 def hasCitations(string):
     return len(citations(string)) > 0
 
-def containsQuestionMark(string):
-    return ("?" in string) or ("¿" in string)
+def isQuestion(string):
 
-##print([x for x in Doc.newDoc("C:/dataset-nlp-plagio-utn/Economía de experiencia (1).pdf").paragraphs[14].sentences])
+    pattern = r'(0|1|2|3|4|5|6|7|8|9)+\)'
+    results = re.finditer(pattern, string)
+    questionNum = [string[match.start(): match.end()] for match in results]
 
-##doc = nlpSpanish("Juan estaba sentado en la puerta de su casa, cuando escucho un fuerte llanto.")
-##for token in doc:
-  ##  print(token.text, token.pos_)
+    return ("?" in string) or ("¿" in string) or (len(questionNum) > 0)
+
+
 
 
 ejemploCita = "La primer cita es (Anónimo, n.d.), la segunda es (Qianyi Gu & Sumner, 2006). También hay que tener en cuenta a (Sabbagh, 2009) y a (\"Barcelona to Ban Burqa\", 2010). [5] y [500] tambien son muy importantes."
 
-##print([x for x in citations(ejemploCita)])
-##print(ls(CONFIG["DOCS_DB"]))
-##print(readDoc(CONFIG["DOCS_DB"] + "/" + "TP 1 Wikinomics (1).doc"))
-##print(readDoc(CONFIG["DOCS_DB"] + "/" + "TP 0 Gabriela Gonzalez MKTG y NV Economía.doc"))
