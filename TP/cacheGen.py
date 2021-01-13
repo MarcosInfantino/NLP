@@ -21,8 +21,12 @@ def objectFromFile(path):
 def readDatasetFromCache():
     files = docs.ls("cache_dataset/")
     docList = []
+    if(CONFIG["CANTIDAD_DOCS_DATASET"]>0):
+        cantidad = CONFIG["CANTIDAD_DOCS_DATASET"]
+    else: cantidad = len(files)
+
     for i in range(len(files)):
-        if i < CONFIG["CANTIDAD_DOCS_DATASET"]:
+        if i < cantidad:
             docList.append(objectFromFile("cache_dataset/" + files[i]))
     return docList
 

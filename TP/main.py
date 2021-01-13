@@ -7,7 +7,5 @@ ejemplo = "La detección de plagios en los trabajos entregados por los alumnos e
 
 candidateDocument = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/Trabajo Práctico 1 - Hernan Dalle Nogare.docx")
 documents = cacheGen.readDatasetFromCache()
-##compareCandidateText(documents, candidateDocument)
-##showPlagiarismParameters()
-
-print("termine")
+mainFunctions.compareCandidateText(documents, candidateDocument)
+mainFunctions.showPlagiarismParameters()

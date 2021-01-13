@@ -73,14 +73,16 @@ def readFile(path):
     fType = fileType(path)
     if fType == "pdf":
         return readPdf(path)
-    elif  fType == "docx":
+
+    elif fType == "docx":
         return readDocX(path)
-        ##return ""
+
     elif fType == "doc":
-        ##return readDoc(path)
-        return ""
+        return readDoc(path)
+
     elif fType == "pptx":
         return readPpt(path)
+
     else:
         return ""
 
@@ -149,4 +151,4 @@ ejemploCita = "La primer cita es (Anónimo, n.d.), la segunda es (Qianyi Gu & Su
 ##print([x for x in citations(ejemploCita)])
 ##print(ls(CONFIG["DOCS_DB"]))
 ##print(readDoc(CONFIG["DOCS_DB"] + "/" + "TP 1 Wikinomics (1).doc"))
-##print(readDoc(CONFIG["DOCS_DB"]) + "/" + "Lopez Tomas - TP 6 - Sistemas Emergentes.doc")
+##print(readDoc(CONFIG["DOCS_DB"] + "/" + "TP 0 Gabriela Gonzalez MKTG y NV Economía.doc"))
