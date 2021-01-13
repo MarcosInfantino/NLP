@@ -10,6 +10,7 @@ from spacy.lang.es import Spanish
 import spacy
 import re
 from tika import parser
+import mainFunctions
 
 
 
@@ -97,6 +98,7 @@ class Parragraph:
         par = Parragraph()
         par.text = text
         par.sentences = text.split(".")
+        par.metadata = mainFunctions.preProcessor.preProcesar(text)
         return par
 
 
@@ -138,6 +140,9 @@ def citations(string):
 
 def hasCitations(string):
     return len(citations(string)) > 0
+
+def containsQuestionMark(string):
+    return ("?" in string) or ("¿" in string)
 
 ##print([x for x in Doc.newDoc("C:/dataset-nlp-plagio-utn/Economía de experiencia (1).pdf").paragraphs[14].sentences])
 

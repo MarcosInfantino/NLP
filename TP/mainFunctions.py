@@ -9,14 +9,21 @@ import urllib
 from bs4 import BeautifulSoup as soup
 import re
 
-logging.basicConfig(level = logging.INFO, filename = CONFIG["LOG_FILE"])
+##logging.basicConfig(level = logging.INFO, filename = CONFIG["LOG_FILE"])
+root_logger= logging.getLogger()
+root_logger.setLevel(logging.INFO) # or whatever
+handler = logging.FileHandler('logs/log.log', 'w', 'utf-8') # or whatever
+
+
+
+
 
 stopwordsSpanish = stopwords.words('spanish')
 spanishStemmer = nl.stem.SnowballStemmer("spanish")
 
 class Log:
     def info(self, string):
-       print(string)
+       ##print(string)
        logging.info(string)
 
 log = Log()
@@ -151,11 +158,14 @@ class PosTaggedWord:
         return obj
 
 
+def JaccardScorePlainText(referenceText, candidateText):
+    return JaccardScore(candidateText, preProcessor.preProcesar(referenceText), preProcessor.preProcesar(candidateText))
 
-def JaccardScore(referenceText, candidateText):
-    
-    metaReferenceText = preProcessor.preProcesar(referenceText)
-    metaCandidateText = preProcessor.preProcesar(candidateText)
+
+def JaccardScore(candidateText, metaReferenceText, metaCandidateText):
+
+    ##metaReferenceText = preProcessor.preProcesar(referenceText)
+    ##metaCandidateText = preProcessor.preProcesar(candidateText)
 
     intersection = repeticionesNGramasClip(metaCandidateText,metaReferenceText)
 
@@ -218,7 +228,8 @@ def compareCandidateText(documents, candidateDocument):
             actualReferenceParragraph = actualDoc.paragraphs[j]
             for k in range(len(candidateDocument.paragraphs)):
                 actualCandidateParragraph = candidateDocument.paragraphs[k]
-                score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text)
+                score = JaccardScore( actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                ##print(score)
                 plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
 
 def showPlagiarismParameters():
@@ -241,7 +252,7 @@ def compareCandidateTextThread(i, documents, candidateDocument):
             actualReferenceParragraph = actualDoc.paragraphs[j]
             for k in range(len(candidateDocument.paragraphs)):
                 actualCandidateParragraph = candidateDocument.paragraphs[k]
-                score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text)
+                score = JaccardScore(actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
                 print("JACCARD: " + str(score))
                 registersSem.acquire()
                 plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
