@@ -9,7 +9,7 @@ import nltk as nl
 from spacy.lang.es import Spanish
 import spacy
 import re
-
+from tika import parser
 
 
 
@@ -50,11 +50,12 @@ def readDocX(filename):
     return '\n'.join(fullText)
 
 def readDoc(filename):
-    from bs4 import BeautifulSoup as bs
-    soup = bs(open(filename).read())
-    [s.extract() for s in soup(['style', 'script'])]
-    tmpText = soup.get_text()
-    text = "".join("".join(tmpText.split('\t')).split('\n')).encode('utf-8').strip()
+    file = filename
+    # Parse data from file
+    file_data = parser.from_file(file)
+    # Get files text content
+    text = file_data['content']
+
     return text
 
 def readPpt(archivo):
@@ -112,7 +113,7 @@ class Doc:
         spl = filePath.split("/")
         doc.name = spl[len(spl)-1]
         doc.text = readFile(filePath)
-        doc.paragraphs = [Parragraph.newParagraph(s) for s in doc.text.split("\n")]
+        doc.paragraphs = [Parragraph.newParagraph(s) for s in doc.text.split("\n") if len(s) > 0]
         return doc
 
 
@@ -146,5 +147,6 @@ def hasCitations(string):
 ejemploCita = "La primer cita es (Anónimo, n.d.), la segunda es (Qianyi Gu & Sumner, 2006). También hay que tener en cuenta a (Sabbagh, 2009) y a (\"Barcelona to Ban Burqa\", 2010). [5] y [500] tambien son muy importantes."
 
 ##print([x for x in citations(ejemploCita)])
-print(ls(CONFIG["DOCS_DB"]))
+##print(ls(CONFIG["DOCS_DB"]))
 ##print(readDoc(CONFIG["DOCS_DB"] + "/" + "TP 1 Wikinomics (1).doc"))
+##print(readDoc(CONFIG["DOCS_DB"]) + "/" + "Lopez Tomas - TP 6 - Sistemas Emergentes.doc")
