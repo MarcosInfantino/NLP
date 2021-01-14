@@ -120,6 +120,52 @@ class Doc:
         doc.paragraphs = [Parragraph.newParagraph(s) for s in doc.text.split("\n") if len(s) > 0]
         return doc
 
+    def generateParragraphMap(self):
+        map = {}
+        for parNum in range(len(self.paragraphs)):
+            map[parNum] = []
+        return map
+
+
+    def generalPlagiarism(self, paragraphMap):
+        total = 0
+
+        count = len(paragraphMap)
+
+        if CONFIG["QUESTIONS_PUNCTUATION"]:
+            dividendo = count
+        else:
+            dividendo =len([ par for par in self.paragraphs if not isQuestion(par.text)])
+
+        for i in range(count):
+            if len(paragraphMap[i]) > 0:
+                total += max(paragraphMap[i])
+
+        return total/dividendo
+
+    def getAuthors(self):
+        people = find_persons(self.name + "/n" + self.text)
+        if len(people) > 0:
+            string = people[0]
+            for p in people:
+                if p != people[0]:
+                    string = string + ", " + p
+        else:
+            string = "No se ha podido reconocer un autor."
+        return string
+
+    def getTopics(self):
+        topics = find_topic(self.name + "/n" + self.text)
+        if len(topics) > 0:
+            string = topics[0]
+            for t in topics:
+                if t != topics[0]:
+                    string = string + ", " + t
+        else:
+            string = "No se ha podida reconocer una temática."
+        return string
+
+
 
 def ls(ruta):
     return listdir(ruta)
@@ -166,6 +212,16 @@ def find_persons(text):
 
     # Return persons
     return persons
+
+def find_topic(text):
+    nlp = spacy.load("C:/respositorios_git/tp_nlp/TP/models/tematica")
+    doc2 = nlp(text)
+
+    # Identify the persons
+    topics = [ent.text for ent in doc2.ents if ent.label_ == 'TEMATICA']
+
+    # Return persons
+    return topics
 ##PROPN
 
 ejemploCita = "La primer cita es (Anónimo, n.d.), la segunda es (Qianyi Gu & Sumner, 2006). También hay que tener en cuenta a (Sabbagh, 2009) y a (\"Barcelona to Ban Burqa\", 2010). [5] y [500] tambien son muy importantes."

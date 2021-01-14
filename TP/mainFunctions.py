@@ -29,7 +29,7 @@ class Log:
        logging.info(string)
 
 log = Log()
-log.info("-------------------------------------------------------------------INICIA LA APLICACION-------------------------------------------------------------------")
+log.info("--------------------------------------------------------------INICIA LA APLICACION--------------------------------------------------------------")
 class Tokenizer:
     def ejecutar(self, string):
         sTok = [PosTaggedWord.newPosTaggedWord(x.pos_, x.text, x.text) for x in docs.nlpSpanish(string)]
@@ -96,20 +96,20 @@ class PreProcessorBuilder:
 
     def build(self):
         if CONFIG["STEMMING"]:
-            log.info("STEMMING ACTIVADO")
+            ##log.info("STEMMING ACTIVADO")
             self.varPreProcessor.preTokenizer = stemmer
             return self.varPreProcessor
         else:
             log.info("TOKENIZER ACTIVADO")
             self.varPreProcessor.preTokenizer = tokenizer
             if CONFIG["PUNCTUATION_REMOVAL"]:
-                log.info("PUNCTUATION REMOVAL ACTIVADO")
+                ##log.info("PUNCTUATION REMOVAL ACTIVADO")
                 self.varPreProcessor.preProcessors.append(punctuationRemover)
             if CONFIG["LOWER_CASE_CONVERTION"]:
-                log.info("LOWER CASE CONVERTION ACTIVADO")
+                ##log.info("LOWER CASE CONVERTION ACTIVADO")
                 self.varPreProcessor.preProcessors.append(lowerCaseConverter)
             if CONFIG["STOPWORD_REMOVAL"]:
-                log.info("STOPWORD REMOVAL ACTIVADO")
+                ##log.info("STOPWORD REMOVAL ACTIVADO")
                 self.varPreProcessor.preProcessors.append(stopWordsRemover)
             return self.varPreProcessor
 
@@ -222,7 +222,7 @@ class PlagiarismRegister:
 
 
 
-def compareCandidateText(documents, candidateDocument):
+def compareCandidateText(documents, candidateDocument, paragraphMap):
     for i in range(len(documents)):
         actualDoc = documents[i]
         for j in range(len(actualDoc.paragraphs)):
@@ -233,12 +233,20 @@ def compareCandidateText(documents, candidateDocument):
                 if not CONFIG["QUESTIONS_PUNCTUATION"]:
                     if (not docs.isQuestion(actualReferenceParragraph.text)) and (not docs.isQuestion(actualCandidateParragraph.text)):
                         score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                        paragraphMap[k].append(score)
                         plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
                 else:
                     score = JaccardScore( actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                    paragraphMap[k].append(score)
                     plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
 
-def showPlagiarismParameters():
+def showPlagiarismParameters(doc, paragraphMap):
+    log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
+    log.info("Archivo procesado: "+ doc.name)
+    log.info("Alumno/s: " + doc.getAuthors())
+    log.info("Tematica/s: " + doc.getTopics())
+    log.info("Porcentaje de plagio general: " + str(doc.generalPlagiarism(paragraphMap)) + "%")
+    log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
     for i in range(len(plagiarismRegisters)):
         actual = plagiarismRegisters[i]
         if actual.plagiarismScore > CONFIG["PORCENTAJE_PLAGIO_AVISO"]:
