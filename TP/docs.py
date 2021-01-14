@@ -150,7 +150,23 @@ def isQuestion(string):
     return ("?" in string) or ("¿" in string) or (len(questionNum) > 0)
 
 
+def obtainAuthor(string):
+    propNouns = [x for x in nlpSpanish(string) if x.pos_=="PROPN"]
+    nombre = propNouns[0].text + " " + propNouns[1].text
+    return nombre
 
+
+def find_persons(text):
+    # Create Doc object
+    nlp = spacy.load("C:/respositorios_git/tp_nlp/TP/models/alumno")
+    doc2 = nlp(text)
+
+    # Identify the persons
+    persons = [ent.text for ent in doc2.ents if ent.label_ == 'ALUMNO']
+
+    # Return persons
+    return persons
+##PROPN
 
 ejemploCita = "La primer cita es (Anónimo, n.d.), la segunda es (Qianyi Gu & Sumner, 2006). También hay que tener en cuenta a (Sabbagh, 2009) y a (\"Barcelona to Ban Burqa\", 2010). [5] y [500] tambien son muy importantes."
 
