@@ -47,3 +47,8 @@ def test_method6():##una copia parcial de una oracion penaliza la oracion, aunqu
     assert mainFunctions.JaccardScorePlainText(s1, s1PartialCopy) > 0 and \
            (mainFunctions.JaccardScorePlainText(s1, s1FullCopy) > mainFunctions.JaccardScorePlainText(s1, s1PartialCopy))
 
+
+def test_method7():
+    doc1 = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/Marketing - TP 0.docx")
+
+    assert mainFunctions.compareDocuments(doc1, doc1) > 99

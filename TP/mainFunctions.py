@@ -219,7 +219,32 @@ class PlagiarismRegister:
 
 
 
+def compareDocuments(referenceDocument, candidateDocument):
+    paragraphMap = candidateDocument.generateParragraphMap()
 
+    for i in range(len(referenceDocument.paragraphs)):
+        actualReferenceParragraph = referenceDocument.paragraphs[i]
+        for j in range(len(candidateDocument.paragraphs)):
+            actualCandidateParragraph = candidateDocument.paragraphs[j]
+
+            if not CONFIG["QUESTIONS_PUNCTUATION"]:
+                if (not docs.isQuestion(actualReferenceParragraph.text)) and (
+                not docs.isQuestion(actualCandidateParragraph.text)):
+                    score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text,
+                                         actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                    paragraphMap[j].append(score)
+                    plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(referenceDocument.name, score, j,
+                                                                                        actualReferenceParragraph.text,
+                                                                                        actualCandidateParragraph.text))
+            else:
+                score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text,
+                                     actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                paragraphMap[j].append(score)
+                plagiarismRegisters.append(
+                    PlagiarismRegister.newPlagiarismRegister(referenceDocument.name, score, j, actualReferenceParragraph.text,
+                                                             actualCandidateParragraph.text))
+
+    return candidateDocument.generalPlagiarism(paragraphMap)
 
 
 def compareCandidateText(documents, candidateDocument, paragraphMap):

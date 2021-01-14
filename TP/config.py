@@ -7,7 +7,7 @@ CONFIG = {
     "POS":True,
     "DOCS_DB": "C:/dataset-nlp-plagio-utn",
     "CANTIDAD_DOCS_DATASET": 0,
-    "CANDIDATE_DOC": "C:/Users/marco/OneDrive/Escritorio/carp aux/UTN TET 2020 - Infantino Marcos - TP3.pdf",
+    "CANDIDATE_DOC": "C:/dataset-nlp-plagio-utn/Trabajo Práctico 1 - Hernan Dalle Nogare.docx",
     "PORCENTAJE_PLAGIO_AVISO": 50,
     "QUESTIONS_PUNCTUATION": False
 }
