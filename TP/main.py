@@ -7,8 +7,6 @@ from config import CONFIG
 candidateDocument = docs.Doc.newDoc(CONFIG["CANDIDATE_DOC"])
 paragraphMap = candidateDocument.generateParragraphMap()
 documents = cacheGen.readDatasetFromCache()
-##print(mainFunctions.compareDocuments(candidateDocument, candidateDocument))
-##TODO: PROBAR FUNCION DE COMPARACION CON MI TP
 mainFunctions.compareCandidateText(documents, candidateDocument, paragraphMap)
 mainFunctions.showPlagiarismParameters(candidateDocument, paragraphMap)
 '''for doc in documents:

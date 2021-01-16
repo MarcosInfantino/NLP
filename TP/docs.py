@@ -118,6 +118,7 @@ class Doc:
         doc.name = spl[len(spl)-1]
         doc.text = readFile(filePath)
         doc.paragraphs = [Parragraph.newParagraph(s) for s in doc.text.split("\n") if len(s) > 0]
+        doc.paragraphs = [par for par in doc.paragraphs if len(par.metadata) > 0]
         return doc
 
     def generateParragraphMap(self):
@@ -189,7 +190,7 @@ def hasCitations(string):
 
 def isQuestion(string):
 
-    pattern = r'(0|1|2|3|4|5|6|7|8|9)+\)'
+    pattern = r'(0|1|2|3|4|5|6|7|8|9)+\)|(0|1|2|3|4|5|6|7|8|9)+-|(0|1|2|3|4|5|6|7|8|9)+\.'
     results = re.finditer(pattern, string)
     questionNum = [string[match.start(): match.end()] for match in results]
 

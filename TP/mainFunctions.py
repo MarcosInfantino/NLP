@@ -236,6 +236,10 @@ def compareDocuments(referenceDocument, candidateDocument):
                     plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(referenceDocument.name, score, j,
                                                                                         actualReferenceParragraph.text,
                                                                                         actualCandidateParragraph.text))
+                    '''if score < 100 and i == j:
+                        print("r -" + actualReferenceParragraph.text)
+                        print("c -" + actualCandidateParragraph.text)'''
+
             else:
                 score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text,
                                      actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
@@ -244,6 +248,9 @@ def compareDocuments(referenceDocument, candidateDocument):
                     PlagiarismRegister.newPlagiarismRegister(referenceDocument.name, score, j, actualReferenceParragraph.text,
                                                              actualCandidateParragraph.text))
 
+                '''if score < 100 and i == j:
+                    print ("r -" + actualReferenceParragraph.text)
+                    print ("c -" + actualCandidateParragraph.text)'''
     return candidateDocument.generalPlagiarism(paragraphMap)
 
 

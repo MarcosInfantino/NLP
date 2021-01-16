@@ -7,7 +7,7 @@ CONFIG = {
     "POS":True,
     "DOCS_DB": "C:/dataset-nlp-plagio-utn",
     "CANTIDAD_DOCS_DATASET": 0,
-    "CANDIDATE_DOC": "C:/dataset-nlp-plagio-utn/Trabajo Práctico 1 - Hernan Dalle Nogare.docx",
+    "CANDIDATE_DOC": "C:/dataset-nlp-plagio-utn/MKTG_TP0  - Definiciones Economia.pdf",
     "PORCENTAJE_PLAGIO_AVISO": 50,
     "QUESTIONS_PUNCTUATION": False
 }
