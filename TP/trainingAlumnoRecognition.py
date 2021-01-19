@@ -50,6 +50,33 @@ docAlumno = [
     ("TP3 - Ignacio Penacino - Marketing (1).docx", "Penacino Ignacio"),
     ##("TP4-Gariglio.docx", "Gariglio"),
     ("TpN6 Hernan.doc", "Hernán Suzuki Son"),
+    ("TP04 - TP Prince Difusión y adopción TIC.doc", "Spadafora, Franco Luciano"),
+    ("TP4 - Adopcion TIC - Joel Melamed.docx", "Joel Melamed"),
+    ("TP4 - Adopcion.docx", ""),
+    ("TP4 - Comercio Electronico - Marina Pross.docx", "Marina Pross"),
+    ("TP4 - Comercio electronico.doc", "Lorena Gonzalez"),
+    ("TP4 - Comercio electronico.docx", ""),
+    ("TP4 - Difusión y adopción - Parte I y II - Santiago Peralta (1).doc", "Santiago Peralta"),
+    ("TP4 - Difusión y adopción TIC - Ramirez Fernando 2017.pdf", "Ramirez Fernando"),
+    ("TP4 - ecommerce.docx", ""),
+    ("TP4 (1).pdf", "Agustín Ezequiel Brandoni"),
+    ("TP4 Adopcion.docx", "Brian Daniel Leder"),
+    ("Tp4 Filannino marketing en internet.docx", "Hernán Filannino"),
+    ("TP4.pdf", "Ignacio Javier Fernández Soto"),
+    ("TP4-Gariglio.docx", "Gariglio"),
+    ("TP5 - La sociedad de MG Cero - Rifkin - Santiago Peralta.docx", "Santiago Peralta"),
+    ("TP5 - La sociedad del costo marginal 0.docx", "Santiago Peralta"),
+    ("TP5 - Machine, Platform, Cloud - Marina Pross.docx", "Marina Pross"),
+    ("TP5 - Plataformas.docx", ""),
+    ("TP5 - Rifkin.docx", "Brian Daniel Leder"),
+    ("TP5-Franco Zanette.docx.docx", "Franco Zanette "),
+    ("TP6  - Sistemas emergentes - Joel Melamed.docx", "Joel Melamed"),
+    ("TP6 - Sistemas emergentes - Hernan Noriega.docx", "Hernan Noriega"),
+    ("TP6 Johnson Sistemas emergentes.doc", "Hernan Noriega"),
+    ("TP6.docx", "Agustín Ezequiel Brandoni"),
+    ("TP7 Dominio de la informacion - Juan Facundo Obregon.pdf", "Juan Facundo Obregon"),
+    ("Trabajo Práctico 2 - Hernan Dalle Nogare.docx", "Hernan Dalle Nogare"),
+
     ##("UTN Mktg 2016 - Modugno - TP1.pdf", "Agustín Modugno"),
    ## ("", ""),
 
@@ -80,6 +107,7 @@ def generarTrainingData():
         nombreDoc = x[0]
         nombreAlumno = x[1].lower()
         docText = nombreDoc + '/n' + docs.Doc.newDoc(pathBase + nombreDoc).text.lower()
+        ##docText = docs.Doc.newDoc(pathBase + nombreDoc).text.lower()
         tuplaInicioFin = tuplaInicioFinSubString(docText, nombreAlumno)
         print(tuplaInicioFin)
         sub0 = tuplaInicioFin[0]
@@ -121,7 +149,7 @@ ner.add_label("ALUMNO")
 
 nlp.begin_training()
 
-for i in range(400):
+for i in range(700):
     random.shuffle(TRAINING_DATA)
     for batch in spacy.util.minibatch(TRAINING_DATA):
         print(i)
