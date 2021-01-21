@@ -7,10 +7,6 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 import docs
 import web_scrapper
-import threading
-import urllib
-from bs4 import BeautifulSoup as soup
-import re
 import time
 from random import seed
 from random import gauss
@@ -101,40 +97,22 @@ class PreProcessorBuilder:
 
     def build(self):
         if CONFIG["STEMMING"]:
-            ##log.info("STEMMING ACTIVADO")
+
             self.varPreProcessor.preTokenizer = stemmer
             return self.varPreProcessor
         else:
             log.info("TOKENIZER ACTIVADO")
             self.varPreProcessor.preTokenizer = tokenizer
             if CONFIG["PUNCTUATION_REMOVAL"]:
-                ##log.info("PUNCTUATION REMOVAL ACTIVADO")
+
                 self.varPreProcessor.preProcessors.append(punctuationRemover)
             if CONFIG["LOWER_CASE_CONVERTION"]:
-                ##log.info("LOWER CASE CONVERTION ACTIVADO")
+
                 self.varPreProcessor.preProcessors.append(lowerCaseConverter)
             if CONFIG["STOPWORD_REMOVAL"]:
-                ##log.info("STOPWORD REMOVAL ACTIVADO")
+
                 self.varPreProcessor.preProcessors.append(stopWordsRemover)
             return self.varPreProcessor
-
-
-
-def containsPosWord(stringTok, posWord):
-    for x in stringTok:
-        if x.pos == posWord.pos and x.text == posWord.text:
-            return True
-        '''if x.pos == posWord.pos :
-            if CONFIG["POS"] and x.text == posWord.text:
-                return True
-            else:
-                return True'''
-    return False
-
-
-def repeticionesNGramas(stringTok1, stringTok2): ##cuantos ngramas del string 1 estan en el string 2
-    return len( [x for x in filter (lambda x: containsPosWord(stringTok2, x), stringTok1 )])
-
 
 def containsToken(stringTok, tok):
     for x in stringTok:
@@ -148,28 +126,17 @@ def removeToken(stringTok, tok):
             stringTok.remove(x)
 
 
-def repeticionesNGramasClip(stringTok1, stringTok2):
+def intersectionStringTok(stringTok1, stringTok2):
 
     stringTok2Copy = copy.copy(stringTok2)
+    list = []
 
-    count = 0
     for tok in stringTok1:
         if containsToken(stringTok2Copy, tok):
-            count = count + 1
+            list.append(tok)
             removeToken(stringTok2Copy, tok)
 
-    return count
-
-
-    ##return min([repeticionesNGramas(stringTok1, stringTok2), repeticionesNGramas(stringTok2, stringTok1)])
-
-class NGramas:
-    @staticmethod
-    def puntaje(sReferencia, sCandidata):
-        R = repeticionesNGramasClip(sReferencia, sCandidata) / len(sReferencia)
-        P = repeticionesNGramasClip(sReferencia, sCandidata) / len(sCandidata)
-        score = (2* R * P) / (R + P)
-        return score
+    return list
 
 
 
@@ -214,19 +181,19 @@ def JaccardScore(referenceText, candidateText, metaReferenceText, metaCandidateT
         return 0
 
 
-    intersection = repeticionesNGramasClip(metaCandidateText,metaReferenceText)
+    intersection = len(intersectionStringTok(metaCandidateText, metaReferenceText))
 
-    ##print("interseccion " + str(intersection))
-    union = unionStringTok(metaReferenceText,metaCandidateText)
 
-    ##dividendo = (len(metaReferenceText) + len(metaCandidateText) - intersection)
-    dividendo = len(union)
+    union = len(unionStringTok(metaReferenceText, metaCandidateText))
 
-    ##print("union " + str(dividendo))
-    if dividendo == 0:
+
+
+
+
+    if union == 0:
         return 0
     else:
-        return (intersection / dividendo)*100
+        return (intersection / union)*100
 
 
 def loadDocsFromDb(cantidad):

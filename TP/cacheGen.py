@@ -6,8 +6,6 @@ from config import CONFIG
 def createCacheFromDataset():
     documents = mainFunctions.loadDocsFromDb(CONFIG["CANTIDAD_DOCS_DATASET"])
     for doc in documents:
-
-        ##doc_name = doc.name.split(".")[0]
         doc_name = doc.name
         print("Guardando en caché: " + doc_name)
         doc_file = open("cache_dataset/" + doc_name + ".cache", 'wb')

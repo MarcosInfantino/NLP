@@ -4,9 +4,6 @@ import PyPDF2
 import docx
 import pdfplumber
 from pptx import Presentation
-import nltk.tag.stanford
-import nltk as nl
-from spacy.lang.es import Spanish
 import spacy
 import re
 from tika import parser
@@ -52,9 +49,7 @@ def readDocX(filename):
 
 def readDoc(filename):
     file = filename
-    # Parse data from file
     file_data = parser.from_file(file)
-    # Get files text content
     text = file_data['content']
 
     return text
@@ -141,7 +136,7 @@ class Doc:
         for i in range(count):
             if len(paragraphMap[i]) > 0:
                 total += max(paragraphMap[i])
-                print("max" + str(max(paragraphMap[i])))
+
 
         return total/dividendo
 
@@ -205,26 +200,18 @@ def obtainAuthor(string):
 
 
 def find_persons(text):
-    # Create Doc object
+
     nlp = spacy.load("C:/respositorios_git/tp_nlp/TP/models/alumno")
     doc2 = nlp(text)
 
-    # Identify the persons
     persons = [ent.text for ent in doc2.ents if ent.label_ == 'ALUMNO']
-
-    # Return persons
     return persons
 
 def find_topic(text):
     nlp = spacy.load("C:/respositorios_git/tp_nlp/TP/models/tematica")
     doc2 = nlp(text)
-
-    # Identify the persons
     topics = [ent.text for ent in doc2.ents if ent.label_ == 'TEMATICA']
 
-    # Return persons
     return topics
-##PROPN
 
-ejemploCita = "La primer cita es (Anónimo, n.d.), la segunda es (Qianyi Gu & Sumner, 2006). También hay que tener en cuenta a (Sabbagh, 2009) y a (\"Barcelona to Ban Burqa\", 2010). [5] y [500] tambien son muy importantes."
 
