@@ -4,11 +4,14 @@ from config import CONFIG
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 import docs
+import web_scrapper
 import threading
 import urllib
 from bs4 import BeautifulSoup as soup
 import re
-
+import time
+from random import seed
+from random import gauss
 
 root_logger= logging.getLogger()
 root_logger.setLevel(logging.INFO) # or whatever
@@ -289,6 +292,61 @@ def showPlagiarismParameters(doc, paragraphMap):
             log.info(actual.parragraphTextReference)
             log.info("Candidato:")
             log.info(actual.parragraphTextCandidate)
+
+def obtainTextFragments(text):
+    fragmentList = []
+    count = 0
+    actualString = ""
+    for i in range(len(text)):
+        char = text[i]
+        count = count + 1
+        actualString = actualString + char
+        if count == 140 or i == len(text) - 1 :
+            newString = actualString
+            fragmentList.append(newString)
+            actualString = ""
+            count = 0
+
+    return fragmentList
+
+class FragmentAndSearchResults:
+    fragment = ""
+    searchResults = []
+
+class InternetPlagiarismResult:
+    score = 0
+    results = []
+
+def randomNumber():
+    seed(1)
+    return gauss(0, 1.5)
+
+def internetPlagiarismSearch(document):
+    internetPlagiarismResult = InternetPlagiarismResult()
+    fragments = obtainTextFragments(document.text)
+    results = []
+    foundFragments = 0
+    for f in fragments:
+        busqueda = "\"" + f + "\""
+
+        search_results = web_scrapper.scrap(busqueda, 10, "es")
+        if len(search_results) > 0:
+            foundFragments = foundFragments + 1
+
+        for tuple in search_results:
+            results.append(tuple)
+
+        fragmentAndSearchResults = FragmentAndSearchResults()
+        fragmentAndSearchResults.fragment = f
+        fragmentAndSearchResults.searchResults = search_results
+        internetPlagiarismResult.results.append(fragmentAndSearchResults)
+        time.sleep(randomNumber())
+
+    score = foundFragments / len(fragments)
+    internetPlagiarismResult.score = score
+
+    return internetPlagiarismResult
+
 
 
 def synonims(word):
