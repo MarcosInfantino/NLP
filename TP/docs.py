@@ -141,6 +141,7 @@ class Doc:
         for i in range(count):
             if len(paragraphMap[i]) > 0:
                 total += max(paragraphMap[i])
+                print("max" + str(max(paragraphMap[i])))
 
         return total/dividendo
 
