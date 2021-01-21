@@ -1,3 +1,5 @@
+import copy
+
 import nltk as nl
 import logging
 from config import CONFIG
@@ -133,6 +135,19 @@ def containsPosWord(stringTok, posWord):
 def repeticionesNGramas(stringTok1, stringTok2): ##cuantos ngramas del string 1 estan en el string 2
     return len( [x for x in filter (lambda x: containsPosWord(stringTok2, x), stringTok1 )])
 
+
+def containsToken(stringTok, tok):
+    for x in stringTok:
+        if x.pos == tok.pos and x.text == tok.text:
+            return True
+    return False
+
+def removeToken(stringTok, tok):
+    for x in stringTok:
+        if x.pos == tok.pos and x.text == tok.text:
+            stringTok.remove(x)
+
+
 def repeticionesNGramasClip(stringTok1, stringTok2):
     return min([repeticionesNGramas(stringTok1, stringTok2), repeticionesNGramas(stringTok2, stringTok1)])
 
@@ -163,11 +178,11 @@ class PosTaggedWord:
         return obj
 
 
-def JaccardScorePlainText(referenceText, candidateText):
-    return JaccardScore(referenceText, candidateText, preProcessor.preProcesar(referenceText), preProcessor.preProcesar(candidateText))
+def PlagiarismScorePlainText(referenceText, candidateText):
+    return PlagiarismScore(referenceText, candidateText, preProcessor.preProcesar(referenceText), preProcessor.preProcesar(candidateText))
 
 
-def JaccardScore(referenceText, candidateText, metaReferenceText, metaCandidateText):
+def PlagiarismScore(referenceText, candidateText, metaReferenceText, metaCandidateText):
 
     if docs.hasCitations(candidateText):
         return 0
@@ -233,8 +248,8 @@ def compareDocuments(referenceDocument, candidateDocument):
             if not CONFIG["QUESTIONS_PUNCTUATION"]:
                 if (not docs.isQuestion(actualReferenceParragraph.text)) and (
                 not docs.isQuestion(actualCandidateParragraph.text)):
-                    score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text,
-                                         actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                    score = PlagiarismScore(actualReferenceParragraph.text, actualCandidateParragraph.text,
+                                            actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
                     paragraphMap[j].append(score)
                     plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(referenceDocument.name, score, j,
                                                                                         actualReferenceParragraph.text,
@@ -244,8 +259,8 @@ def compareDocuments(referenceDocument, candidateDocument):
                         print("c -" + actualCandidateParragraph.text)'''
 
             else:
-                score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text,
-                                     actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                score = PlagiarismScore(actualReferenceParragraph.text, actualCandidateParragraph.text,
+                                        actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
                 paragraphMap[j].append(score)
                 plagiarismRegisters.append(
                     PlagiarismRegister.newPlagiarismRegister(referenceDocument.name, score, j, actualReferenceParragraph.text,
@@ -267,11 +282,11 @@ def compareCandidateText(documents, candidateDocument, paragraphMap):
 
                 if not CONFIG["QUESTIONS_PUNCTUATION"]:
                     if (not docs.isQuestion(actualReferenceParragraph.text)) and (not docs.isQuestion(actualCandidateParragraph.text)):
-                        score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                        score = PlagiarismScore(actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
                         paragraphMap[k].append(score)
                         plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
                 else:
-                    score = JaccardScore( actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
+                    score = PlagiarismScore(actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
                     paragraphMap[k].append(score)
                     plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
 
