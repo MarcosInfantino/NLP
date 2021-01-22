@@ -6,7 +6,9 @@ CONFIG = {
     "STEMMING":True,
     "DOCS_DB": "C:/dataset-nlp-plagio-utn",
     "CANTIDAD_DOCS_DATASET": 0,
-    "CANDIDATE_DOC": "C:/Users/marco/OneDrive/Escritorio/carp aux/UTN TET 2020 - Infantino Marcos - TP3.pdf",
+    "CANDIDATE_DOC": "C:/dataset-nlp-plagio-utn/Lopez Tomas - TP 6 - Sistemas Emergentes.doc",
     "PORCENTAJE_PLAGIO_AVISO": 50,
-    "QUESTIONS_PUNCTUATION": False
+    "QUESTIONS_PUNCTUATION": False,
+    "WEB_SCRAPPING": False,
+    "BUSCADOR_WEB_SCRAPPING": "BING"
 }

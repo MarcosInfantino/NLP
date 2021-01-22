@@ -180,15 +180,10 @@ def JaccardScore(referenceText, candidateText, metaReferenceText, metaCandidateT
     if docs.hasCitations(candidateText):
         return 0
 
-
     intersection = len(intersectionStringTok(metaCandidateText, metaReferenceText))
 
 
     union = len(unionStringTok(metaReferenceText, metaCandidateText))
-
-
-
-
 
     if union == 0:
         return 0
@@ -280,8 +275,9 @@ def compareCandidateText(documents, candidateDocument, paragraphMap):
                     score = JaccardScore( actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
                     paragraphMap[k].append(score)
                     plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
+        print("PORCENTAJE DEL ANÁLISIS CON LOS DOCUMENTOS DEL DATASET COMPLETADO: " + str((i/len(documents))*100) + "%")
 
-def showPlagiarismParameters(doc, paragraphMap):
+def showPlagiarismParameters(doc, paragraphMap, threadInternetSearch):
     log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
     log.info("Archivo procesado: "+ doc.name)
     log.info("Alumno/s: " + doc.getAuthors())
@@ -299,15 +295,35 @@ def showPlagiarismParameters(doc, paragraphMap):
             log.info("Candidato:")
             log.info(actual.parragraphTextCandidate)
 
+    if CONFIG["WEB_SCRAPPING"]:
+        log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
+        print("Esperando a que se terminen de recoletar los datos de la web...")
+        threadInternetSearch.join()
+        log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
+        log.info("RESULTADOS DE BÚSQUEDA EN LA WEB")
+        log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
+        log.info("Puntaje de plagio en la web :" + str(internetPlagiarismResult.score))
+        log.info("Fragementos encontrados en la web")
+        for fragmentAndResults in internetPlagiarismResult.results:
+            if len(fragmentAndResults.searchResults) > 0:
+                log.info("Fragmento: " )
+                log.info(fragmentAndResults.fragment)
+                log.info("Resultados: ")
+                for r in fragmentAndResults.searchResults:
+                    log.info(r[1])
+
+
 def obtainTextFragments(text):
     fragmentList = []
     count = 0
     actualString = ""
     for i in range(len(text)):
         char = text[i]
-        count = count + 1
-        actualString = actualString + char
-        if count == 140 or i == len(text) - 1 :
+        if char != '\"' and char != '\n':
+            count = count + 1
+            actualString = actualString + char
+
+        if count == 100 or i == len(text) - 1 :
             newString = actualString
             fragmentList.append(newString)
             actualString = ""
@@ -327,15 +343,17 @@ def randomNumber():
     seed(1)
     return gauss(0, 1.5)
 
+internetPlagiarismResult = InternetPlagiarismResult()
+
 def internetPlagiarismSearch(document):
-    internetPlagiarismResult = InternetPlagiarismResult()
     fragments = obtainTextFragments(document.text)
     results = []
     foundFragments = 0
+    count = 0
     for f in fragments:
         busqueda = "\"" + f + "\""
 
-        search_results = web_scrapper.scrap(busqueda, 10, "es")
+        search_results = web_scrapper.scrap(busqueda)
         if len(search_results) > 0:
             foundFragments = foundFragments + 1
 
@@ -346,12 +364,14 @@ def internetPlagiarismSearch(document):
         fragmentAndSearchResults.fragment = f
         fragmentAndSearchResults.searchResults = search_results
         internetPlagiarismResult.results.append(fragmentAndSearchResults)
-        time.sleep(randomNumber())
+        time.sleep(2)
+        count = count + 1
+        ##print("Porcentaje busqueda: " + str((count / len(fragments))*100))
 
     score = foundFragments / len(fragments)
     internetPlagiarismResult.score = score
 
-    return internetPlagiarismResult
+
 
 
 
