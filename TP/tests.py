@@ -15,7 +15,7 @@ def test_method2():##Dos textos completamente diferentes dan una similitud menor
 def test_method3():##Una cita sin referencia correspondiente penaliza el score final
     s1 = "Rodrigo estaba paseando a su perro, cuando de repente vio un cerdo volar."
     s1CopyWithCitation = "Rodrigo estaba paseando a su perro (Sentence1, 2021)."
-    s1CopyWithoutCitation = "Rodrigo estaba paseqando a su perro."
+    s1CopyWithoutCitation = "Rodrigo estaba paseando a su perro."
 
     assert mainFunctions.JaccardScorePlainText(s1, s1CopyWithoutCitation) > mainFunctions.JaccardScorePlainText(s1, s1CopyWithCitation)
 
