@@ -1,1536 +1,314 @@
-2021-01-22 19:12:30,224 --------------------------------------------------------------INICIA LA APLICACION--------------------------------------------------------------
-2021-01-22 19:12:34,670 Failed to see startup log message; retrying...
-2021-01-22 19:13:13,647 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,647 Archivo procesado: Lopez Tomas - TP 6 - Sistemas Emergentes.doc
-2021-01-22 19:13:13,794 Alumno/s: LÓPEZ, Tomas
-2021-01-22 19:13:13,886 Tematica/s: Sistemas Emergentes
-2021-01-22 19:13:13,894 Porcentaje de plagio general: 100.0%
-2021-01-22 19:13:13,894 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,895 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,895 Se ha detectado plagio con el documento Economía de experiencia (1).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,895 Fragmento plagiado
-2021-01-22 19:13:13,895 Referencia:
-2021-01-22 19:13:13,895 Respuestas: 
-2021-01-22 19:13:13,895 Candidato:
-2021-01-22 19:13:13,895 Respuestas:
-2021-01-22 19:13:13,895 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,895 Se ha detectado plagio con el documento K5071 - Matias David Choren - TP N6 Sistemas Emergentes (1).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,896 Fragmento plagiado
-2021-01-22 19:13:13,896 Referencia:
-2021-01-22 19:13:13,896 RESPUESTAS 
-2021-01-22 19:13:13,896 Candidato:
-2021-01-22 19:13:13,896 Respuestas:
-2021-01-22 19:13:13,896 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,896 Se ha detectado plagio con el documento K5071 - Matias David Choren - TP N6 Sistemas Emergentes.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,896 Fragmento plagiado
-2021-01-22 19:13:13,896 Referencia:
-2021-01-22 19:13:13,896 RESPUESTAS 
-2021-01-22 19:13:13,896 Candidato:
-2021-01-22 19:13:13,896 Respuestas:
-2021-01-22 19:13:13,897 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,897 Se ha detectado plagio con el documento K5071 - Matias David Choren - TP N°5 Rifkin (1).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,897 Fragmento plagiado
-2021-01-22 19:13:13,897 Referencia:
-2021-01-22 19:13:13,897 RESPUESTAS 
-2021-01-22 19:13:13,897 Candidato:
-2021-01-22 19:13:13,897 Respuestas:
-2021-01-22 19:13:13,897 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,897 Se ha detectado plagio con el documento K5071 - Matias David Choren - TP N°5 Rifkin.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,897 Fragmento plagiado
-2021-01-22 19:13:13,897 Referencia:
-2021-01-22 19:13:13,897 RESPUESTAS 
-2021-01-22 19:13:13,897 Candidato:
-2021-01-22 19:13:13,898 Respuestas:
-2021-01-22 19:13:13,898 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,898 Se ha detectado plagio con el documento K5071 - Matias David Choren - TP3 - Experience Economy.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,898 Fragmento plagiado
-2021-01-22 19:13:13,898 Referencia:
-2021-01-22 19:13:13,898 RESPUESTAS 
-2021-01-22 19:13:13,898 Candidato:
-2021-01-22 19:13:13,898 Respuestas:
-2021-01-22 19:13:13,899 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,899 Se ha detectado plagio con el documento K5071.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,899 Fragmento plagiado
-2021-01-22 19:13:13,899 Referencia:
-2021-01-22 19:13:13,899 RESPUESTAS 
-2021-01-22 19:13:13,899 Candidato:
-2021-01-22 19:13:13,899 Respuestas:
-2021-01-22 19:13:13,899 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,899 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,899 Fragmento plagiado
-2021-01-22 19:13:13,899 Referencia:
-2021-01-22 19:13:13,899 Marketing en Internet y 
-2021-01-22 19:13:13,899 Candidato:
-2021-01-22 19:13:13,900 Marketing en Internet y 
-2021-01-22 19:13:13,900 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,900 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 1. Puntaje del 100.0%.
-2021-01-22 19:13:13,900 Fragmento plagiado
-2021-01-22 19:13:13,900 Referencia:
-2021-01-22 19:13:13,900 Nueva Economía
-2021-01-22 19:13:13,900 Candidato:
-2021-01-22 19:13:13,900 Nueva Economía
-2021-01-22 19:13:13,900 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,900 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 2. Puntaje del 100.0%.
-2021-01-22 19:13:13,900 Fragmento plagiado
-2021-01-22 19:13:13,900 Referencia:
-2021-01-22 19:13:13,900 Trabajo Práctico N°6: Sistemas Emergentes
-2021-01-22 19:13:13,900 Candidato:
-2021-01-22 19:13:13,900 Trabajo Práctico N°6: Sistemas Emergentes
-2021-01-22 19:13:13,900 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,900 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 3. Puntaje del 100.0%.
-2021-01-22 19:13:13,900 Fragmento plagiado
-2021-01-22 19:13:13,900 Referencia:
-2021-01-22 19:13:13,900 Integrantes
-2021-01-22 19:13:13,900 Candidato:
-2021-01-22 19:13:13,900 Integrantes
-2021-01-22 19:13:13,910 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,910 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 4. Puntaje del 100.0%.
-2021-01-22 19:13:13,910 Fragmento plagiado
-2021-01-22 19:13:13,910 Referencia:
-2021-01-22 19:13:13,910 	Legajo
-2021-01-22 19:13:13,910 Candidato:
-2021-01-22 19:13:13,910 	Legajo
-2021-01-22 19:13:13,910 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,910 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 5. Puntaje del 100.0%.
-2021-01-22 19:13:13,910 Fragmento plagiado
-2021-01-22 19:13:13,910 Referencia:
-2021-01-22 19:13:13,910 	Nombre
-2021-01-22 19:13:13,910 Candidato:
-2021-01-22 19:13:13,910 	Nombre
-2021-01-22 19:13:13,910 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,910 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 6. Puntaje del 100.0%.
-2021-01-22 19:13:13,910 Fragmento plagiado
-2021-01-22 19:13:13,910 Referencia:
-2021-01-22 19:13:13,910 	E-Mail
-2021-01-22 19:13:13,910 Candidato:
-2021-01-22 19:13:13,911 	E-Mail
-2021-01-22 19:13:13,911 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,911 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 8. Puntaje del 100.0%.
-2021-01-22 19:13:13,911 Fragmento plagiado
-2021-01-22 19:13:13,911 Referencia:
-2021-01-22 19:13:13,911 	LÓPEZ, Tomas
-2021-01-22 19:13:13,911 Candidato:
-2021-01-22 19:13:13,911 	LÓPEZ, Tomas
-2021-01-22 19:13:13,911 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,911 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 9. Puntaje del 100.0%.
-2021-01-22 19:13:13,911 Fragmento plagiado
-2021-01-22 19:13:13,911 Referencia:
-2021-01-22 19:13:13,911 	Tom.lopez01@gmail.com
-2021-01-22 19:13:13,911 Candidato:
-2021-01-22 19:13:13,911 	Tom.lopez01@gmail.com
-2021-01-22 19:13:13,911 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,911 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,911 Fragmento plagiado
-2021-01-22 19:13:13,911 Referencia:
-2021-01-22 19:13:13,911 Preguntas:
-2021-01-22 19:13:13,911 Candidato:
-2021-01-22 19:13:13,912 Preguntas:
-2021-01-22 19:13:13,912 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,912 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,912 Fragmento plagiado
-2021-01-22 19:13:13,912 Referencia:
-2021-01-22 19:13:13,912 Respuestas:
-2021-01-22 19:13:13,912 Candidato:
-2021-01-22 19:13:13,912 Respuestas:
-2021-01-22 19:13:13,912 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,912 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 18. Puntaje del 100.0%.
-2021-01-22 19:13:13,912 Fragmento plagiado
-2021-01-22 19:13:13,912 Referencia:
-2021-01-22 19:13:13,912 a. Interacción de vecinos.
-2021-01-22 19:13:13,912 Candidato:
-2021-01-22 19:13:13,912 a. Interacción de vecinos.
-2021-01-22 19:13:13,912 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,912 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 19. Puntaje del 100.0%.
-2021-01-22 19:13:13,912 Fragmento plagiado
-2021-01-22 19:13:13,912 Referencia:
-2021-01-22 19:13:13,912 b. Reconocimiento de patrones.
-2021-01-22 19:13:13,912 Candidato:
-2021-01-22 19:13:13,912 b. Reconocimiento de patrones.
-2021-01-22 19:13:13,913 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,913 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:13,913 Fragmento plagiado
-2021-01-22 19:13:13,913 Referencia:
-2021-01-22 19:13:13,913 c. Retroalimentación.
-2021-01-22 19:13:13,913 Candidato:
-2021-01-22 19:13:13,913 c. Retroalimentación.
-2021-01-22 19:13:13,913 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,913 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:13,913 Fragmento plagiado
-2021-01-22 19:13:13,913 Referencia:
-2021-01-22 19:13:13,913 d. Control indirecto.
-2021-01-22 19:13:13,913 Candidato:
-2021-01-22 19:13:13,913 d. Control indirecto.
-2021-01-22 19:13:13,913 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,913 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 25. Puntaje del 100.0%.
-2021-01-22 19:13:13,913 Fragmento plagiado
-2021-01-22 19:13:13,913 Referencia:
-2021-01-22 19:13:13,913 Un sistema ascendente se crea desde abajo para arriba (bottom-up), por los individuos, no por alguien que ordene que hacer (marcapasos).
-2021-01-22 19:13:13,913 Candidato:
-2021-01-22 19:13:13,926 Un sistema ascendente se crea desde abajo para arriba (bottom-up), por los individuos, no por alguien que ordene que hacer (marcapasos).
-2021-01-22 19:13:13,926 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,926 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 26. Puntaje del 100.0%.
-2021-01-22 19:13:13,926 Fragmento plagiado
-2021-01-22 19:13:13,926 Referencia:
-2021-01-22 19:13:13,926 Un sistema dinámico va cambiando en el tiempo en base a reglas definidas.
-2021-01-22 19:13:13,926 Candidato:
-2021-01-22 19:13:13,926 Un sistema dinámico va cambiando en el tiempo en base a reglas definidas.
-2021-01-22 19:13:13,926 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,926 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 28. Puntaje del 100.0%.
-2021-01-22 19:13:13,926 Fragmento plagiado
-2021-01-22 19:13:13,926 Referencia:
-2021-01-22 19:13:13,926 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios.
-2021-01-22 19:13:13,926 Candidato:
-2021-01-22 19:13:13,926 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios.
-2021-01-22 19:13:13,926 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,926 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 29. Puntaje del 100.0%.
-2021-01-22 19:13:13,926 Fragmento plagiado
-2021-01-22 19:13:13,926 Referencia:
-2021-01-22 19:13:13,926 Sistema evolutivo: La evolución se va dando por cambios al azar, en donde van sobreviviendo los más aptos para el entorno.
-2021-01-22 19:13:13,926 Candidato:
-2021-01-22 19:13:13,927 Sistema evolutivo: La evolución se va dando por cambios al azar, en donde van sobreviviendo los más aptos para el entorno.
-2021-01-22 19:13:13,927 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,927 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 30. Puntaje del 100.0%.
-2021-01-22 19:13:13,927 Fragmento plagiado
-2021-01-22 19:13:13,927 Referencia:
-2021-01-22 19:13:13,927 ING. EN SISTEMAS DE INFORMACION
-2021-01-22 19:13:13,927 Candidato:
-2021-01-22 19:13:13,927 ING. EN SISTEMAS DE INFORMACION
-2021-01-22 19:13:13,927 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,927 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 31. Puntaje del 100.0%.
-2021-01-22 19:13:13,927 Fragmento plagiado
-2021-01-22 19:13:13,927 Referencia:
-2021-01-22 19:13:13,927             2016
-2021-01-22 19:13:13,927 Candidato:
-2021-01-22 19:13:13,927             2016
-2021-01-22 19:13:13,927 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,927 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:13,927 Fragmento plagiado
-2021-01-22 19:13:13,927 Referencia:
-2021-01-22 19:13:13,927 PAGE  
-2021-01-22 19:13:13,927 Candidato:
-2021-01-22 19:13:13,928 PAGE  
-2021-01-22 19:13:13,928 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,928 Se ha detectado plagio con el documento Marketing - TP 0.docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,928 Fragmento plagiado
-2021-01-22 19:13:13,928 Referencia:
-2021-01-22 19:13:13,928 Marketing en Internet 
-2021-01-22 19:13:13,928 Candidato:
-2021-01-22 19:13:13,928 Marketing en Internet y 
-2021-01-22 19:13:13,928 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,928 Se ha detectado plagio con el documento Marketing - TP 0.docx. Parrafo numero: 1. Puntaje del 100.0%.
-2021-01-22 19:13:13,928 Fragmento plagiado
-2021-01-22 19:13:13,928 Referencia:
-2021-01-22 19:13:13,928 y Nueva Economía
-2021-01-22 19:13:13,928 Candidato:
-2021-01-22 19:13:13,928 Nueva Economía
-2021-01-22 19:13:13,928 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,928 Se ha detectado plagio con el documento Marketing - TP 1.docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,928 Fragmento plagiado
-2021-01-22 19:13:13,928 Referencia:
-2021-01-22 19:13:13,928 Marketing en Internet 
-2021-01-22 19:13:13,929 Candidato:
-2021-01-22 19:13:13,929 Marketing en Internet y 
-2021-01-22 19:13:13,929 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,929 Se ha detectado plagio con el documento Marketing - TP 1.docx. Parrafo numero: 1. Puntaje del 100.0%.
-2021-01-22 19:13:13,929 Fragmento plagiado
-2021-01-22 19:13:13,929 Referencia:
-2021-01-22 19:13:13,929 y Nueva Economía
-2021-01-22 19:13:13,929 Candidato:
-2021-01-22 19:13:13,929 Nueva Economía
-2021-01-22 19:13:13,929 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,929 Se ha detectado plagio con el documento Marketing - TP 2.docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,929 Fragmento plagiado
-2021-01-22 19:13:13,929 Referencia:
-2021-01-22 19:13:13,929 Marketing en Internet 
-2021-01-22 19:13:13,929 Candidato:
-2021-01-22 19:13:13,929 Marketing en Internet y 
-2021-01-22 19:13:13,942 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,942 Se ha detectado plagio con el documento Marketing - TP 2.docx. Parrafo numero: 1. Puntaje del 100.0%.
-2021-01-22 19:13:13,942 Fragmento plagiado
-2021-01-22 19:13:13,942 Referencia:
-2021-01-22 19:13:13,942 y Nueva Economía
-2021-01-22 19:13:13,942 Candidato:
-2021-01-22 19:13:13,942 Nueva Economía
-2021-01-22 19:13:13,944 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,944 Se ha detectado plagio con el documento MKT-TP N° 3 The experience Economy - Diego Noya.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,944 Fragmento plagiado
-2021-01-22 19:13:13,944 Referencia:
-2021-01-22 19:13:13,944 Preguntas:
-2021-01-22 19:13:13,944 Candidato:
-2021-01-22 19:13:13,944 Preguntas:
-2021-01-22 19:13:13,944 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,944 Se ha detectado plagio con el documento MKT-TP N° 3 The experience Economy - Diego Noya.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,944 Fragmento plagiado
-2021-01-22 19:13:13,944 Referencia:
-2021-01-22 19:13:13,944 Respuestas
-2021-01-22 19:13:13,944 Candidato:
-2021-01-22 19:13:13,944 Respuestas:
-2021-01-22 19:13:13,945 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,945 Se ha detectado plagio con el documento MKTG_TP2  - Suchecki - Marketing 4.0.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,945 Fragmento plagiado
-2021-01-22 19:13:13,945 Referencia:
-2021-01-22 19:13:13,945 Respuestas: 
-2021-01-22 19:13:13,945 Candidato:
-2021-01-22 19:13:13,945 Respuestas:
-2021-01-22 19:13:13,946 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,946 Se ha detectado plagio con el documento MKTG_TP4  - Suchecki - Comercio Electronico.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,946 Fragmento plagiado
-2021-01-22 19:13:13,946 Referencia:
-2021-01-22 19:13:13,946 Respuestas: 
-2021-01-22 19:13:13,946 Candidato:
-2021-01-22 19:13:13,946 Respuestas:
-2021-01-22 19:13:13,947 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,947 Se ha detectado plagio con el documento Preguntas TP Marketing 4.0 - Kotler  Gabriela Gonzalez.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,947 Fragmento plagiado
-2021-01-22 19:13:13,947 Referencia:
-2021-01-22 19:13:13,947 Preguntas:
-2021-01-22 19:13:13,947 Candidato:
-2021-01-22 19:13:13,947 Preguntas:
-2021-01-22 19:13:13,947 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,947 Se ha detectado plagio con el documento preguntas TP Wikinomics - Gariglio.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:13,947 Fragmento plagiado
-2021-01-22 19:13:13,947 Referencia:
-2021-01-22 19:13:13,947 PAGE  
-2021-01-22 19:13:13,947 Candidato:
-2021-01-22 19:13:13,948 PAGE  
-2021-01-22 19:13:13,948 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,948 Se ha detectado plagio con el documento SCHMID TP N°3 Experience Economy (1).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,948 Fragmento plagiado
-2021-01-22 19:13:13,948 Referencia:
-2021-01-22 19:13:13,948 RESPUESTAS 
-2021-01-22 19:13:13,948 Candidato:
-2021-01-22 19:13:13,948 Respuestas:
-2021-01-22 19:13:13,948 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,948 Se ha detectado plagio con el documento SCHMID TP N°3 Experience Economy.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,948 Fragmento plagiado
-2021-01-22 19:13:13,948 Referencia:
-2021-01-22 19:13:13,949 RESPUESTAS 
-2021-01-22 19:13:13,949 Candidato:
-2021-01-22 19:13:13,949 Respuestas:
-2021-01-22 19:13:13,950 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,950 Se ha detectado plagio con el documento TP 0 Gabriela Gonzalez MKTG y NV Economía.doc. Parrafo numero: 4. Puntaje del 100.0%.
-2021-01-22 19:13:13,950 Fragmento plagiado
-2021-01-22 19:13:13,950 Referencia:
-2021-01-22 19:13:13,950 	Legajo
-2021-01-22 19:13:13,950 Candidato:
-2021-01-22 19:13:13,950 	Legajo
-2021-01-22 19:13:13,950 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,950 Se ha detectado plagio con el documento TP 0 Gabriela Gonzalez MKTG y NV Economía.doc. Parrafo numero: 5. Puntaje del 100.0%.
-2021-01-22 19:13:13,950 Fragmento plagiado
-2021-01-22 19:13:13,950 Referencia:
-2021-01-22 19:13:13,950 	Nombre
-2021-01-22 19:13:13,950 Candidato:
-2021-01-22 19:13:13,950 	Nombre
-2021-01-22 19:13:13,950 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,950 Se ha detectado plagio con el documento TP 0 Gabriela Gonzalez MKTG y NV Economía.doc. Parrafo numero: 6. Puntaje del 100.0%.
-2021-01-22 19:13:13,950 Fragmento plagiado
-2021-01-22 19:13:13,951 Referencia:
-2021-01-22 19:13:13,951 	E-Mail
-2021-01-22 19:13:13,951 Candidato:
-2021-01-22 19:13:13,951 	E-Mail
-2021-01-22 19:13:13,954 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,954 Se ha detectado plagio con el documento TP 2 - Marketing.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,954 Fragmento plagiado
-2021-01-22 19:13:13,954 Referencia:
-2021-01-22 19:13:13,954 Preguntas:
-2021-01-22 19:13:13,958 Candidato:
-2021-01-22 19:13:13,958 Preguntas:
-2021-01-22 19:13:13,958 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,958 Se ha detectado plagio con el documento TP 2 LargaCola - Hernan Noriega .docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,958 Fragmento plagiado
-2021-01-22 19:13:13,958 Referencia:
-2021-01-22 19:13:13,958 Marketing en Internet
-2021-01-22 19:13:13,958 Candidato:
-2021-01-22 19:13:13,958 Marketing en Internet y 
-2021-01-22 19:13:13,959 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,959 Se ha detectado plagio con el documento TP 3 - Economía de Experiencia - Andrés Basso (1).docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,959 Fragmento plagiado
-2021-01-22 19:13:13,959 Referencia:
-2021-01-22 19:13:13,959 Respuestas
-2021-01-22 19:13:13,959 Candidato:
-2021-01-22 19:13:13,959 Respuestas:
-2021-01-22 19:13:13,960 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,960 Se ha detectado plagio con el documento TP 3 - Economía de Experiencia - Andrés Basso.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,960 Fragmento plagiado
-2021-01-22 19:13:13,960 Referencia:
-2021-01-22 19:13:13,960 Respuestas
-2021-01-22 19:13:13,960 Candidato:
-2021-01-22 19:13:13,960 Respuestas:
-2021-01-22 19:13:13,960 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,960 Se ha detectado plagio con el documento TP 3 - the experience economy.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,960 Fragmento plagiado
-2021-01-22 19:13:13,961 Referencia:
-2021-01-22 19:13:13,961 Preguntas:
-2021-01-22 19:13:13,961 Candidato:
-2021-01-22 19:13:13,961 Preguntas:
-2021-01-22 19:13:13,961 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,961 Se ha detectado plagio con el documento TP 3 Experience Economy - Hernan Noriega  (1).docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,961 Fragmento plagiado
-2021-01-22 19:13:13,961 Referencia:
-2021-01-22 19:13:13,961 Marketing en Internet
-2021-01-22 19:13:13,961 Candidato:
-2021-01-22 19:13:13,961 Marketing en Internet y 
-2021-01-22 19:13:13,961 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,961 Se ha detectado plagio con el documento TP 3 Experience Economy - Hernan Noriega .docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,961 Fragmento plagiado
-2021-01-22 19:13:13,962 Referencia:
-2021-01-22 19:13:13,962 Marketing en Internet
-2021-01-22 19:13:13,962 Candidato:
-2021-01-22 19:13:13,962 Marketing en Internet y 
-2021-01-22 19:13:13,962 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,962 Se ha detectado plagio con el documento TP 3 Experience Economy.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,962 Fragmento plagiado
-2021-01-22 19:13:13,962 Referencia:
-2021-01-22 19:13:13,962 RESPUESTAS
-2021-01-22 19:13:13,962 Candidato:
-2021-01-22 19:13:13,962 Respuestas:
-2021-01-22 19:13:13,964 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,964 Se ha detectado plagio con el documento TP 4 - Wikinomía.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,964 Fragmento plagiado
-2021-01-22 19:13:13,964 Referencia:
-2021-01-22 19:13:13,964 Preguntas:
-2021-01-22 19:13:13,964 Candidato:
-2021-01-22 19:13:13,964 Preguntas:
-2021-01-22 19:13:13,964 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,964 Se ha detectado plagio con el documento TP 4 Difusión y adopción - Hernan Noriega (1).docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,965 Fragmento plagiado
-2021-01-22 19:13:13,965 Referencia:
-2021-01-22 19:13:13,965 Marketing en Internet
-2021-01-22 19:13:13,965 Candidato:
-2021-01-22 19:13:13,965 Marketing en Internet y 
-2021-01-22 19:13:13,965 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,965 Se ha detectado plagio con el documento TP 4 Difusión y adopción - Hernan Noriega.docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,965 Fragmento plagiado
-2021-01-22 19:13:13,965 Referencia:
-2021-01-22 19:13:13,965 Marketing en Internet
-2021-01-22 19:13:13,965 Candidato:
-2021-01-22 19:13:13,965 Marketing en Internet y 
-2021-01-22 19:13:13,968 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,968 Se ha detectado plagio con el documento TP 5 - Machine, Platform, Crowd.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,968 Fragmento plagiado
-2021-01-22 19:13:13,968 Referencia:
-2021-01-22 19:13:13,968 Preguntas:
-2021-01-22 19:13:13,968 Candidato:
-2021-01-22 19:13:13,968 Preguntas:
-2021-01-22 19:13:13,968 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,974 Se ha detectado plagio con el documento Tp 5 Filannino marketing en internet.docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:13,974 Fragmento plagiado
-2021-01-22 19:13:13,974 Referencia:
-2021-01-22 19:13:13,974 Materia: Marketing en internet
-2021-01-22 19:13:13,974 Candidato:
-2021-01-22 19:13:13,974 Marketing en Internet y 
-2021-01-22 19:13:13,974 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,974 Se ha detectado plagio con el documento Tp 5 Filannino marketing en internet.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,974 Fragmento plagiado
-2021-01-22 19:13:13,974 Referencia:
-2021-01-22 19:13:13,974 Preguntas:
-2021-01-22 19:13:13,974 Candidato:
-2021-01-22 19:13:13,974 Preguntas:
-2021-01-22 19:13:13,974 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,974 Se ha detectado plagio con el documento Tp 5 Filannino marketing en internet.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,974 Fragmento plagiado
-2021-01-22 19:13:13,975 Referencia:
-2021-01-22 19:13:13,975 Respuestas:
-2021-01-22 19:13:13,975 Candidato:
-2021-01-22 19:13:13,975 Respuestas:
-2021-01-22 19:13:13,975 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,975 Se ha detectado plagio con el documento TP 5 La sociedad de costo cero - Hernan Noriega (1).docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,975 Fragmento plagiado
-2021-01-22 19:13:13,975 Referencia:
-2021-01-22 19:13:13,975 Marketing en Internet
-2021-01-22 19:13:13,975 Candidato:
-2021-01-22 19:13:13,975 Marketing en Internet y 
-2021-01-22 19:13:13,975 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,975 Se ha detectado plagio con el documento TP 5 La sociedad de costo cero - Hernan Noriega.docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,975 Fragmento plagiado
-2021-01-22 19:13:13,975 Referencia:
-2021-01-22 19:13:13,975 Marketing en Internet
-2021-01-22 19:13:13,975 Candidato:
-2021-01-22 19:13:13,975 Marketing en Internet y 
-2021-01-22 19:13:13,975 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,976 Se ha detectado plagio con el documento TP 6 - Joan Manuel do Carmo.docx. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:13,976 Fragmento plagiado
-2021-01-22 19:13:13,976 Referencia:
-2021-01-22 19:13:13,976 Retroalimentación. 
-2021-01-22 19:13:13,976 Candidato:
-2021-01-22 19:13:13,976 c. Retroalimentación.
-2021-01-22 19:13:13,976 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,976 Se ha detectado plagio con el documento TP 6 - Joan Manuel do Carmo.docx. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:13,976 Fragmento plagiado
-2021-01-22 19:13:13,976 Referencia:
-2021-01-22 19:13:13,976 Control indirecto.
-2021-01-22 19:13:13,976 Candidato:
-2021-01-22 19:13:13,976 d. Control indirecto.
-2021-01-22 19:13:13,976 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,976 Se ha detectado plagio con el documento TP 6 - Sistemas emergentes.docx. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:13,976 Fragmento plagiado
-2021-01-22 19:13:13,976 Referencia:
-2021-01-22 19:13:13,976 Retroalimentación.
-2021-01-22 19:13:13,977 Candidato:
-2021-01-22 19:13:13,977 c. Retroalimentación.
-2021-01-22 19:13:13,977 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,977 Se ha detectado plagio con el documento TP 6 - Sistemas emergentes.docx. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:13,977 Fragmento plagiado
-2021-01-22 19:13:13,977 Referencia:
-2021-01-22 19:13:13,977 Control Indirecto.
-2021-01-22 19:13:13,977 Candidato:
-2021-01-22 19:13:13,977 d. Control indirecto.
-2021-01-22 19:13:13,977 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,977 Se ha detectado plagio con el documento TP Adopción TIC - ANTONUCCIO (1).doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:13,977 Fragmento plagiado
-2021-01-22 19:13:13,977 Referencia:
-2021-01-22 19:13:13,977 PAGE  
-2021-01-22 19:13:13,978 Candidato:
-2021-01-22 19:13:13,978 PAGE  
-2021-01-22 19:13:13,978 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,978 Se ha detectado plagio con el documento TP Adopción TIC - ANTONUCCIO.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:13,978 Fragmento plagiado
-2021-01-22 19:13:13,978 Referencia:
-2021-01-22 19:13:13,978 PAGE  
-2021-01-22 19:13:13,978 Candidato:
-2021-01-22 19:13:13,978 PAGE  
-2021-01-22 19:13:13,978 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,978 Se ha detectado plagio con el documento TP Comercio electronico preguntas Gabriela Gonzalez.doc. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,978 Fragmento plagiado
-2021-01-22 19:13:13,978 Referencia:
-2021-01-22 19:13:13,979 Respuestas:
-2021-01-22 19:13:13,979 Candidato:
-2021-01-22 19:13:13,979 Respuestas:
-2021-01-22 19:13:13,979 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,989 Se ha detectado plagio con el documento TP Johnson Sistemas emergentes - ANTONUCCIO.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:13,989 Fragmento plagiado
-2021-01-22 19:13:13,989 Referencia:
-2021-01-22 19:13:13,989 PAGE  
-2021-01-22 19:13:13,989 Candidato:
-2021-01-22 19:13:13,989 PAGE  
-2021-01-22 19:13:13,989 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,989 Se ha detectado plagio con el documento TP La Larga Cola  - ANTONUCCIO (1).doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:13,989 Fragmento plagiado
-2021-01-22 19:13:13,989 Referencia:
-2021-01-22 19:13:13,989 PAGE  
-2021-01-22 19:13:13,989 Candidato:
-2021-01-22 19:13:13,989 PAGE  
-2021-01-22 19:13:13,990 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,990 Se ha detectado plagio con el documento TP La Larga Cola  - ANTONUCCIO.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:13,990 Fragmento plagiado
-2021-01-22 19:13:13,990 Referencia:
-2021-01-22 19:13:13,990 PAGE  
-2021-01-22 19:13:13,990 Candidato:
-2021-01-22 19:13:13,990 PAGE  
-2021-01-22 19:13:13,990 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,990 Se ha detectado plagio con el documento TP La Larga Cola - Gabriela Gonzalez (1).doc. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,990 Fragmento plagiado
-2021-01-22 19:13:13,990 Referencia:
-2021-01-22 19:13:13,990 Respuestas:
-2021-01-22 19:13:13,990 Candidato:
-2021-01-22 19:13:13,990 Respuestas:
-2021-01-22 19:13:13,990 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,991 Se ha detectado plagio con el documento TP La Larga Cola - Gabriela Gonzalez.doc. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,991 Fragmento plagiado
-2021-01-22 19:13:13,991 Referencia:
-2021-01-22 19:13:13,991 Respuestas:
-2021-01-22 19:13:13,991 Candidato:
-2021-01-22 19:13:13,991 Respuestas:
-2021-01-22 19:13:13,991 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,991 Se ha detectado plagio con el documento TP N3 - García Santillán.doc. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,991 Fragmento plagiado
-2021-01-22 19:13:13,991 Referencia:
-2021-01-22 19:13:13,991 Marketing en Internet
-2021-01-22 19:13:13,991 Candidato:
-2021-01-22 19:13:13,992 Marketing en Internet y 
-2021-01-22 19:13:13,992 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,992 Se ha detectado plagio con el documento TP N5 - García Santillán.doc. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:13,992 Fragmento plagiado
-2021-01-22 19:13:13,992 Referencia:
-2021-01-22 19:13:13,992 Marketing en Internet
-2021-01-22 19:13:13,992 Candidato:
-2021-01-22 19:13:13,992 Marketing en Internet y 
-2021-01-22 19:13:13,993 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,993 Se ha detectado plagio con el documento TP N° 3 – The Experience Economy - Hernán Kotler.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,993 Fragmento plagiado
-2021-01-22 19:13:13,993 Referencia:
-2021-01-22 19:13:13,993 Preguntas:
-2021-01-22 19:13:13,993 Candidato:
-2021-01-22 19:13:13,994 Preguntas:
-2021-01-22 19:13:13,994 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,994 Se ha detectado plagio con el documento TP N° 4 – Difusión y Adopción TIC - Hernán Kotler.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:13,994 Fragmento plagiado
-2021-01-22 19:13:13,994 Referencia:
-2021-01-22 19:13:13,994 Preguntas:
-2021-01-22 19:13:13,994 Candidato:
-2021-01-22 19:13:13,994 Preguntas:
-2021-01-22 19:13:13,996 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,996 Se ha detectado plagio con el documento TP N°02 (1).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,996 Fragmento plagiado
-2021-01-22 19:13:13,996 Referencia:
-2021-01-22 19:13:13,996 RESPUESTAS
-2021-01-22 19:13:13,996 Candidato:
-2021-01-22 19:13:13,996 Respuestas:
-2021-01-22 19:13:13,996 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,997 Se ha detectado plagio con el documento TP N°02.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,997 Fragmento plagiado
-2021-01-22 19:13:13,997 Referencia:
-2021-01-22 19:13:13,997 RESPUESTAS
-2021-01-22 19:13:13,997 Candidato:
-2021-01-22 19:13:13,997 Respuestas:
-2021-01-22 19:13:13,997 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,997 Se ha detectado plagio con el documento TP N°03 (1).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,997 Fragmento plagiado
-2021-01-22 19:13:13,997 Referencia:
-2021-01-22 19:13:13,997 RESPUESTAS
-2021-01-22 19:13:13,997 Candidato:
-2021-01-22 19:13:13,997 Respuestas:
-2021-01-22 19:13:13,998 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:13,998 Se ha detectado plagio con el documento TP N°03.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:13,998 Fragmento plagiado
-2021-01-22 19:13:13,998 Referencia:
-2021-01-22 19:13:13,998 RESPUESTAS
-2021-01-22 19:13:13,998 Candidato:
-2021-01-22 19:13:13,998 Respuestas:
-2021-01-22 19:13:14,005 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,005 Se ha detectado plagio con el documento TP N°04 (1).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,005 Fragmento plagiado
-2021-01-22 19:13:14,005 Referencia:
-2021-01-22 19:13:14,005 RESPUESTAS
-2021-01-22 19:13:14,005 Candidato:
-2021-01-22 19:13:14,005 Respuestas:
-2021-01-22 19:13:14,006 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,006 Se ha detectado plagio con el documento TP N°04 (2).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,006 Fragmento plagiado
-2021-01-22 19:13:14,006 Referencia:
-2021-01-22 19:13:14,006 RESPUESTAS
-2021-01-22 19:13:14,006 Candidato:
-2021-01-22 19:13:14,006 Respuestas:
-2021-01-22 19:13:14,006 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,006 Se ha detectado plagio con el documento TP N°04 (3).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,007 Fragmento plagiado
-2021-01-22 19:13:14,007 Referencia:
-2021-01-22 19:13:14,007 RESPUESTAS
-2021-01-22 19:13:14,007 Candidato:
-2021-01-22 19:13:14,007 Respuestas:
-2021-01-22 19:13:14,007 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,007 Se ha detectado plagio con el documento TP N°04.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,007 Fragmento plagiado
-2021-01-22 19:13:14,007 Referencia:
-2021-01-22 19:13:14,008 RESPUESTAS
-2021-01-22 19:13:14,008 Candidato:
-2021-01-22 19:13:14,008 Respuestas:
-2021-01-22 19:13:14,008 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,008 Se ha detectado plagio con el documento TP N°05.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,008 Fragmento plagiado
-2021-01-22 19:13:14,008 Referencia:
-2021-01-22 19:13:14,008 RESPUESTAS
-2021-01-22 19:13:14,008 Candidato:
-2021-01-22 19:13:14,008 Respuestas:
-2021-01-22 19:13:14,009 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,009 Se ha detectado plagio con el documento TP N°1 - Wikinomics (1).pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,009 Fragmento plagiado
-2021-01-22 19:13:14,009 Referencia:
-2021-01-22 19:13:14,009 RESPUESTAS
-2021-01-22 19:13:14,009 Candidato:
-2021-01-22 19:13:14,009 Respuestas:
-2021-01-22 19:13:14,010 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,010 Se ha detectado plagio con el documento TP N°1 - Wikinomics.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,010 Fragmento plagiado
-2021-01-22 19:13:14,010 Referencia:
-2021-01-22 19:13:14,010 RESPUESTAS
-2021-01-22 19:13:14,010 Candidato:
-2021-01-22 19:13:14,010 Respuestas:
-2021-01-22 19:13:14,011 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,011 Se ha detectado plagio con el documento TP N°2 Larga Cola.pdf. Parrafo numero: 1. Puntaje del 100.0%.
-2021-01-22 19:13:14,011 Fragmento plagiado
-2021-01-22 19:13:14,011 Referencia:
-2021-01-22 19:13:14,011 NUEVA ECONOMÍA 
-2021-01-22 19:13:14,011 Candidato:
-2021-01-22 19:13:14,011 Nueva Economía
-2021-01-22 19:13:14,011 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,011 Se ha detectado plagio con el documento TP N°2 Larga Cola.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,011 Fragmento plagiado
-2021-01-22 19:13:14,011 Referencia:
-2021-01-22 19:13:14,011 RESPUESTAS 
-2021-01-22 19:13:14,011 Candidato:
-2021-01-22 19:13:14,011 Respuestas:
-2021-01-22 19:13:14,012 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,012 Se ha detectado plagio con el documento TP N°6 - Johnson Sistemas emergentes.doc. Parrafo numero: 18. Puntaje del 100.0%.
-2021-01-22 19:13:14,012 Fragmento plagiado
-2021-01-22 19:13:14,012 Referencia:
-2021-01-22 19:13:14,012 · Interacción de vecinos
-2021-01-22 19:13:14,012 Candidato:
-2021-01-22 19:13:14,012 a. Interacción de vecinos.
-2021-01-22 19:13:14,012 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,012 Se ha detectado plagio con el documento TP N°6 - Johnson Sistemas emergentes.doc. Parrafo numero: 19. Puntaje del 100.0%.
-2021-01-22 19:13:14,012 Fragmento plagiado
-2021-01-22 19:13:14,012 Referencia:
-2021-01-22 19:13:14,012 · Reconocimiento de patrones
-2021-01-22 19:13:14,013 Candidato:
-2021-01-22 19:13:14,013 b. Reconocimiento de patrones.
-2021-01-22 19:13:14,013 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,013 Se ha detectado plagio con el documento TP N°6 - Johnson Sistemas emergentes.doc. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,013 Fragmento plagiado
-2021-01-22 19:13:14,013 Referencia:
-2021-01-22 19:13:14,013 · Retroalimentación
-2021-01-22 19:13:14,013 Candidato:
-2021-01-22 19:13:14,013 c. Retroalimentación.
-2021-01-22 19:13:14,013 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,013 Se ha detectado plagio con el documento TP N°6 - Johnson Sistemas emergentes.doc. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:14,013 Fragmento plagiado
-2021-01-22 19:13:14,013 Referencia:
-2021-01-22 19:13:14,013 · Control indirecto
-2021-01-22 19:13:14,013 Candidato:
-2021-01-22 19:13:14,013 d. Control indirecto.
-2021-01-22 19:13:14,021 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,021 Se ha detectado plagio con el documento TP Rifkin La sociedad de costo Mg cero - ANTONUCCIO.doc. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,021 Fragmento plagiado
-2021-01-22 19:13:14,021 Referencia:
-2021-01-22 19:13:14,021 RESPUESTAS
-2021-01-22 19:13:14,021 Candidato:
-2021-01-22 19:13:14,021 Respuestas:
-2021-01-22 19:13:14,021 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,021 Se ha detectado plagio con el documento TP Rifkin La sociedad de costo Mg cero - ANTONUCCIO.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,021 Fragmento plagiado
-2021-01-22 19:13:14,021 Referencia:
-2021-01-22 19:13:14,021 PAGE  
-2021-01-22 19:13:14,021 Candidato:
-2021-01-22 19:13:14,021 PAGE  
-2021-01-22 19:13:14,022 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,022 Se ha detectado plagio con el documento TP The experience economy - Pine II y Gilmore - ANTONUCCIO (1).doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,022 Fragmento plagiado
-2021-01-22 19:13:14,022 Referencia:
-2021-01-22 19:13:14,022 PAGE  
-2021-01-22 19:13:14,022 Candidato:
-2021-01-22 19:13:14,022 PAGE  
-2021-01-22 19:13:14,022 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,022 Se ha detectado plagio con el documento TP The experience economy - Pine II y Gilmore - ANTONUCCIO.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,022 Fragmento plagiado
-2021-01-22 19:13:14,022 Referencia:
-2021-01-22 19:13:14,022 PAGE  
-2021-01-22 19:13:14,022 Candidato:
-2021-01-22 19:13:14,023 PAGE  
-2021-01-22 19:13:14,023 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,023 Se ha detectado plagio con el documento TP Wikinomics - ANTONUCCIO.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,023 Fragmento plagiado
-2021-01-22 19:13:14,023 Referencia:
-2021-01-22 19:13:14,023 PAGE  
-2021-01-22 19:13:14,023 Candidato:
-2021-01-22 19:13:14,023 PAGE  
-2021-01-22 19:13:14,023 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,023 Se ha detectado plagio con el documento Tp0-MKT-Romano Karra.docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:14,023 Fragmento plagiado
-2021-01-22 19:13:14,023 Referencia:
-2021-01-22 19:13:14,023 Márketing en internet 
-2021-01-22 19:13:14,023 Candidato:
-2021-01-22 19:13:14,023 Marketing en Internet y 
-2021-01-22 19:13:14,024 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,024 Se ha detectado plagio con el documento TP06 -  Johnson Sistemas emergentes - preguntas.doc. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,024 Fragmento plagiado
-2021-01-22 19:13:14,024 Referencia:
-2021-01-22 19:13:14,024 Retroalimentación
-2021-01-22 19:13:14,024 Candidato:
-2021-01-22 19:13:14,024 c. Retroalimentación.
-2021-01-22 19:13:14,025 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,025 Se ha detectado plagio con el documento TP06 -  Johnson Sistemas emergentes - preguntas.doc. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:14,025 Fragmento plagiado
-2021-01-22 19:13:14,025 Referencia:
-2021-01-22 19:13:14,025 Control indirecto.
-2021-01-22 19:13:14,025 Candidato:
-2021-01-22 19:13:14,025 d. Control indirecto.
-2021-01-22 19:13:14,025 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,025 Se ha detectado plagio con el documento TP1 - La Larga Cola - Chris Anderson (1).doc. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,025 Fragmento plagiado
-2021-01-22 19:13:14,025 Referencia:
-2021-01-22 19:13:14,025 Respuestas:
-2021-01-22 19:13:14,026 Candidato:
-2021-01-22 19:13:14,026 Respuestas:
-2021-01-22 19:13:14,026 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,026 Se ha detectado plagio con el documento TP1 - La Larga Cola - Chris Anderson.doc. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,026 Fragmento plagiado
-2021-01-22 19:13:14,026 Referencia:
-2021-01-22 19:13:14,026 Respuestas:
-2021-01-22 19:13:14,026 Candidato:
-2021-01-22 19:13:14,026 Respuestas:
-2021-01-22 19:13:14,027 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,027 Se ha detectado plagio con el documento TP1 - Wikinomics - Santiago Peralta (1).doc. Parrafo numero: 4. Puntaje del 100.0%.
-2021-01-22 19:13:14,027 Fragmento plagiado
-2021-01-22 19:13:14,027 Referencia:
-2021-01-22 19:13:14,027 Legajo: 
-2021-01-22 19:13:14,027 Candidato:
-2021-01-22 19:13:14,027 	Legajo
-2021-01-22 19:13:14,027 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,027 Se ha detectado plagio con el documento TP1 - Wikinomics - Santiago Peralta (1).doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,027 Fragmento plagiado
-2021-01-22 19:13:14,027 Referencia:
-2021-01-22 19:13:14,027 PAGE  
-2021-01-22 19:13:14,028 Candidato:
-2021-01-22 19:13:14,028 PAGE  
-2021-01-22 19:13:14,037 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,037 Se ha detectado plagio con el documento TP1 - Wikinomics - Santiago Peralta.doc. Parrafo numero: 4. Puntaje del 100.0%.
-2021-01-22 19:13:14,037 Fragmento plagiado
-2021-01-22 19:13:14,037 Referencia:
-2021-01-22 19:13:14,037 Legajo: 
-2021-01-22 19:13:14,037 Candidato:
-2021-01-22 19:13:14,037 	Legajo
-2021-01-22 19:13:14,037 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,037 Se ha detectado plagio con el documento TP1 - Wikinomics - Santiago Peralta.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,037 Fragmento plagiado
-2021-01-22 19:13:14,037 Referencia:
-2021-01-22 19:13:14,037 PAGE  
-2021-01-22 19:13:14,037 Candidato:
-2021-01-22 19:13:14,037 PAGE  
-2021-01-22 19:13:14,038 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,038 Se ha detectado plagio con el documento Tp1-MKT-Romano Karra.doc. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:14,038 Fragmento plagiado
-2021-01-22 19:13:14,038 Referencia:
-2021-01-22 19:13:14,038 Márketing en internet 
-2021-01-22 19:13:14,038 Candidato:
-2021-01-22 19:13:14,038 Marketing en Internet y 
-2021-01-22 19:13:14,038 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,038 Se ha detectado plagio con el documento Tp1-MKT-Romano Karra.doc. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,038 Fragmento plagiado
-2021-01-22 19:13:14,038 Referencia:
-2021-01-22 19:13:14,038 Respuestas:
-2021-01-22 19:13:14,038 Candidato:
-2021-01-22 19:13:14,038 Respuestas:
-2021-01-22 19:13:14,039 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,039 Se ha detectado plagio con el documento TP1-Wikinomics.pdf. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,039 Fragmento plagiado
-2021-01-22 19:13:14,039 Referencia:
-2021-01-22 19:13:14,039 Respuestas: 
-2021-01-22 19:13:14,039 Candidato:
-2021-01-22 19:13:14,039 Respuestas:
-2021-01-22 19:13:14,041 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,041 Se ha detectado plagio con el documento TP2 - La Larga Cola de Chris Anderson corto - Santiago Peralta  (1).doc. Parrafo numero: 4. Puntaje del 100.0%.
-2021-01-22 19:13:14,041 Fragmento plagiado
-2021-01-22 19:13:14,041 Referencia:
-2021-01-22 19:13:14,041 Legajo: 
-2021-01-22 19:13:14,041 Candidato:
-2021-01-22 19:13:14,041 	Legajo
-2021-01-22 19:13:14,041 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,041 Se ha detectado plagio con el documento TP2 - La Larga Cola de Chris Anderson corto - Santiago Peralta .doc. Parrafo numero: 4. Puntaje del 100.0%.
-2021-01-22 19:13:14,041 Fragmento plagiado
-2021-01-22 19:13:14,041 Referencia:
-2021-01-22 19:13:14,041 Legajo: 
-2021-01-22 19:13:14,041 Candidato:
-2021-01-22 19:13:14,041 	Legajo
-2021-01-22 19:13:14,042 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,042 Se ha detectado plagio con el documento TP2 - Long Tail- Joel Melamed.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,042 Fragmento plagiado
-2021-01-22 19:13:14,042 Referencia:
-2021-01-22 19:13:14,042 Preguntas
-2021-01-22 19:13:14,042 Candidato:
-2021-01-22 19:13:14,042 Preguntas:
-2021-01-22 19:13:14,042 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,042 Se ha detectado plagio con el documento TP2 - Long Tail- Joel Melamed.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,042 Fragmento plagiado
-2021-01-22 19:13:14,042 Referencia:
-2021-01-22 19:13:14,042 Respuestas
-2021-01-22 19:13:14,042 Candidato:
-2021-01-22 19:13:14,042 Respuestas:
-2021-01-22 19:13:14,042 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,042 Se ha detectado plagio con el documento TP2 - Marketing 4.0 - Kotler (1).docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,042 Fragmento plagiado
-2021-01-22 19:13:14,042 Referencia:
-2021-01-22 19:13:14,043 Preguntas:
-2021-01-22 19:13:14,043 Candidato:
-2021-01-22 19:13:14,043 Preguntas:
-2021-01-22 19:13:14,043 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,043 Se ha detectado plagio con el documento TP2 - Marketing 4.0 - Kotler (1).docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,043 Fragmento plagiado
-2021-01-22 19:13:14,043 Referencia:
-2021-01-22 19:13:14,043 Respuestas:
-2021-01-22 19:13:14,043 Candidato:
-2021-01-22 19:13:14,043 Respuestas:
-2021-01-22 19:13:14,043 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,043 Se ha detectado plagio con el documento TP2 - Marketing 4.0 - Kotler (2).docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,043 Fragmento plagiado
-2021-01-22 19:13:14,043 Referencia:
-2021-01-22 19:13:14,043 Preguntas:
-2021-01-22 19:13:14,043 Candidato:
-2021-01-22 19:13:14,043 Preguntas:
-2021-01-22 19:13:14,043 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,043 Se ha detectado plagio con el documento TP2 - Marketing 4.0 - Kotler (2).docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,043 Fragmento plagiado
-2021-01-22 19:13:14,043 Referencia:
-2021-01-22 19:13:14,044 Respuestas:
-2021-01-22 19:13:14,044 Candidato:
-2021-01-22 19:13:14,044 Respuestas:
-2021-01-22 19:13:14,053 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,053 Se ha detectado plagio con el documento TP2 - Marketing 4.0 - Kotler.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,053 Fragmento plagiado
-2021-01-22 19:13:14,053 Referencia:
-2021-01-22 19:13:14,053 Preguntas:
-2021-01-22 19:13:14,053 Candidato:
-2021-01-22 19:13:14,053 Preguntas:
-2021-01-22 19:13:14,053 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,053 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet (1).docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,054 Fragmento plagiado
-2021-01-22 19:13:14,054 Referencia:
-2021-01-22 19:13:14,054 Materia: Marketing en internet
-2021-01-22 19:13:14,054 Candidato:
-2021-01-22 19:13:14,054 Marketing en Internet y 
-2021-01-22 19:13:14,054 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,054 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet (1).docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,054 Fragmento plagiado
-2021-01-22 19:13:14,054 Referencia:
-2021-01-22 19:13:14,054 Preguntas:
-2021-01-22 19:13:14,054 Candidato:
-2021-01-22 19:13:14,054 Preguntas:
-2021-01-22 19:13:14,054 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,054 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet (1).docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,054 Fragmento plagiado
-2021-01-22 19:13:14,054 Referencia:
-2021-01-22 19:13:14,054 Respuestas:
-2021-01-22 19:13:14,054 Candidato:
-2021-01-22 19:13:14,054 Respuestas:
-2021-01-22 19:13:14,055 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,055 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet (2).docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,055 Fragmento plagiado
-2021-01-22 19:13:14,055 Referencia:
-2021-01-22 19:13:14,055 Materia: Marketing en internet
-2021-01-22 19:13:14,055 Candidato:
-2021-01-22 19:13:14,055 Marketing en Internet y 
-2021-01-22 19:13:14,055 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,055 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet (2).docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,055 Fragmento plagiado
-2021-01-22 19:13:14,055 Referencia:
-2021-01-22 19:13:14,055 Preguntas:
-2021-01-22 19:13:14,055 Candidato:
-2021-01-22 19:13:14,055 Preguntas:
-2021-01-22 19:13:14,055 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,055 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet (2).docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,055 Fragmento plagiado
-2021-01-22 19:13:14,055 Referencia:
-2021-01-22 19:13:14,055 Respuestas:
-2021-01-22 19:13:14,055 Candidato:
-2021-01-22 19:13:14,055 Respuestas:
-2021-01-22 19:13:14,056 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,056 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet.docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,056 Fragmento plagiado
-2021-01-22 19:13:14,056 Referencia:
-2021-01-22 19:13:14,056 Materia: Marketing en internet
-2021-01-22 19:13:14,056 Candidato:
-2021-01-22 19:13:14,056 Marketing en Internet y 
-2021-01-22 19:13:14,056 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,056 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,056 Fragmento plagiado
-2021-01-22 19:13:14,056 Referencia:
-2021-01-22 19:13:14,056 Preguntas:
-2021-01-22 19:13:14,056 Candidato:
-2021-01-22 19:13:14,056 Preguntas:
-2021-01-22 19:13:14,056 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,056 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,056 Fragmento plagiado
-2021-01-22 19:13:14,056 Referencia:
-2021-01-22 19:13:14,056 Respuestas:
-2021-01-22 19:13:14,056 Candidato:
-2021-01-22 19:13:14,056 Respuestas:
-2021-01-22 19:13:14,057 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,057 Se ha detectado plagio con el documento TP2 Marketing 4.0 Kotler - Koszczej, Agustín.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,057 Fragmento plagiado
-2021-01-22 19:13:14,057 Referencia:
-2021-01-22 19:13:14,057 Preguntas:
-2021-01-22 19:13:14,057 Candidato:
-2021-01-22 19:13:14,057 Preguntas:
-2021-01-22 19:13:14,057 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,057 Se ha detectado plagio con el documento TP2 V1.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,057 Fragmento plagiado
-2021-01-22 19:13:14,057 Referencia:
-2021-01-22 19:13:14,057 Preguntas:
-2021-01-22 19:13:14,057 Candidato:
-2021-01-22 19:13:14,057 Preguntas:
-2021-01-22 19:13:14,058 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,069 Se ha detectado plagio con el documento Tp2-MKT-Romano Karra.docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:14,069 Fragmento plagiado
-2021-01-22 19:13:14,069 Referencia:
-2021-01-22 19:13:14,069 Márketing en internet 
-2021-01-22 19:13:14,069 Candidato:
-2021-01-22 19:13:14,069 Marketing en Internet y 
-2021-01-22 19:13:14,069 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,069 Se ha detectado plagio con el documento Tp2-MKT-Romano Karra.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,069 Fragmento plagiado
-2021-01-22 19:13:14,069 Referencia:
-2021-01-22 19:13:14,069 Preguntas:
-2021-01-22 19:13:14,069 Candidato:
-2021-01-22 19:13:14,069 Preguntas:
-2021-01-22 19:13:14,071 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,071 Se ha detectado plagio con el documento TP3 - Economia de experiencia - Joel Melamed.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,071 Fragmento plagiado
-2021-01-22 19:13:14,071 Referencia:
-2021-01-22 19:13:14,071 Preguntas
-2021-01-22 19:13:14,071 Candidato:
-2021-01-22 19:13:14,071 Preguntas:
-2021-01-22 19:13:14,071 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,071 Se ha detectado plagio con el documento TP3 - Economia de experiencia - Joel Melamed.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,071 Fragmento plagiado
-2021-01-22 19:13:14,071 Referencia:
-2021-01-22 19:13:14,071 Respuestas
-2021-01-22 19:13:14,071 Candidato:
-2021-01-22 19:13:14,071 Respuestas:
-2021-01-22 19:13:14,071 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,072 Se ha detectado plagio con el documento TP3 - Economía de experiencia - Pine y Gilmore.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,072 Fragmento plagiado
-2021-01-22 19:13:14,072 Referencia:
-2021-01-22 19:13:14,072 Respuestas:
-2021-01-22 19:13:14,072 Candidato:
-2021-01-22 19:13:14,072 Respuestas:
-2021-01-22 19:13:14,073 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,073 Se ha detectado plagio con el documento TP3 Economia de Experiencia - Vit Sabrina (1).doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,073 Fragmento plagiado
-2021-01-22 19:13:14,073 Referencia:
-2021-01-22 19:13:14,073 PAGE  
-2021-01-22 19:13:14,073 Candidato:
-2021-01-22 19:13:14,073 PAGE  
-2021-01-22 19:13:14,074 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,074 Se ha detectado plagio con el documento TP3 Economia de Experiencia - Vit Sabrina.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,074 Fragmento plagiado
-2021-01-22 19:13:14,074 Referencia:
-2021-01-22 19:13:14,074 PAGE  
-2021-01-22 19:13:14,074 Candidato:
-2021-01-22 19:13:14,074 PAGE  
-2021-01-22 19:13:14,074 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,074 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet (1).docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,074 Fragmento plagiado
-2021-01-22 19:13:14,074 Referencia:
-2021-01-22 19:13:14,074 Materia: Marketing en internet
-2021-01-22 19:13:14,074 Candidato:
-2021-01-22 19:13:14,074 Marketing en Internet y 
-2021-01-22 19:13:14,074 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,074 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet (1).docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,074 Fragmento plagiado
-2021-01-22 19:13:14,074 Referencia:
-2021-01-22 19:13:14,074 Preguntas:
-2021-01-22 19:13:14,074 Candidato:
-2021-01-22 19:13:14,074 Preguntas:
-2021-01-22 19:13:14,074 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,075 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet (1).docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,075 Fragmento plagiado
-2021-01-22 19:13:14,075 Referencia:
-2021-01-22 19:13:14,075 Respuestas:
-2021-01-22 19:13:14,075 Candidato:
-2021-01-22 19:13:14,075 Respuestas:
-2021-01-22 19:13:14,075 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,075 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet (2).docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,075 Fragmento plagiado
-2021-01-22 19:13:14,075 Referencia:
-2021-01-22 19:13:14,075 Materia: Marketing en internet
-2021-01-22 19:13:14,075 Candidato:
-2021-01-22 19:13:14,075 Marketing en Internet y 
-2021-01-22 19:13:14,075 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,075 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet (2).docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,075 Fragmento plagiado
-2021-01-22 19:13:14,075 Referencia:
-2021-01-22 19:13:14,075 Preguntas:
-2021-01-22 19:13:14,075 Candidato:
-2021-01-22 19:13:14,075 Preguntas:
-2021-01-22 19:13:14,075 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,085 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet (2).docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,085 Fragmento plagiado
-2021-01-22 19:13:14,085 Referencia:
-2021-01-22 19:13:14,085 Respuestas:
-2021-01-22 19:13:14,085 Candidato:
-2021-01-22 19:13:14,085 Respuestas:
-2021-01-22 19:13:14,085 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,085 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet.docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,085 Fragmento plagiado
-2021-01-22 19:13:14,085 Referencia:
-2021-01-22 19:13:14,085 Materia: Marketing en internet
-2021-01-22 19:13:14,085 Candidato:
-2021-01-22 19:13:14,085 Marketing en Internet y 
-2021-01-22 19:13:14,085 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,085 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,085 Fragmento plagiado
-2021-01-22 19:13:14,085 Referencia:
-2021-01-22 19:13:14,085 Preguntas:
-2021-01-22 19:13:14,085 Candidato:
-2021-01-22 19:13:14,086 Preguntas:
-2021-01-22 19:13:14,086 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,086 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,086 Fragmento plagiado
-2021-01-22 19:13:14,086 Referencia:
-2021-01-22 19:13:14,086 Respuestas:
-2021-01-22 19:13:14,086 Candidato:
-2021-01-22 19:13:14,086 Respuestas:
-2021-01-22 19:13:14,086 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,086 Se ha detectado plagio con el documento Tp3-MKT-Romano Karra.docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:14,086 Fragmento plagiado
-2021-01-22 19:13:14,086 Referencia:
-2021-01-22 19:13:14,086 Márketing en internet 
-2021-01-22 19:13:14,086 Candidato:
-2021-01-22 19:13:14,086 Marketing en Internet y 
-2021-01-22 19:13:14,087 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,087 Se ha detectado plagio con el documento TP4 (1).pdf. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,087 Fragmento plagiado
-2021-01-22 19:13:14,087 Referencia:
-2021-01-22 19:13:14,087 Marketing en internet - UTN 
-2021-01-22 19:13:14,087 Candidato:
-2021-01-22 19:13:14,087 Marketing en Internet y 
-2021-01-22 19:13:14,088 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,088 Se ha detectado plagio con el documento TP4 (2).pdf. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,088 Fragmento plagiado
-2021-01-22 19:13:14,088 Referencia:
-2021-01-22 19:13:14,088 Marketing en internet - UTN 
-2021-01-22 19:13:14,088 Candidato:
-2021-01-22 19:13:14,088 Marketing en Internet y 
-2021-01-22 19:13:14,089 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,089 Se ha detectado plagio con el documento TP4 (5).pdf. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,089 Fragmento plagiado
-2021-01-22 19:13:14,089 Referencia:
-2021-01-22 19:13:14,089 Marketing en internet - UTN 
-2021-01-22 19:13:14,089 Candidato:
-2021-01-22 19:13:14,089 Marketing en Internet y 
-2021-01-22 19:13:14,091 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,091 Se ha detectado plagio con el documento TP4 - Adopcion TIC - Joel Melamed.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,091 Fragmento plagiado
-2021-01-22 19:13:14,091 Referencia:
-2021-01-22 19:13:14,091 Preguntas
-2021-01-22 19:13:14,091 Candidato:
-2021-01-22 19:13:14,091 Preguntas:
-2021-01-22 19:13:14,091 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,091 Se ha detectado plagio con el documento TP4 - Adopcion TIC - Joel Melamed.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,091 Fragmento plagiado
-2021-01-22 19:13:14,091 Referencia:
-2021-01-22 19:13:14,091 Respuestas
-2021-01-22 19:13:14,091 Candidato:
-2021-01-22 19:13:14,091 Respuestas:
-2021-01-22 19:13:14,092 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,092 Se ha detectado plagio con el documento TP4 - Difusión y adopción - Parte I y II - Santiago Peralta (1).doc. Parrafo numero: 4. Puntaje del 100.0%.
-2021-01-22 19:13:14,092 Fragmento plagiado
-2021-01-22 19:13:14,092 Referencia:
-2021-01-22 19:13:14,092 Legajo: 
-2021-01-22 19:13:14,092 Candidato:
-2021-01-22 19:13:14,092 	Legajo
-2021-01-22 19:13:14,092 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,092 Se ha detectado plagio con el documento TP4 - Difusión y adopción - Parte I y II - Santiago Peralta.doc. Parrafo numero: 4. Puntaje del 100.0%.
-2021-01-22 19:13:14,092 Fragmento plagiado
-2021-01-22 19:13:14,093 Referencia:
-2021-01-22 19:13:14,093 Legajo: 
-2021-01-22 19:13:14,093 Candidato:
-2021-01-22 19:13:14,093 	Legajo
-2021-01-22 19:13:14,094 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,101 Se ha detectado plagio con el documento Tp4 Filannino marketing en internet (1).docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,101 Fragmento plagiado
-2021-01-22 19:13:14,101 Referencia:
-2021-01-22 19:13:14,101 Materia: Marketing en internet
-2021-01-22 19:13:14,101 Candidato:
-2021-01-22 19:13:14,101 Marketing en Internet y 
-2021-01-22 19:13:14,101 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,101 Se ha detectado plagio con el documento Tp4 Filannino marketing en internet (1).docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,101 Fragmento plagiado
-2021-01-22 19:13:14,101 Referencia:
-2021-01-22 19:13:14,101 Preguntas:
-2021-01-22 19:13:14,101 Candidato:
-2021-01-22 19:13:14,101 Preguntas:
-2021-01-22 19:13:14,101 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,101 Se ha detectado plagio con el documento Tp4 Filannino marketing en internet (1).docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,101 Fragmento plagiado
-2021-01-22 19:13:14,101 Referencia:
-2021-01-22 19:13:14,101 Respuestas:
-2021-01-22 19:13:14,102 Candidato:
-2021-01-22 19:13:14,102 Respuestas:
-2021-01-22 19:13:14,102 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,102 Se ha detectado plagio con el documento Tp4 Filannino marketing en internet.docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,102 Fragmento plagiado
-2021-01-22 19:13:14,102 Referencia:
-2021-01-22 19:13:14,102 Materia: Marketing en internet
-2021-01-22 19:13:14,102 Candidato:
-2021-01-22 19:13:14,102 Marketing en Internet y 
-2021-01-22 19:13:14,102 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,102 Se ha detectado plagio con el documento Tp4 Filannino marketing en internet.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,102 Fragmento plagiado
-2021-01-22 19:13:14,102 Referencia:
-2021-01-22 19:13:14,102 Preguntas:
-2021-01-22 19:13:14,102 Candidato:
-2021-01-22 19:13:14,102 Preguntas:
-2021-01-22 19:13:14,102 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,102 Se ha detectado plagio con el documento Tp4 Filannino marketing en internet.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,102 Fragmento plagiado
-2021-01-22 19:13:14,102 Referencia:
-2021-01-22 19:13:14,103 Respuestas:
-2021-01-22 19:13:14,103 Candidato:
-2021-01-22 19:13:14,103 Respuestas:
-2021-01-22 19:13:14,105 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,105 Se ha detectado plagio con el documento TP5 (5).pdf. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:14,105 Fragmento plagiado
-2021-01-22 19:13:14,105 Referencia:
-2021-01-22 19:13:14,105 Marketing en Internet 
-2021-01-22 19:13:14,105 Candidato:
-2021-01-22 19:13:14,105 Marketing en Internet y 
-2021-01-22 19:13:14,105 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,105 Se ha detectado plagio con el documento TP5 (6).pdf. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:14,105 Fragmento plagiado
-2021-01-22 19:13:14,105 Referencia:
-2021-01-22 19:13:14,105 Marketing en Internet 
-2021-01-22 19:13:14,106 Candidato:
-2021-01-22 19:13:14,106 Marketing en Internet y 
-2021-01-22 19:13:14,107 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,107 Se ha detectado plagio con el documento TP5.docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,107 Fragmento plagiado
-2021-01-22 19:13:14,107 Referencia:
-2021-01-22 19:13:14,107 Marketing en internet - UTN
-2021-01-22 19:13:14,107 Candidato:
-2021-01-22 19:13:14,107 Marketing en Internet y 
-2021-01-22 19:13:14,108 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,108 Se ha detectado plagio con el documento TP6  - Sistemas emergentes - Joel Melamed (1).docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,108 Fragmento plagiado
-2021-01-22 19:13:14,108 Referencia:
-2021-01-22 19:13:14,108 Preguntas
-2021-01-22 19:13:14,108 Candidato:
-2021-01-22 19:13:14,108 Preguntas:
-2021-01-22 19:13:14,108 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,108 Se ha detectado plagio con el documento TP6  - Sistemas emergentes - Joel Melamed (1).docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,108 Fragmento plagiado
-2021-01-22 19:13:14,108 Referencia:
-2021-01-22 19:13:14,108 Respuestas
-2021-01-22 19:13:14,108 Candidato:
-2021-01-22 19:13:14,108 Respuestas:
-2021-01-22 19:13:14,108 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,108 Se ha detectado plagio con el documento TP6  - Sistemas emergentes - Joel Melamed (1).docx. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,108 Fragmento plagiado
-2021-01-22 19:13:14,108 Referencia:
-2021-01-22 19:13:14,108 Retroalimentación
-2021-01-22 19:13:14,108 Candidato:
-2021-01-22 19:13:14,109 c. Retroalimentación.
-2021-01-22 19:13:14,109 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,117 Se ha detectado plagio con el documento TP6  - Sistemas emergentes - Joel Melamed.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,117 Fragmento plagiado
-2021-01-22 19:13:14,117 Referencia:
-2021-01-22 19:13:14,117 Preguntas
-2021-01-22 19:13:14,117 Candidato:
-2021-01-22 19:13:14,117 Preguntas:
-2021-01-22 19:13:14,117 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,117 Se ha detectado plagio con el documento TP6  - Sistemas emergentes - Joel Melamed.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,117 Fragmento plagiado
-2021-01-22 19:13:14,117 Referencia:
-2021-01-22 19:13:14,117 Respuestas
-2021-01-22 19:13:14,117 Candidato:
-2021-01-22 19:13:14,117 Respuestas:
-2021-01-22 19:13:14,117 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,117 Se ha detectado plagio con el documento TP6  - Sistemas emergentes - Joel Melamed.docx. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,117 Fragmento plagiado
-2021-01-22 19:13:14,117 Referencia:
-2021-01-22 19:13:14,117 Retroalimentación
-2021-01-22 19:13:14,117 Candidato:
-2021-01-22 19:13:14,118 c. Retroalimentación.
-2021-01-22 19:13:14,118 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,118 Se ha detectado plagio con el documento TP6 (1).docx. Parrafo numero: 2. Puntaje del 60.0%.
-2021-01-22 19:13:14,118 Fragmento plagiado
-2021-01-22 19:13:14,118 Referencia:
-2021-01-22 19:13:14,118 Trabajo Práctico N° 6: “Sistemas emergentes”
-2021-01-22 19:13:14,118 Candidato:
-2021-01-22 19:13:14,118 Trabajo Práctico N°6: Sistemas Emergentes
-2021-01-22 19:13:14,118 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,118 Se ha detectado plagio con el documento TP6 (1).docx. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,118 Fragmento plagiado
-2021-01-22 19:13:14,118 Referencia:
-2021-01-22 19:13:14,118 Retroalimentación
-2021-01-22 19:13:14,118 Candidato:
-2021-01-22 19:13:14,118 c. Retroalimentación.
-2021-01-22 19:13:14,118 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,118 Se ha detectado plagio con el documento TP6 (1).docx. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:14,118 Fragmento plagiado
-2021-01-22 19:13:14,118 Referencia:
-2021-01-22 19:13:14,118 Control indirecto
-2021-01-22 19:13:14,118 Candidato:
-2021-01-22 19:13:14,118 d. Control indirecto.
-2021-01-22 19:13:14,119 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,119 Se ha detectado plagio con el documento TP6 (1).docx. Parrafo numero: 25. Puntaje del 90.9090909090909%.
-2021-01-22 19:13:14,119 Fragmento plagiado
-2021-01-22 19:13:14,119 Referencia:
-2021-01-22 19:13:14,119 El sistema ascendente se crea desde abajo para arriba, por los individuos, no por alguien que ordene que hacer (marcapasos).
-2021-01-22 19:13:14,119 Candidato:
-2021-01-22 19:13:14,119 Un sistema ascendente se crea desde abajo para arriba (bottom-up), por los individuos, no por alguien que ordene que hacer (marcapasos).
-2021-01-22 19:13:14,119 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,119 Se ha detectado plagio con el documento TP6 (1).docx. Parrafo numero: 26. Puntaje del 77.77777777777779%.
-2021-01-22 19:13:14,119 Fragmento plagiado
-2021-01-22 19:13:14,119 Referencia:
-2021-01-22 19:13:14,119 Un sistema dinámico va cambiando en el tiempo en base a reglas predefinidas.
-2021-01-22 19:13:14,119 Candidato:
-2021-01-22 19:13:14,119 Un sistema dinámico va cambiando en el tiempo en base a reglas definidas.
-2021-01-22 19:13:14,119 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,119 Se ha detectado plagio con el documento TP6 (1).docx. Parrafo numero: 28. Puntaje del 100.0%.
-2021-01-22 19:13:14,119 Fragmento plagiado
-2021-01-22 19:13:14,119 Referencia:
-2021-01-22 19:13:14,119 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios.
-2021-01-22 19:13:14,119 Candidato:
-2021-01-22 19:13:14,119 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios.
-2021-01-22 19:13:14,119 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,120 Se ha detectado plagio con el documento TP6 (1).docx. Parrafo numero: 29. Puntaje del 100.0%.
-2021-01-22 19:13:14,120 Fragmento plagiado
-2021-01-22 19:13:14,120 Referencia:
-2021-01-22 19:13:14,120 Sistema evolutivo: La evolución se va dando por cambios al azar, en donde van sobreviviendo los más aptos para el entorno.
-2021-01-22 19:13:14,120 Candidato:
-2021-01-22 19:13:14,120 Sistema evolutivo: La evolución se va dando por cambios al azar, en donde van sobreviviendo los más aptos para el entorno.
-2021-01-22 19:13:14,120 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,120 Se ha detectado plagio con el documento TP6 (2).docx. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,120 Fragmento plagiado
-2021-01-22 19:13:14,120 Referencia:
-2021-01-22 19:13:14,120 Retroalimentación
-2021-01-22 19:13:14,120 Candidato:
-2021-01-22 19:13:14,120 c. Retroalimentación.
-2021-01-22 19:13:14,133 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,133 Se ha detectado plagio con el documento TP6 (2).docx. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:14,133 Fragmento plagiado
-2021-01-22 19:13:14,133 Referencia:
-2021-01-22 19:13:14,133 Control indirecto
-2021-01-22 19:13:14,133 Candidato:
-2021-01-22 19:13:14,133 d. Control indirecto.
-2021-01-22 19:13:14,133 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,133 Se ha detectado plagio con el documento TP6 (2).docx. Parrafo numero: 25. Puntaje del 90.9090909090909%.
-2021-01-22 19:13:14,133 Fragmento plagiado
-2021-01-22 19:13:14,133 Referencia:
-2021-01-22 19:13:14,133 El sistema ascendente se crea desde abajo para arriba, por los individuos, no por alguien que ordene que hacer (marcapasos).
-2021-01-22 19:13:14,133 Candidato:
-2021-01-22 19:13:14,133 Un sistema ascendente se crea desde abajo para arriba (bottom-up), por los individuos, no por alguien que ordene que hacer (marcapasos).
-2021-01-22 19:13:14,133 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,133 Se ha detectado plagio con el documento TP6 (2).docx. Parrafo numero: 26. Puntaje del 77.77777777777779%.
-2021-01-22 19:13:14,133 Fragmento plagiado
-2021-01-22 19:13:14,134 Referencia:
-2021-01-22 19:13:14,134 Un sistema dinámico va cambiando en el tiempo en base a reglas predefinidas.
-2021-01-22 19:13:14,134 Candidato:
-2021-01-22 19:13:14,134 Un sistema dinámico va cambiando en el tiempo en base a reglas definidas.
-2021-01-22 19:13:14,134 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,134 Se ha detectado plagio con el documento TP6 (2).docx. Parrafo numero: 28. Puntaje del 100.0%.
-2021-01-22 19:13:14,134 Fragmento plagiado
-2021-01-22 19:13:14,134 Referencia:
-2021-01-22 19:13:14,134 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios.
-2021-01-22 19:13:14,134 Candidato:
-2021-01-22 19:13:14,134 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios.
-2021-01-22 19:13:14,134 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,134 Se ha detectado plagio con el documento TP6 (2).docx. Parrafo numero: 29. Puntaje del 100.0%.
-2021-01-22 19:13:14,134 Fragmento plagiado
-2021-01-22 19:13:14,134 Referencia:
-2021-01-22 19:13:14,134 Sistema evolutivo: La evolución se va dando por cambios al azar, en donde van sobreviviendo los más aptos para el entorno.
-2021-01-22 19:13:14,134 Candidato:
-2021-01-22 19:13:14,134 Sistema evolutivo: La evolución se va dando por cambios al azar, en donde van sobreviviendo los más aptos para el entorno.
-2021-01-22 19:13:14,134 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,134 Se ha detectado plagio con el documento TP6 - Sistemas emergentes - Hernan Noriega (1).docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:14,134 Fragmento plagiado
-2021-01-22 19:13:14,134 Referencia:
-2021-01-22 19:13:14,135 Marketing en Internet
-2021-01-22 19:13:14,135 Candidato:
-2021-01-22 19:13:14,135 Marketing en Internet y 
-2021-01-22 19:13:14,135 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,135 Se ha detectado plagio con el documento TP6 - Sistemas emergentes - Hernan Noriega (1).docx. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,135 Fragmento plagiado
-2021-01-22 19:13:14,135 Referencia:
-2021-01-22 19:13:14,135 Retroalimentación
-2021-01-22 19:13:14,135 Candidato:
-2021-01-22 19:13:14,135 c. Retroalimentación.
-2021-01-22 19:13:14,135 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,135 Se ha detectado plagio con el documento TP6 - Sistemas emergentes - Hernan Noriega (1).docx. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:14,135 Fragmento plagiado
-2021-01-22 19:13:14,135 Referencia:
-2021-01-22 19:13:14,135 Control indirecto
-2021-01-22 19:13:14,135 Candidato:
-2021-01-22 19:13:14,135 d. Control indirecto.
-2021-01-22 19:13:14,135 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,135 Se ha detectado plagio con el documento TP6 - Sistemas emergentes - Hernan Noriega.docx. Parrafo numero: 0. Puntaje del 100.0%.
-2021-01-22 19:13:14,135 Fragmento plagiado
-2021-01-22 19:13:14,135 Referencia:
-2021-01-22 19:13:14,136 Marketing en Internet
-2021-01-22 19:13:14,136 Candidato:
-2021-01-22 19:13:14,136 Marketing en Internet y 
-2021-01-22 19:13:14,136 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,136 Se ha detectado plagio con el documento TP6 - Sistemas emergentes - Hernan Noriega.docx. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,136 Fragmento plagiado
-2021-01-22 19:13:14,136 Referencia:
-2021-01-22 19:13:14,136 Retroalimentación
-2021-01-22 19:13:14,136 Candidato:
-2021-01-22 19:13:14,136 c. Retroalimentación.
-2021-01-22 19:13:14,149 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,149 Se ha detectado plagio con el documento TP6 - Sistemas emergentes - Hernan Noriega.docx. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:14,149 Fragmento plagiado
-2021-01-22 19:13:14,149 Referencia:
-2021-01-22 19:13:14,149 Control indirecto
-2021-01-22 19:13:14,149 Candidato:
-2021-01-22 19:13:14,149 d. Control indirecto.
-2021-01-22 19:13:14,149 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,149 Se ha detectado plagio con el documento Tp6 Filannino marketing en internet.docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,149 Fragmento plagiado
-2021-01-22 19:13:14,149 Referencia:
-2021-01-22 19:13:14,149 Materia: Marketing en internet
-2021-01-22 19:13:14,149 Candidato:
-2021-01-22 19:13:14,149 Marketing en Internet y 
-2021-01-22 19:13:14,149 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,149 Se ha detectado plagio con el documento Tp6 Filannino marketing en internet.docx. Parrafo numero: 10. Puntaje del 100.0%.
-2021-01-22 19:13:14,150 Fragmento plagiado
-2021-01-22 19:13:14,150 Referencia:
-2021-01-22 19:13:14,150 Preguntas:
-2021-01-22 19:13:14,150 Candidato:
-2021-01-22 19:13:14,150 Preguntas:
-2021-01-22 19:13:14,150 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,150 Se ha detectado plagio con el documento Tp6 Filannino marketing en internet.docx. Parrafo numero: 16. Puntaje del 100.0%.
-2021-01-22 19:13:14,150 Fragmento plagiado
-2021-01-22 19:13:14,150 Referencia:
-2021-01-22 19:13:14,150 Respuestas:
-2021-01-22 19:13:14,150 Candidato:
-2021-01-22 19:13:14,150 Respuestas:
-2021-01-22 19:13:14,150 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,150 Se ha detectado plagio con el documento TP6-Sistemasemergentes-RamirezFernando2017.pdf. Parrafo numero: 28. Puntaje del 55.55555555555556%.
-2021-01-22 19:13:14,150 Fragmento plagiado
-2021-01-22 19:13:14,150 Referencia:
-2021-01-22 19:13:14,151 colonias, los habitantes de una ciudad crean barrios, un software de reconocimiento de 
-2021-01-22 19:13:14,151 Candidato:
-2021-01-22 19:13:14,151 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios.
-2021-01-22 19:13:14,151 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,151 Se ha detectado plagio con el documento TP6.docx. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,151 Fragmento plagiado
-2021-01-22 19:13:14,151 Referencia:
-2021-01-22 19:13:14,151 Marketing en internet - UTN
-2021-01-22 19:13:14,151 Candidato:
-2021-01-22 19:13:14,151 Marketing en Internet y 
-2021-01-22 19:13:14,154 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,154 Se ha detectado plagio con el documento tpN5 hERNAN (1).doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,154 Fragmento plagiado
-2021-01-22 19:13:14,154 Referencia:
-2021-01-22 19:13:14,154 PAGE  
-2021-01-22 19:13:14,154 Candidato:
-2021-01-22 19:13:14,154 PAGE  
-2021-01-22 19:13:14,154 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,154 Se ha detectado plagio con el documento tpN5 hERNAN.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,154 Fragmento plagiado
-2021-01-22 19:13:14,154 Referencia:
-2021-01-22 19:13:14,154 PAGE  
-2021-01-22 19:13:14,154 Candidato:
-2021-01-22 19:13:14,154 PAGE  
-2021-01-22 19:13:14,154 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,154 Se ha detectado plagio con el documento TpN6 Hernan (1).doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,155 Fragmento plagiado
-2021-01-22 19:13:14,155 Referencia:
-2021-01-22 19:13:14,155 PAGE  
-2021-01-22 19:13:14,155 Candidato:
-2021-01-22 19:13:14,155 PAGE  
-2021-01-22 19:13:14,155 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,155 Se ha detectado plagio con el documento TpN6 Hernan.doc. Parrafo numero: 32. Puntaje del 100.0%.
-2021-01-22 19:13:14,155 Fragmento plagiado
-2021-01-22 19:13:14,155 Referencia:
-2021-01-22 19:13:14,155 PAGE  
-2021-01-22 19:13:14,155 Candidato:
-2021-01-22 19:13:14,155 PAGE  
-2021-01-22 19:13:14,158 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,158 Se ha detectado plagio con el documento TP_6-Sistemas-Emergentes-Luis_Sosa.doc. Parrafo numero: 2. Puntaje del 100.0%.
-2021-01-22 19:13:14,158 Fragmento plagiado
-2021-01-22 19:13:14,158 Referencia:
-2021-01-22 19:13:14,158 Trabajo Práctico 6:  Sistemas Emergentes
-2021-01-22 19:13:14,158 Candidato:
-2021-01-22 19:13:14,158 Trabajo Práctico N°6: Sistemas Emergentes
-2021-01-22 19:13:14,158 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,158 Se ha detectado plagio con el documento TP_6-Sistemas-Emergentes-Luis_Sosa.doc. Parrafo numero: 18. Puntaje del 100.0%.
-2021-01-22 19:13:14,158 Fragmento plagiado
-2021-01-22 19:13:14,158 Referencia:
-2021-01-22 19:13:14,158 · Interacción de vecinos.
-2021-01-22 19:13:14,158 Candidato:
-2021-01-22 19:13:14,165 a. Interacción de vecinos.
-2021-01-22 19:13:14,165 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,165 Se ha detectado plagio con el documento TP_6-Sistemas-Emergentes-Luis_Sosa.doc. Parrafo numero: 19. Puntaje del 100.0%.
-2021-01-22 19:13:14,165 Fragmento plagiado
-2021-01-22 19:13:14,165 Referencia:
-2021-01-22 19:13:14,165 · Reconocimiento de patrones.
-2021-01-22 19:13:14,165 Candidato:
-2021-01-22 19:13:14,165 b. Reconocimiento de patrones.
-2021-01-22 19:13:14,165 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,165 Se ha detectado plagio con el documento TP_6-Sistemas-Emergentes-Luis_Sosa.doc. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,166 Fragmento plagiado
-2021-01-22 19:13:14,166 Referencia:
-2021-01-22 19:13:14,166 · Retroalimentación.
-2021-01-22 19:13:14,166 Candidato:
-2021-01-22 19:13:14,166 c. Retroalimentación.
-2021-01-22 19:13:14,166 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,166 Se ha detectado plagio con el documento TP_6-Sistemas-Emergentes-Luis_Sosa.doc. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:14,166 Fragmento plagiado
-2021-01-22 19:13:14,166 Referencia:
-2021-01-22 19:13:14,166 · Control indirecto.
-2021-01-22 19:13:14,166 Candidato:
-2021-01-22 19:13:14,166 d. Control indirecto.
-2021-01-22 19:13:14,166 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,166 Se ha detectado plagio con el documento TP_6_Weiss_Gonzalo.pdf. Parrafo numero: 2. Puntaje del 60.0%.
-2021-01-22 19:13:14,166 Fragmento plagiado
-2021-01-22 19:13:14,166 Referencia:
-2021-01-22 19:13:14,166 Trabajo Práctico N°6  Sistemas emergentes 
-2021-01-22 19:13:14,166 Candidato:
-2021-01-22 19:13:14,166 Trabajo Práctico N°6: Sistemas Emergentes
-2021-01-22 19:13:14,167 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,167 Se ha detectado plagio con el documento TP_6_Weiss_Gonzalo.pdf. Parrafo numero: 2. Puntaje del 60.0%.
-2021-01-22 19:13:14,167 Fragmento plagiado
-2021-01-22 19:13:14,167 Referencia:
-2021-01-22 19:13:14,167 Trabajo Práctico N°6  Sistemas emergentes 
-2021-01-22 19:13:14,167 Candidato:
-2021-01-22 19:13:14,167 Trabajo Práctico N°6: Sistemas Emergentes
-2021-01-22 19:13:14,171 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,171 Se ha detectado plagio con el documento UTNMKT2016-MoraLeandro-TP4 (1).pdf. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,171 Fragmento plagiado
-2021-01-22 19:13:14,171 Referencia:
-2021-01-22 19:13:14,171 Marketing en Internet y Nuevas 
-2021-01-22 19:13:14,172 Candidato:
-2021-01-22 19:13:14,172 Marketing en Internet y 
-2021-01-22 19:13:14,172 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,172 Se ha detectado plagio con el documento UTNMKT2016-MoraLeandro-TP4.pdf. Parrafo numero: 0. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,172 Fragmento plagiado
-2021-01-22 19:13:14,172 Referencia:
-2021-01-22 19:13:14,172 Marketing en Internet y Nuevas 
-2021-01-22 19:13:14,172 Candidato:
-2021-01-22 19:13:14,172 Marketing en Internet y 
-2021-01-22 19:13:14,174 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,174 Se ha detectado plagio con el documento UTNMktg2016-LeonPeralta-TP6.pdf. Parrafo numero: 18. Puntaje del 100.0%.
-2021-01-22 19:13:14,174 Fragmento plagiado
-2021-01-22 19:13:14,174 Referencia:
-2021-01-22 19:13:14,174 I. Interacción de vecinos 
-2021-01-22 19:13:14,174 Candidato:
-2021-01-22 19:13:14,174 a. Interacción de vecinos.
-2021-01-22 19:13:14,174 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,174 Se ha detectado plagio con el documento UTNMktg2016-LeonPeralta-TP6.pdf. Parrafo numero: 28. Puntaje del 100.0%.
-2021-01-22 19:13:14,174 Fragmento plagiado
-2021-01-22 19:13:14,174 Referencia:
-2021-01-22 19:13:14,174 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios. 
-2021-01-22 19:13:14,174 Candidato:
-2021-01-22 19:13:14,174 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios.
-2021-01-22 19:13:14,174 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,174 Se ha detectado plagio con el documento UTNMktg2016-LeonPeralta-TP6.pdf. Parrafo numero: 29. Puntaje del 66.66666666666666%.
-2021-01-22 19:13:14,174 Fragmento plagiado
-2021-01-22 19:13:14,174 Referencia:
-2021-01-22 19:13:14,175 Sistema evolutivo​: La evolución se va dando por cambios al azar, en donde van sobreviviendo los 
-2021-01-22 19:13:14,175 Candidato:
-2021-01-22 19:13:14,175 Sistema evolutivo: La evolución se va dando por cambios al azar, en donde van sobreviviendo los más aptos para el entorno.
-2021-01-22 19:13:14,176 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,176 Se ha detectado plagio con el documento UTNMktg2016-Maschwitz-TP6.pdf. Parrafo numero: 18. Puntaje del 100.0%.
-2021-01-22 19:13:14,176 Fragmento plagiado
-2021-01-22 19:13:14,181 Referencia:
-2021-01-22 19:13:14,181 a. Interacción de vecinos 
-2021-01-22 19:13:14,181 Candidato:
-2021-01-22 19:13:14,181 a. Interacción de vecinos.
-2021-01-22 19:13:14,181 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,181 Se ha detectado plagio con el documento UTNMktg2016-Maschwitz-TP6.pdf. Parrafo numero: 19. Puntaje del 100.0%.
-2021-01-22 19:13:14,181 Fragmento plagiado
-2021-01-22 19:13:14,181 Referencia:
-2021-01-22 19:13:14,181 b. Reconocimiento de patrones 
-2021-01-22 19:13:14,181 Candidato:
-2021-01-22 19:13:14,181 b. Reconocimiento de patrones.
-2021-01-22 19:13:14,181 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,181 Se ha detectado plagio con el documento UTNMktg2016-Maschwitz-TP6.pdf. Parrafo numero: 20. Puntaje del 100.0%.
-2021-01-22 19:13:14,181 Fragmento plagiado
-2021-01-22 19:13:14,181 Referencia:
-2021-01-22 19:13:14,182 c. Retroalimentación 
-2021-01-22 19:13:14,182 Candidato:
-2021-01-22 19:13:14,182 c. Retroalimentación.
-2021-01-22 19:13:14,182 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,182 Se ha detectado plagio con el documento UTNMktg2016-Maschwitz-TP6.pdf. Parrafo numero: 21. Puntaje del 100.0%.
-2021-01-22 19:13:14,182 Fragmento plagiado
-2021-01-22 19:13:14,182 Referencia:
-2021-01-22 19:13:14,182 d. Control indirecto 
-2021-01-22 19:13:14,182 Candidato:
-2021-01-22 19:13:14,182 d. Control indirecto.
-2021-01-22 19:13:14,182 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:13:14,182 Se ha detectado plagio con el documento UTNMktg2016-Maschwitz-TP6.pdf. Parrafo numero: 28. Puntaje del 100.0%.
-2021-01-22 19:13:14,182 Fragmento plagiado
-2021-01-22 19:13:14,182 Referencia:
-2021-01-22 19:13:14,182 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios. 
-2021-01-22 19:13:14,182 Candidato:
-2021-01-22 19:13:14,182 Ej: las hormigas crean colonias, los habitantes de una ciudad crean barrios.
-2021-01-22 19:14:03,703 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:14:03,703 RESULTADOS DE BÚSQUEDA EN LA WEB
-2021-01-22 19:14:03,703 ------------------------------------------------------------------------------------------------------------------------------------------------
-2021-01-22 19:14:03,703 Puntaje de plagio en la web :0.037037037037037035
-2021-01-22 19:14:03,703 Fragementos encontrados en la web
-2021-01-22 19:14:03,703 Fragmento: 
-2021-01-22 19:14:03,703 EN SISTEMAS DE INFORMACION            2016PAGE  2
-2021-01-22 19:14:03,703 Resultados: 
-2021-01-22 19:14:03,703 https://www.manualslib.com/manual/1548998/Promax-Gv-798Plus.html
+2021-01-27 23:53:38,488 --------------------------------------------------------------INICIA LA APLICACION--------------------------------------------------------------
+2021-01-27 23:53:40,600 xref found: pos=b'802109'
+2021-01-27 23:53:40,601 read_xref_from: start=802109, token=/b'xref'
+2021-01-27 23:53:40,601 xref objects: {1: (None, 15, 0), 2: (None, 661877, 0), 3: (None, 265, 0), 4: (None, 687561, 0), 5: (None, 302, 0), 6: (None, 732784, 0), 7: (None, 755235, 0), 8: (None, 769766, 0), 9: (None, 18111, 0), 10: (None, 118550, 0), 11: (None, 662150, 0), 12: (None, 122241, 0), 13: (None, 784681, 0), 14: (None, 151416, 0), 15: (None, 217258, 0), 16: (None, 217439, 0), 17: (None, 662447, 0), 18: (None, 221492, 0), 19: (None, 255952, 0), 20: (None, 495622, 0), 21: (None, 495816, 0), 22: (None, 496055, 0), 23: (None, 496251, 0), 24: (None, 662746, 0), 25: (None, 500034, 0), 26: (None, 648068, 0), 27: (None, 663002, 0), 28: (None, 801959, 0), 29: (None, 651755, 0), 30: (None, 653199, 0), 31: (None, 653605, 0), 32: (None, 654013, 0), 33: (None, 654208, 0), 34: (None, 654404, 0), 35: (None, 654603, 0), 36: (None, 654789, 0), 37: (None, 655024, 0), 38: (None, 663351, 0), 39: (None, 663435, 0), 40: (None, 663484, 0), 41: (None, 686412, 0), 42: (None, 686640, 0), 43: (None, 687168, 0), 44: (None, 687693, 0), 45: (None, 731258, 0), 46: (None, 731501, 0), 47: (None, 732379, 0), 48: (None, 732926, 0), 49: (None, 753984, 0), 50: (None, 754227, 0), 51: (None, 754834, 0), 52: (None, 755382, 0), 53: (None, 768704, 0), 54: (None, 768963, 0), 55: (None, 769398, 0), 56: (None, 769919, 0), 57: (None, 783609, 0), 58: (None, 783842, 0), 59: (None, 784295, 0), 60: (None, 784819, 0), 61: (None, 800871, 0), 62: (None, 801125, 0), 63: (None, 801577, 0)}
+2021-01-27 23:53:40,601 trailer: {'Size': 64, 'Root': <PDFObjRef:39>, 'Info': <PDFObjRef:1>}
+2021-01-27 23:53:40,642 trailer: {'Size': 64, 'Root': <PDFObjRef:39>, 'Info': <PDFObjRef:1>}
+2021-01-27 23:53:40,643 Pages: Kids=[<PDFObjRef:2>, <PDFObjRef:11>, <PDFObjRef:17>, <PDFObjRef:24>, <PDFObjRef:27>]
+2021-01-27 23:53:40,643 Page: {'Type': /'Page', 'Resources': {'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X5': <PDFObjRef:5>, 'X9': <PDFObjRef:9>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>, 'F8': <PDFObjRef:8>}}, 'MediaBox': [0, 0, 612, 792], 'Contents': <PDFObjRef:10>, 'StructParents': 0, 'Parent': <PDFObjRef:38>}
+2021-01-27 23:53:40,644 Page: {'Type': /'Page', 'Resources': {'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X12': <PDFObjRef:12>, 'X14': <PDFObjRef:14>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>, 'F13': <PDFObjRef:13>}}, 'MediaBox': [0, 0, 612, 792], 'Annots': [<PDFObjRef:15>], 'Contents': <PDFObjRef:16>, 'StructParents': 1, 'Parent': <PDFObjRef:38>}
+2021-01-27 23:53:40,645 Page: {'Type': /'Page', 'Resources': {'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X18': <PDFObjRef:18>, 'X19': <PDFObjRef:19>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>}}, 'MediaBox': [0, 0, 612, 792], 'Annots': [<PDFObjRef:20>, <PDFObjRef:21>, <PDFObjRef:22>], 'Contents': <PDFObjRef:23>, 'StructParents': 2, 'Parent': <PDFObjRef:38>}
+2021-01-27 23:53:40,646 Page: {'Type': /'Page', 'Resources': {'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X25': <PDFObjRef:25>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>}}, 'MediaBox': [0, 0, 612, 792], 'Contents': <PDFObjRef:26>, 'StructParents': 3, 'Parent': <PDFObjRef:38>}
+2021-01-27 23:53:40,647 Page: {'Type': /'Page', 'Resources': {'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X29': <PDFObjRef:29>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>, 'F8': <PDFObjRef:8>, 'F13': <PDFObjRef:13>, 'F28': <PDFObjRef:28>}}, 'MediaBox': [0, 0, 612, 792], 'Annots': [<PDFObjRef:30>, <PDFObjRef:31>, <PDFObjRef:32>, <PDFObjRef:33>, <PDFObjRef:34>, <PDFObjRef:35>, <PDFObjRef:36>], 'Contents': <PDFObjRef:37>, 'StructParents': 4, 'Parent': <PDFObjRef:38>}
+2021-01-27 23:53:40,648 Processing page: <PDFPage: Resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X5': <PDFObjRef:5>, 'X9': <PDFObjRef:9>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>, 'F8': <PDFObjRef:8>}}, MediaBox=[0, 0, 612, 792]>
+2021-01-27 23:53:40,648 render_contents: resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X5': <PDFObjRef:5>, 'X9': <PDFObjRef:9>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>, 'F8': <PDFObjRef:8>}}, streams=[<PDFStream(10): raw=3620, {'Filter': /'FlateDecode', 'Length': 3619}>], ctm=(1, 0, 0, 1, 0, 0)
+2021-01-27 23:53:40,648 get_font: create: objid=4, spec={'Type': /'Font', 'Subtype': /'Type0', 'BaseFont': /'ArialMT', 'Encoding': /'Identity-H', 'DescendantFonts': [<PDFObjRef:42>], 'ToUnicode': <PDFObjRef:43>}
+2021-01-27 23:53:40,649 get_font: create: objid=None, spec={'Type': /'Font', 'FontDescriptor': <PDFObjRef:41>, 'BaseFont': /'ArialMT', 'Subtype': /'CIDFontType2', 'CIDToGIDMap': /'Identity', 'CIDSystemInfo': {'Registry': b'Adobe', 'Ordering': b'Identity', 'Supplement': 0}, 'W': [0, [750, 0, 0, 277.83203], 16, [333.00781, 277.83203, 277.83203], 19, 28, 556.15234, 29, [277.83203], 37, 40, 666.99219, 44, [277.83203], 51, [666.99219, 0, 722.16797, 0, 0, 722.16797], 68, 69, 556.15234, 70, [500], 71, 75, 556.15234, 76, 79, 222.16797, 80, [833.00781], 81, 84, 556.15234, 85, [333.00781, 500, 277.83203, 556.15234, 500, 722.16797, 0, 0, 500], 116, [277.83203]], 'DW': 0, 'Encoding': /'Identity-H', 'ToUnicode': <PDFStream(43): raw=323, {'Filter': /'FlateDecode', 'Length': 322}>}
+2021-01-27 23:53:40,653 get_font: create: objid=6, spec={'Type': /'Font', 'Subtype': /'Type0', 'BaseFont': /'TimesNewRomanPSMT', 'Encoding': /'Identity-H', 'DescendantFonts': [<PDFObjRef:46>], 'ToUnicode': <PDFObjRef:47>}
+2021-01-27 23:53:40,654 get_font: create: objid=None, spec={'Type': /'Font', 'FontDescriptor': <PDFObjRef:45>, 'BaseFont': /'TimesNewRomanPSMT', 'Subtype': /'CIDFontType2', 'CIDToGIDMap': /'Identity', 'CIDSystemInfo': {'Registry': b'Adobe', 'Ordering': b'Identity', 'Supplement': 0}, 'W': [0, [777.83203, 0, 0, 250, 333.00781, 408.20313], 11, 12, 333.00781, 15, [250, 333.00781, 250, 277.83203], 19, 28, 500, 29, 30, 277.83203, 32, [563.96484, 0, 443.84766, 0, 722.16797, 666.99219, 666.99219, 722.16797, 610.83984, 556.15234, 722.16797, 722.16797, 333.00781, 389.16016, 722.16797, 610.83984, 889.16016, 722.16797, 722.16797, 556.15234, 722.16797, 666.99219, 556.15234, 610.83984, 722.16797, 722.16797, 943.84766, 722.16797], 68, [443.84766, 500, 443.84766, 500, 443.84766, 333.00781, 500, 500, 277.83203, 277.83203, 500, 277.83203, 777.83203], 81, 84, 500, 85, [333.00781, 389.16016, 277.83203, 500, 500, 722.16797, 500, 500], 93, 112, 443.84766, 116, [277.83203], 120, 129, 500, 131, [399.90234], 162, [443.84766, 333.00781], 200, [722.16797]], 'DW': 0, 'Encoding': /'Identity-H', 'ToUnicode': <PDFStream(47): raw=335, {'Filter': /'FlateDecode', 'Length': 334}>}
+2021-01-27 23:53:40,658 get_font: create: objid=7, spec={'Type': /'Font', 'Subtype': /'Type0', 'BaseFont': /'TimesNewRomanPS-BoldMT', 'Encoding': /'Identity-H', 'DescendantFonts': [<PDFObjRef:50>], 'ToUnicode': <PDFObjRef:51>}
+2021-01-27 23:53:40,659 get_font: create: objid=None, spec={'Type': /'Font', 'FontDescriptor': <PDFObjRef:49>, 'BaseFont': /'TimesNewRomanPS-BoldMT', 'Subtype': /'CIDFontType2', 'CIDToGIDMap': /'Identity', 'CIDSystemInfo': {'Registry': b'Adobe', 'Ordering': b'Identity', 'Supplement': 0}, 'W': [0, [777.83203], 3, 17, 250, 29, [333.00781], 36, [722.16797, 666.99219, 722.16797, 722.16797, 666.99219, 610.83984, 0, 777.83203, 0, 0, 0, 666.99219, 943.84766, 0, 0, 610.83984, 0, 0, 0, 666.99219, 722.16797], 68, [500, 556.15234, 443.84766, 556.15234, 443.84766, 333.00781, 500, 0, 277.83203, 0, 0, 277.83203, 833.00781, 556.15234, 500, 556.15234, 0, 443.84766, 389.16016, 333.00781, 556.15234], 89, 105, 500, 116, [277.83203], 126, [556.15234]], 'DW': 0, 'Encoding': /'Identity-H', 'ToUnicode': <PDFStream(51): raw=331, {'Filter': /'FlateDecode', 'Length': 330}>}
+2021-01-27 23:53:40,661 get_font: create: objid=8, spec={'Type': /'Font', 'Subtype': /'Type0', 'BaseFont': /'TimesNewRomanPS-BoldItalicMT', 'Encoding': /'Identity-H', 'DescendantFonts': [<PDFObjRef:54>], 'ToUnicode': <PDFObjRef:55>}
+2021-01-27 23:53:40,662 get_font: create: objid=None, spec={'Type': /'Font', 'FontDescriptor': <PDFObjRef:53>, 'BaseFont': /'TimesNewRomanPS-BoldItalicMT', 'Subtype': /'CIDFontType2', 'CIDToGIDMap': /'Identity', 'CIDSystemInfo': {'Registry': b'Adobe', 'Ordering': b'Identity', 'Supplement': 0}, 'W': [0, [777.83203, 0, 0, 250], 37, [666.99219], 54, [556.15234], 68, [500, 0, 443.84766, 0, 443.84766, 0, 500, 0, 277.83203, 0, 0, 0, 777.83203, 556.15234, 500, 0, 500, 389.16016, 389.16016, 277.83203, 556.15234, 0, 0, 0, 443.84766], 116, [277.83203]], 'DW': 0, 'Encoding': /'Identity-H', 'ToUnicode': <PDFStream(55): raw=298, {'Filter': /'FlateDecode', 'Length': 297}>}
+2021-01-27 23:53:40,669 Processing xobj: <PDFStream(5): raw=17625, {'Type': /'XObject', 'Subtype': /'Image', 'Width': 200, 'Height': 310, 'ColorSpace': /'DeviceRGB', 'BitsPerComponent': 8, 'Filter': /'DCTDecode', 'ColorTransform': 0, 'Length': 17624}>
+2021-01-27 23:53:40,704 Processing xobj: <PDFStream(9): raw=100254, {'Type': /'XObject', 'Subtype': /'Image', 'Width': 720, 'Height': 511, 'ColorSpace': /'DeviceRGB', 'BitsPerComponent': 8, 'Filter': /'DCTDecode', 'ColorTransform': 0, 'Length': 100253}>
+2021-01-27 23:53:40,852 Processing page: <PDFPage: Resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X12': <PDFObjRef:12>, 'X14': <PDFObjRef:14>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>, 'F13': <PDFObjRef:13>}}, MediaBox=[0, 0, 612, 792]>
+2021-01-27 23:53:40,852 render_contents: resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X12': <PDFObjRef:12>, 'X14': <PDFObjRef:14>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>, 'F13': <PDFObjRef:13>}}, streams=[<PDFStream(16): raw=3982, {'Filter': /'FlateDecode', 'Length': 3981}>], ctm=(1, 0, 0, 1, 0, 0)
+2021-01-27 23:53:40,853 get_font: create: objid=13, spec={'Type': /'Font', 'Subtype': /'Type0', 'BaseFont': /'Arial-BoldMT', 'Encoding': /'Identity-H', 'DescendantFonts': [<PDFObjRef:58>], 'ToUnicode': <PDFObjRef:59>}
+2021-01-27 23:53:40,854 get_font: create: objid=None, spec={'Type': /'Font', 'FontDescriptor': <PDFObjRef:57>, 'BaseFont': /'Arial-BoldMT', 'Subtype': /'CIDFontType2', 'CIDToGIDMap': /'Identity', 'CIDSystemInfo': {'Registry': b'Adobe', 'Ordering': b'Identity', 'Supplement': 0}, 'W': [0, [750, 0, 0, 277.83203], 24, [556.15234], 36, [722.16797], 42, 50, 777.83203, 55, [610.83984, 0, 666.99219], 68, 70, 556.15234, 71, [610.83984, 556.15234], 76, 79, 277.83203, 81, 84, 610.83984, 85, [389.16016, 556.15234, 333.00781, 610.83984], 116, [277.83203], 121, [610.83984]], 'DW': 0, 'Encoding': /'Identity-H', 'ToUnicode': <PDFStream(59): raw=316, {'Filter': /'FlateDecode', 'Length': 315}>}
+2021-01-27 23:53:40,861 Processing xobj: <PDFStream(12): raw=28990, {'Type': /'XObject', 'Subtype': /'Image', 'Width': 300, 'Height': 168, 'ColorSpace': /'DeviceRGB', 'BitsPerComponent': 8, 'Filter': /'DCTDecode', 'ColorTransform': 0, 'Length': 28989}>
+2021-01-27 23:53:40,910 Processing xobj: <PDFStream(14): raw=65657, {'Type': /'XObject', 'Subtype': /'Image', 'Width': 612, 'Height': 484, 'ColorSpace': /'DeviceRGB', 'BitsPerComponent': 8, 'Filter': /'DCTDecode', 'ColorTransform': 0, 'Length': 65656}>
+2021-01-27 23:53:41,052 Processing page: <PDFPage: Resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X18': <PDFObjRef:18>, 'X19': <PDFObjRef:19>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>}}, MediaBox=[0, 0, 612, 792]>
+2021-01-27 23:53:41,052 render_contents: resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X18': <PDFObjRef:18>, 'X19': <PDFObjRef:19>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>}}, streams=[<PDFStream(23): raw=3712, {'Filter': /'FlateDecode', 'Length': 3711}>], ctm=(1, 0, 0, 1, 0, 0)
+2021-01-27 23:53:41,058 Processing xobj: <PDFStream(18): raw=34275, {'Type': /'XObject', 'Subtype': /'Image', 'Width': 299, 'Height': 354, 'ColorSpace': /'DeviceRGB', 'BitsPerComponent': 8, 'Filter': /'DCTDecode', 'ColorTransform': 0, 'Length': 34274}>
+2021-01-27 23:53:41,095 Processing xobj: <PDFStream(19): raw=239484, {'Type': /'XObject', 'Subtype': /'Image', 'Width': 750, 'Height': 429, 'ColorSpace': /'DeviceRGB', 'BitsPerComponent': 8, 'Filter': /'DCTDecode', 'ColorTransform': 0, 'Length': 239483}>
+2021-01-27 23:53:41,236 Processing page: <PDFPage: Resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X25': <PDFObjRef:25>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>}}, MediaBox=[0, 0, 612, 792]>
+2021-01-27 23:53:41,236 render_contents: resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X25': <PDFObjRef:25>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>}}, streams=[<PDFStream(26): raw=3616, {'Filter': /'FlateDecode', 'Length': 3615}>], ctm=(1, 0, 0, 1, 0, 0)
+2021-01-27 23:53:41,244 Processing xobj: <PDFStream(25): raw=147848, {'Type': /'XObject', 'Subtype': /'Image', 'Width': 525, 'Height': 584, 'ColorSpace': /'DeviceRGB', 'BitsPerComponent': 8, 'Filter': /'DCTDecode', 'ColorTransform': 0, 'Length': 147847}>
+2021-01-27 23:53:41,413 Processing page: <PDFPage: Resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X29': <PDFObjRef:29>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>, 'F8': <PDFObjRef:8>, 'F13': <PDFObjRef:13>, 'F28': <PDFObjRef:28>}}, MediaBox=[0, 0, 612, 792]>
+2021-01-27 23:53:41,413 render_contents: resources={'ProcSet': [/'PDF', /'Text', /'ImageB', /'ImageC', /'ImageI'], 'ExtGState': {'G3': <PDFObjRef:3>}, 'XObject': {'X29': <PDFObjRef:29>}, 'Font': {'F4': <PDFObjRef:4>, 'F6': <PDFObjRef:6>, 'F7': <PDFObjRef:7>, 'F8': <PDFObjRef:8>, 'F13': <PDFObjRef:13>, 'F28': <PDFObjRef:28>}}, streams=[<PDFStream(37): raw=6782, {'Filter': /'FlateDecode', 'Length': 6781}>], ctm=(1, 0, 0, 1, 0, 0)
+2021-01-27 23:53:41,414 get_font: create: objid=28, spec={'Type': /'Font', 'Subtype': /'Type0', 'BaseFont': /'TimesNewRomanPS-ItalicMT', 'Encoding': /'Identity-H', 'DescendantFonts': [<PDFObjRef:62>], 'ToUnicode': <PDFObjRef:63>}
+2021-01-27 23:53:41,415 get_font: create: objid=None, spec={'Type': /'Font', 'FontDescriptor': <PDFObjRef:61>, 'BaseFont': /'TimesNewRomanPS-ItalicMT', 'Subtype': /'CIDFontType2', 'CIDToGIDMap': /'Identity', 'CIDSystemInfo': {'Registry': b'Adobe', 'Ordering': b'Identity', 'Supplement': 0}, 'W': [0, [777.83203, 0, 0, 250], 13, [500], 29, 44, 333.00781, 53, [610.83984, 500, 0, 722.16797], 68, [500, 0, 443.84766, 500, 443.84766, 0, 500, 0, 277.83203, 0, 0, 0, 722.16797], 81, 84, 500, 85, 86, 389.16016, 87, [277.83203, 500, 443.84766, 0, 0, 443.84766], 116, [277.83203]], 'DW': 0, 'Encoding': /'Identity-H', 'ToUnicode': <PDFStream(63): raw=312, {'Filter': /'FlateDecode', 'Length': 311}>}
+2021-01-27 23:53:41,486 Processing xobj: <PDFStream(29): raw=1262, {'Type': /'XObject', 'Subtype': /'Image', 'Width': 48, 'Height': 48, 'ColorSpace': /'DeviceRGB', 'BitsPerComponent': 8, 'Filter': /'DCTDecode', 'ColorTransform': 0, 'Length': 1261}>
+2021-01-27 23:56:09,377 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:09,377 Archivo procesado: El mejor Resumen de la teoría del Big Bang - InterUniversidades.pdf
+2021-01-27 23:56:09,681 Alumno/s: No se ha podido reconocer un autor.
+2021-01-27 23:56:09,934 Tematica/s: No se ha podida reconocer una temática.
+2021-01-27 23:56:10,057 Porcentaje de plagio general: 13.31%
+2021-01-27 23:56:10,058 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,085 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,085 Se ha detectado plagio con el documento Lopez Tomas - TP 6 - Sistemas Emergentes.doc. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,085 Fragmento plagiado
+2021-01-27 23:56:10,085 Referencia:
+2021-01-27 23:56:10,085 Preguntas:
+2021-01-27 23:56:10,085 Candidato:
+2021-01-27 23:56:10,085 Preguntas:
+2021-01-27 23:56:10,114 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,114 Se ha detectado plagio con el documento MKT-TP N° 3 The experience Economy - Diego Noya.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,114 Fragmento plagiado
+2021-01-27 23:56:10,114 Referencia:
+2021-01-27 23:56:10,114 Preguntas:
+2021-01-27 23:56:10,114 Candidato:
+2021-01-27 23:56:10,114 Preguntas:
+2021-01-27 23:56:10,132 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,133 Se ha detectado plagio con el documento Preguntas TP Marketing 4.0 - Kotler  Gabriela Gonzalez.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,133 Fragmento plagiado
+2021-01-27 23:56:10,133 Referencia:
+2021-01-27 23:56:10,133 Preguntas:
+2021-01-27 23:56:10,133 Candidato:
+2021-01-27 23:56:10,133 Preguntas:
+2021-01-27 23:56:10,179 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,180 Se ha detectado plagio con el documento TP 2 - Marketing.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,180 Fragmento plagiado
+2021-01-27 23:56:10,180 Referencia:
+2021-01-27 23:56:10,180 Preguntas:
+2021-01-27 23:56:10,180 Candidato:
+2021-01-27 23:56:10,180 Preguntas:
+2021-01-27 23:56:10,198 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,198 Se ha detectado plagio con el documento TP 3 - the experience economy.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,198 Fragmento plagiado
+2021-01-27 23:56:10,198 Referencia:
+2021-01-27 23:56:10,198 Preguntas:
+2021-01-27 23:56:10,199 Candidato:
+2021-01-27 23:56:10,199 Preguntas:
+2021-01-27 23:56:10,221 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,221 Se ha detectado plagio con el documento TP 4 - Wikinomía.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,221 Fragmento plagiado
+2021-01-27 23:56:10,221 Referencia:
+2021-01-27 23:56:10,221 Preguntas:
+2021-01-27 23:56:10,221 Candidato:
+2021-01-27 23:56:10,221 Preguntas:
+2021-01-27 23:56:10,236 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,237 Se ha detectado plagio con el documento TP 5 - Machine, Platform, Crowd.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,237 Fragmento plagiado
+2021-01-27 23:56:10,237 Referencia:
+2021-01-27 23:56:10,237 Preguntas:
+2021-01-27 23:56:10,237 Candidato:
+2021-01-27 23:56:10,237 Preguntas:
+2021-01-27 23:56:10,241 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,241 Se ha detectado plagio con el documento Tp 5 Filannino marketing en internet.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,241 Fragmento plagiado
+2021-01-27 23:56:10,241 Referencia:
+2021-01-27 23:56:10,241 Preguntas:
+2021-01-27 23:56:10,241 Candidato:
+2021-01-27 23:56:10,241 Preguntas:
+2021-01-27 23:56:10,286 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,286 Se ha detectado plagio con el documento TP N° 3 – The Experience Economy - Hernán Kotler.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,286 Fragmento plagiado
+2021-01-27 23:56:10,287 Referencia:
+2021-01-27 23:56:10,287 Preguntas:
+2021-01-27 23:56:10,287 Candidato:
+2021-01-27 23:56:10,287 Preguntas:
+2021-01-27 23:56:10,292 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,292 Se ha detectado plagio con el documento TP N° 4 – Difusión y Adopción TIC - Hernán Kotler.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,292 Fragmento plagiado
+2021-01-27 23:56:10,292 Referencia:
+2021-01-27 23:56:10,292 Preguntas:
+2021-01-27 23:56:10,292 Candidato:
+2021-01-27 23:56:10,292 Preguntas:
+2021-01-27 23:56:10,432 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,432 Se ha detectado plagio con el documento TP2 - Long Tail- Joel Melamed.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,432 Fragmento plagiado
+2021-01-27 23:56:10,432 Referencia:
+2021-01-27 23:56:10,432 Preguntas
+2021-01-27 23:56:10,432 Candidato:
+2021-01-27 23:56:10,432 Preguntas:
+2021-01-27 23:56:10,434 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,434 Se ha detectado plagio con el documento TP2 - Marketing 4.0 - Kotler (1).docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,434 Fragmento plagiado
+2021-01-27 23:56:10,434 Referencia:
+2021-01-27 23:56:10,434 Preguntas:
+2021-01-27 23:56:10,434 Candidato:
+2021-01-27 23:56:10,434 Preguntas:
+2021-01-27 23:56:10,435 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,435 Se ha detectado plagio con el documento TP2 - Marketing 4.0 - Kotler (2).docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,436 Fragmento plagiado
+2021-01-27 23:56:10,436 Referencia:
+2021-01-27 23:56:10,436 Preguntas:
+2021-01-27 23:56:10,436 Candidato:
+2021-01-27 23:56:10,436 Preguntas:
+2021-01-27 23:56:10,437 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,437 Se ha detectado plagio con el documento TP2 - Marketing 4.0 - Kotler.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,437 Fragmento plagiado
+2021-01-27 23:56:10,437 Referencia:
+2021-01-27 23:56:10,437 Preguntas:
+2021-01-27 23:56:10,437 Candidato:
+2021-01-27 23:56:10,437 Preguntas:
+2021-01-27 23:56:10,444 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,445 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet (1).docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,445 Fragmento plagiado
+2021-01-27 23:56:10,445 Referencia:
+2021-01-27 23:56:10,445 Preguntas:
+2021-01-27 23:56:10,445 Candidato:
+2021-01-27 23:56:10,445 Preguntas:
+2021-01-27 23:56:10,446 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,446 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet (2).docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,446 Fragmento plagiado
+2021-01-27 23:56:10,446 Referencia:
+2021-01-27 23:56:10,446 Preguntas:
+2021-01-27 23:56:10,446 Candidato:
+2021-01-27 23:56:10,446 Preguntas:
+2021-01-27 23:56:10,447 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,447 Se ha detectado plagio con el documento Tp2 Filannino marketing en internet.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,447 Fragmento plagiado
+2021-01-27 23:56:10,448 Referencia:
+2021-01-27 23:56:10,448 Preguntas:
+2021-01-27 23:56:10,448 Candidato:
+2021-01-27 23:56:10,448 Preguntas:
+2021-01-27 23:56:10,449 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,449 Se ha detectado plagio con el documento TP2 Marketing 4.0 Kotler - Koszczej, Agustín.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,449 Fragmento plagiado
+2021-01-27 23:56:10,449 Referencia:
+2021-01-27 23:56:10,449 Preguntas:
+2021-01-27 23:56:10,449 Candidato:
+2021-01-27 23:56:10,449 Preguntas:
+2021-01-27 23:56:10,453 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,453 Se ha detectado plagio con el documento TP2 V1.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,453 Fragmento plagiado
+2021-01-27 23:56:10,453 Referencia:
+2021-01-27 23:56:10,453 Preguntas:
+2021-01-27 23:56:10,453 Candidato:
+2021-01-27 23:56:10,453 Preguntas:
+2021-01-27 23:56:10,458 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,459 Se ha detectado plagio con el documento Tp2-MKT-Romano Karra.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,459 Fragmento plagiado
+2021-01-27 23:56:10,459 Referencia:
+2021-01-27 23:56:10,459 Preguntas:
+2021-01-27 23:56:10,459 Candidato:
+2021-01-27 23:56:10,459 Preguntas:
+2021-01-27 23:56:10,474 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,474 Se ha detectado plagio con el documento TP3 - Economia de experiencia - Joel Melamed.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,475 Fragmento plagiado
+2021-01-27 23:56:10,475 Referencia:
+2021-01-27 23:56:10,475 Preguntas
+2021-01-27 23:56:10,475 Candidato:
+2021-01-27 23:56:10,475 Preguntas:
+2021-01-27 23:56:10,493 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,493 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet (1).docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,493 Fragmento plagiado
+2021-01-27 23:56:10,493 Referencia:
+2021-01-27 23:56:10,493 Preguntas:
+2021-01-27 23:56:10,493 Candidato:
+2021-01-27 23:56:10,493 Preguntas:
+2021-01-27 23:56:10,495 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,495 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet (2).docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,495 Fragmento plagiado
+2021-01-27 23:56:10,495 Referencia:
+2021-01-27 23:56:10,495 Preguntas:
+2021-01-27 23:56:10,495 Candidato:
+2021-01-27 23:56:10,495 Preguntas:
+2021-01-27 23:56:10,496 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,496 Se ha detectado plagio con el documento Tp3 Filannino marketing en internet.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,496 Fragmento plagiado
+2021-01-27 23:56:10,496 Referencia:
+2021-01-27 23:56:10,496 Preguntas:
+2021-01-27 23:56:10,496 Candidato:
+2021-01-27 23:56:10,496 Preguntas:
+2021-01-27 23:56:10,533 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,533 Se ha detectado plagio con el documento TP4 - Adopcion TIC - Joel Melamed.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,533 Fragmento plagiado
+2021-01-27 23:56:10,533 Referencia:
+2021-01-27 23:56:10,533 Preguntas
+2021-01-27 23:56:10,533 Candidato:
+2021-01-27 23:56:10,533 Preguntas:
+2021-01-27 23:56:10,557 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,557 Se ha detectado plagio con el documento Tp4 Filannino marketing en internet (1).docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,557 Fragmento plagiado
+2021-01-27 23:56:10,557 Referencia:
+2021-01-27 23:56:10,557 Preguntas:
+2021-01-27 23:56:10,558 Candidato:
+2021-01-27 23:56:10,558 Preguntas:
+2021-01-27 23:56:10,559 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,560 Se ha detectado plagio con el documento Tp4 Filannino marketing en internet.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,560 Fragmento plagiado
+2021-01-27 23:56:10,560 Referencia:
+2021-01-27 23:56:10,560 Preguntas:
+2021-01-27 23:56:10,560 Candidato:
+2021-01-27 23:56:10,560 Preguntas:
+2021-01-27 23:56:10,604 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,604 Se ha detectado plagio con el documento TP6  - Sistemas emergentes - Joel Melamed (1).docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,604 Fragmento plagiado
+2021-01-27 23:56:10,604 Referencia:
+2021-01-27 23:56:10,605 Preguntas
+2021-01-27 23:56:10,605 Candidato:
+2021-01-27 23:56:10,605 Preguntas:
+2021-01-27 23:56:10,606 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,606 Se ha detectado plagio con el documento TP6  - Sistemas emergentes - Joel Melamed.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,606 Fragmento plagiado
+2021-01-27 23:56:10,606 Referencia:
+2021-01-27 23:56:10,606 Preguntas
+2021-01-27 23:56:10,606 Candidato:
+2021-01-27 23:56:10,606 Preguntas:
+2021-01-27 23:56:10,611 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-27 23:56:10,612 Se ha detectado plagio con el documento Tp6 Filannino marketing en internet.docx. Parrafo numero: 15. Puntaje del 100.0%.
+2021-01-27 23:56:10,612 Fragmento plagiado
+2021-01-27 23:56:10,612 Referencia:
+2021-01-27 23:56:10,612 Preguntas:
+2021-01-27 23:56:10,612 Candidato:
+2021-01-27 23:56:10,612 Preguntas:
+2021-01-27 23:56:10,753 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-28 00:07:42,401 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-28 00:07:42,401 RESULTADOS DE BÚSQUEDA EN LA WEB
+2021-01-28 00:07:42,401 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-01-28 00:07:42,401 Puntaje de plagio en la web :2.85%
+2021-01-28 00:07:42,401 Fragmentos encontrados en la web
+2021-01-28 00:07:42,401 Fragmento: 
+2021-01-28 00:07:42,401 s de años con  una  gran explosión .Inmediatamente después de
+que ocur
+2021-01-28 00:07:42,401 Resultados: 
+2021-01-28 00:07:42,401 https://file.savannah.gnu.org/file/software-patents.es.po?file_id=35790
+2021-01-28 00:07:42,401 Fragmento: 
+2021-01-28 00:07:42,401 nteruniversidades.com/quiz/start
+La Historia del Universo: Teoría del 
+2021-01-28 00:07:42,401 Resultados: 
+2021-01-28 00:07:42,401 https://windows2universe.org/
+2021-01-28 00:07:42,402 Fragmento: 
+2021-01-28 00:07:42,402 a que escapa al sentido común.
+Unas cuantas unidades de tiempo de Plan
+2021-01-28 00:07:42,402 Resultados: 
+2021-01-28 00:07:42,402 https://pt.scribd.com/document/328863955/Compagnon-Antoine-El-Demonio-de-la-Teoria-Literatura-y-sentido-comun-OCR-pdf
+2021-01-28 00:07:42,402 Fragmento: 
+2021-01-28 00:07:42,402 olución del universo. La energía pura de la explosión se transforma en
+2021-01-28 00:07:42,402 Resultados: 
+2021-01-28 00:07:42,402 https://www.scribd.com/document/391643135/EL-SER-UNO-I-Los-Arcanos-de-Thoth-pdf
+2021-01-28 00:07:42,402 Fragmento: 
+2021-01-28 00:07:42,402 ás de un largo linaje de universos
+https://www.interuniversidades.com/
+2021-01-28 00:07:42,402 Resultados: 
+2021-01-28 00:07:42,402 https://it.scribd.com/document/441921329/MARCAIDA-Arte-Ciencia-Barroco-copy-pdf
+2021-01-28 00:07:42,402 https://idoc.pub/documents/coffa-alberto-j-la-tradicion-semantica-de-kant-a-carnap-vols-i-y-ii-eljqwe832741
+2021-01-28 00:07:42,402 https://de.scribd.com/doc/49756585/Appadurai-Arjun-La-Vida-Social-de-Las-Cosas
+2021-01-28 00:07:42,402 Fragmento: 
+2021-01-28 00:07:42,402 os astrónomos consideran la confirmación de
+la teoría del Big Bang
+ 
+ 
+2021-01-28 00:07:42,402 Resultados: 
+2021-01-28 00:07:42,402 /images/search?q=%22los+astr%c3%b3nomos+consideran+la+confirmaci%c3%b3n+de+la+teor%c3%ada+del+big+bang+%22&qpvt=%22os+astr%c3%b3nomos+consideran+la+confirmaci%c3%b3n+de%0ala+teor%c3%ada+del+Big+Bang%0a+%0a+%22&FORM=IGRE
+2021-01-28 00:07:42,402 Fragmento: 
+2021-01-28 00:07:42,402  Bang
+El hecho de que las estrellas se estén alejando de nosotros a ve
+2021-01-28 00:07:42,402 Resultados: 
+2021-01-28 00:07:42,403 https://ar.scribd.com/document/210822555/Introduccion-al-Estudio-del-Medio-Ambiente
+2021-01-28 00:07:42,403 Fragmento: 
+2021-01-28 00:07:42,403 expertos denominan efecto
+Doppler  y o corrimiento del espectro de luz
+2021-01-28 00:07:42,403 Resultados: 
+2021-01-28 00:07:42,403 https://www.scribd.com/document/363303983/Teoria-Del-Big-Bang
+2021-01-28 00:07:42,403 Fragmento: 
+2021-01-28 00:07:42,403 .
+Lore Genovesse super!!
+21 de agosto de 2019 - Reportar
+https://www.i
+2021-01-28 00:07:42,403 Resultados: 
+2021-01-28 00:07:42,403 https://rust.facepunch.com/

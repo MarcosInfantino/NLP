@@ -12,10 +12,10 @@ from random import seed
 from random import gauss
 
 root_logger= logging.getLogger()
-root_logger.setLevel(logging.INFO) # or whatever
-handler = logging.FileHandler(CONFIG["LOG_FILE"], 'w', 'utf-8') # or whatever
-formatter = logging.Formatter('%(asctime)s %(message)s') # or whatever
-handler.setFormatter(formatter) # Pass handler as a parameter, not assign
+root_logger.setLevel(logging.INFO)
+handler = logging.FileHandler(CONFIG["LOG_FILE"], 'w', 'utf-8')
+formatter = logging.Formatter('%(asctime)s %(message)s')
+handler.setFormatter(formatter)
 root_logger.addHandler(handler)
 
 
@@ -202,7 +202,7 @@ def loadDocsFromDb(cantidad):
 
     for i in range (cantDocs):
 
-        log.info("PORCENTAJE DE LA CARGA: " + str((i/cantDocs)*100))
+        log.info("PORCENTAJE DE LA CARGA: " + str(round((i/cantDocs)*100), 2))
         filename = documentsList[i]
         log.info("SE CARGA EL DOCUMENTO: " + filename)
         documents.append(docs.Doc.newDoc(CONFIG["DOCS_DB"] + "/" + filename))
@@ -236,7 +236,7 @@ def compareDocuments(referenceDocument, candidateDocument):
         for j in range(len(candidateDocument.paragraphs)):
             actualCandidateParragraph = candidateDocument.paragraphs[j]
 
-            if not CONFIG["QUESTIONS_PUNCTUATION"]:
+            if not CONFIG["QUESTIONS_SCORE"]:
                 if (not docs.isQuestion(actualReferenceParragraph.text)) and (
                 not docs.isQuestion(actualCandidateParragraph.text)):
                     score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text,
@@ -266,7 +266,7 @@ def compareCandidateText(documents, candidateDocument, paragraphMap):
             for k in range(len(candidateDocument.paragraphs)):
                 actualCandidateParragraph = candidateDocument.paragraphs[k]
 
-                if not CONFIG["QUESTIONS_PUNCTUATION"]:
+                if not CONFIG["QUESTIONS_SCORE"]:
                     if (not docs.isQuestion(actualReferenceParragraph.text)) and (not docs.isQuestion(actualCandidateParragraph.text)):
                         score = JaccardScore(actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
                         paragraphMap[k].append(score)
@@ -275,20 +275,20 @@ def compareCandidateText(documents, candidateDocument, paragraphMap):
                     score = JaccardScore( actualReferenceParragraph.text, actualCandidateParragraph.text, actualReferenceParragraph.metadata, actualCandidateParragraph.metadata)
                     paragraphMap[k].append(score)
                     plagiarismRegisters.append(PlagiarismRegister.newPlagiarismRegister(actualDoc.name, score, k, actualReferenceParragraph.text, actualCandidateParragraph.text))
-        print("PORCENTAJE DEL ANÁLISIS CON LOS DOCUMENTOS DEL DATASET COMPLETADO: " + str((i/len(documents))*100) + "%")
+        print("PORCENTAJE DEL ANÁLISIS CON LOS DOCUMENTOS DEL DATASET COMPLETADO: " + str(round((i/len(documents))*100, 2)) + "%")
 
 def showPlagiarismParameters(doc, paragraphMap, threadInternetSearch):
     log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
     log.info("Archivo procesado: "+ doc.name)
     log.info("Alumno/s: " + doc.getAuthors())
     log.info("Tematica/s: " + doc.getTopics())
-    log.info("Porcentaje de plagio general: " + str(doc.generalPlagiarism(paragraphMap)) + "%")
+    log.info("Porcentaje de plagio general: " + str(round(doc.generalPlagiarism(paragraphMap), 2)) + "%")
     log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
     for i in range(len(plagiarismRegisters)):
         actual = plagiarismRegisters[i]
         if actual.plagiarismScore > CONFIG["PORCENTAJE_PLAGIO_AVISO"]:
             log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
-            log.info("Se ha detectado plagio con el documento " + actual.referenceDocument + ". Parrafo numero: " + str(actual.parragraphNumber) + ". Puntaje del " + str(actual.plagiarismScore) + "%.")
+            log.info("Se ha detectado plagio con el documento " + actual.referenceDocument + ". Parrafo numero: " + str(actual.parragraphNumber) + ". Puntaje del " + str(round(actual.plagiarismScore,2)) + "%.")
             log.info("Fragmento plagiado")
             log.info("Referencia:")
             log.info(actual.parragraphTextReference)
@@ -302,8 +302,8 @@ def showPlagiarismParameters(doc, paragraphMap, threadInternetSearch):
         log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
         log.info("RESULTADOS DE BÚSQUEDA EN LA WEB")
         log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
-        log.info("Puntaje de plagio en la web :" + str(internetPlagiarismResult.score))
-        log.info("Fragementos encontrados en la web")
+        log.info("Puntaje de plagio en la web :" + str(round(internetPlagiarismResult.score,2))+"%")
+        log.info("Fragmentos encontrados en la web")
         for fragmentAndResults in internetPlagiarismResult.results:
             if len(fragmentAndResults.searchResults) > 0:
                 log.info("Fragmento: " )
@@ -319,7 +319,8 @@ def obtainTextFragments(text):
     actualString = ""
     for i in range(len(text)):
         char = text[i]
-        if char != '\"' and char != '\n':
+        if char != '\"':
+            ##and char != '\n':
             count = count + 1
             actualString = actualString + char
 
@@ -364,21 +365,16 @@ def internetPlagiarismSearch(document):
         fragmentAndSearchResults.fragment = f
         fragmentAndSearchResults.searchResults = search_results
         internetPlagiarismResult.results.append(fragmentAndSearchResults)
-        time.sleep(2)
+        time.sleep(CONFIG["SLEEP_TIME_WEB_SCRAPPING"])
         count = count + 1
-        ##print("Porcentaje busqueda: " + str((count / len(fragments))*100))
 
-    score = foundFragments / len(fragments)
+
+    score = (foundFragments / len(fragments))*100
+    ##print("found " + str(foundFragments))
+    ##print("len" + str(len(fragments)))
     internetPlagiarismResult.score = score
 
 
-
-
-
-def synonims(word):
-    '''data = str(urllib.request.urlopen('https://educalingo.com/en/dic-es/{}'.format(word)).read())
-    final_results = re.findall('\w+', [i.text for i in soup(data, 'lxml').find_all('div', {"class": 'contenido_sinonimos_antonimos'})][0])'''
-    return []
 
 
 plagiarismRegisters = []

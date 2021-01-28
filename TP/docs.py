@@ -128,7 +128,7 @@ class Doc:
 
         count = len(paragraphMap)
 
-        if CONFIG["QUESTIONS_PUNCTUATION"]:
+        if CONFIG["QUESTIONS_SCORE"]:
             dividendo = count
         else:
             dividendo =len([ par for par in self.paragraphs if not isQuestion(par.text)])
