@@ -12,9 +12,7 @@ def createCacheFromDataset():
         pickle.dump(doc, doc_file)
 
 
-def objectFromFile(path):
-    file = open(path, "rb")
-    return pickle.load(file)
+
 
 def readDatasetFromCache():
     files = docs.ls("cache_dataset/")
@@ -25,7 +23,7 @@ def readDatasetFromCache():
 
     for i in range(len(files)):
         if i < cantidad:
-            docList.append(objectFromFile("cache_dataset/" + files[i]))
+            docList.append(mainFunctions.objectFromFile("cache_dataset/" + files[i]))
     return docList
 
 

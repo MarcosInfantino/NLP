@@ -10,7 +10,7 @@ import web_scrapper
 import time
 from random import seed
 from random import gauss
-
+import pickle
 root_logger= logging.getLogger()
 root_logger.setLevel(logging.INFO)
 handler = logging.FileHandler(CONFIG["LOG_FILE"], 'w', 'utf-8')
@@ -374,7 +374,9 @@ def internetPlagiarismSearch(document):
     ##print("len" + str(len(fragments)))
     internetPlagiarismResult.score = score
 
-
+def objectFromFile(path):
+    file = open(path, "rb")
+    return pickle.load(file)
 
 
 plagiarismRegisters = []

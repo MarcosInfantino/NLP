@@ -215,3 +215,36 @@ def find_topic(text):
     return topics
 
 
+
+def getTopicProbabilistic(doc):
+    _topics = []
+    files = ls("probabilistic_topic_recognition/")
+    for i in range(len(files)):
+        _topics.append(mainFunctions.objectFromFile("probabilistic_topic_recognition/" + files[i]))
+
+    tokens_doc = []
+    for par in doc.paragraphs:
+        for tok in par.metadata:
+            bool = True
+            for tok2 in tokens_doc:
+                if tok == tok2:
+                    bool = False
+            if bool:
+                tokens_doc.add(tok)
+
+    maxProb = -1
+    maxTopic = ""
+
+    for _topic in _topics:
+        intersection = len(mainFunctions.intersectionStringTok(tokens_doc, _topic.tokens))
+        union = len(mainFunctions.unionStringTok(tokens_doc, _topic.tokens))
+        prob = 0
+
+        if union != 0:
+            prob = (intersection / union) * 100
+
+        if prob > maxProb:
+            maxProb = prob
+            maxTopic = _topic
+
+    return maxTopic.name
