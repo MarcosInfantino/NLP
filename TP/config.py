@@ -6,7 +6,7 @@ CONFIG = {
     "STEMMING":True,
     "DOCS_DB": "C:/dataset-nlp-plagio-utn",
     "CANTIDAD_DOCS_DATASET": 0,
-    "CANDIDATE_DOC": "C:/Users/marco/OneDrive/Escritorio/carp aux/El mejor Resumen de la teoría del Big Bang - InterUniversidades.pdf",
+    "CANDIDATE_DOC": "C:/Users/marco/OneDrive/UTN 3° AÑO/Tendencias y escenarios tecnológicos/TP3/UTN TET 2020 - Infantino Marcos - TP3.pdf",
     "PORCENTAJE_PLAGIO_AVISO": 50,
     "QUESTIONS_SCORE": True,
     "WEB_SCRAPPING": True,

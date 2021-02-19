@@ -1,7 +1,7 @@
 import spacy
 import docs
 import random
-
+from config import CONFIG
 
 
 def tuplaInicioFinSubString(string, sub):
@@ -9,7 +9,7 @@ def tuplaInicioFinSubString(string, sub):
     return (x0, x0 + len(sub))
 
 
-pathBase = "C:/dataset-nlp-plagio-utn/"
+pathBase = CONFIG["DOCS_DB"]
 
 
 muchosAlumnos = ("", {"entities": []})
