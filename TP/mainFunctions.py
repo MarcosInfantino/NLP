@@ -11,9 +11,14 @@ import time
 from random import seed
 from random import gauss
 import pickle
+from datetime import datetime
+now = datetime.now()
+date_time = now.strftime("%d-%m-%Y, %H_%M_%S")
+
+
 root_logger= logging.getLogger()
 root_logger.setLevel(logging.INFO)
-handler = logging.FileHandler(CONFIG["LOG_FILE"], 'w', 'utf-8')
+handler = logging.FileHandler(CONFIG["LOG_FILE"] + "log" + "(" + date_time + ")" + ".txt", 'w', 'utf-8')
 formatter = logging.Formatter('%(asctime)s %(message)s')
 handler.setFormatter(formatter)
 root_logger.addHandler(handler)
@@ -202,7 +207,7 @@ def loadDocsFromDb(cantidad):
 
     for i in range (cantDocs):
 
-        log.info("PORCENTAJE DE LA CARGA: " + str(round((i/cantDocs)*100), 2))
+        log.info("PORCENTAJE DE LA CARGA: " + str(round((i/cantDocs)*100, 2)))
         filename = documentsList[i]
         log.info("SE CARGA EL DOCUMENTO: " + filename)
         documents.append(docs.Doc.newDoc(CONFIG["DOCS_DB"] + "/" + filename))

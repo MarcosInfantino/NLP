@@ -2,9 +2,12 @@ import pytest
 import mainFunctions
 import docs
 import copy
+from config import CONFIG
+
+path_dataset = CONFIG["DOCS_DB"]
 
 def test_method1(): ##1.	Dos textos idénticos deben dar similitud >= 99%
-    doc1 = doc2 = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/Trabajo Práctico 1 - Hernan Dalle Nogare.docx")
+    doc1 = doc2 = docs.Doc.newDoc(path_dataset + "/Trabajo Práctico 1 - Hernan Dalle Nogare.docx")
     assert mainFunctions.compareDocuments(doc1, doc2) > 99
 
 def test_method2():##Dos textos completamente diferentes dan una similitud menor al 10%
@@ -35,8 +38,8 @@ def test_method4():##El algoritmo debe comprender las distintas formas validas d
         assert(docs.hasCitations(s))
 
 def test_method5():##Dos oraciones identicas en textos distintos aumentan la similitud
-    doc1 = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/Trabajo Práctico 1 - Hernan Dalle Nogare.docx")
-    doc2 = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/TP 3 The experience economy (1).docx")
+    doc1 = docs.Doc.newDoc(path_dataset + "/Trabajo Práctico 1 - Hernan Dalle Nogare.docx")
+    doc2 = docs.Doc.newDoc(path_dataset + "/TP 3 The experience economy (1).docx")
     addedSentence = "Esta es una nueva oración para testear si aumenta la similitud entre ambos documentos."
     assert mainFunctions.JaccardScorePlainText(doc1.text + addedSentence, doc2.text + addedSentence) > mainFunctions.JaccardScorePlainText(doc1.text, doc2.text)
 
@@ -49,13 +52,13 @@ def test_method6():##una copia parcial de una oracion penaliza la oracion, aunqu
            (mainFunctions.JaccardScorePlainText(s1, s1FullCopy) > mainFunctions.JaccardScorePlainText(s1, s1PartialCopy))
 
 def test_method7():##Casos conocidos de plagio deben dar un porcentaje mayor a 80%
-    doc = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/TP 1 - Larga Cola - Campassi Rodrigo .docx")
-    docPlagio = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/TP 1 - Larga Cola - Campassi Rodrigo(plagio) .docx")
+    doc = docs.Doc.newDoc(path_dataset + "/TP 1 - Larga Cola - Campassi Rodrigo .docx")
+    docPlagio = docs.Doc.newDoc(path_dataset + "/TP 1 - Larga Cola - Campassi Rodrigo(plagio) .docx")
 
     assert mainFunctions.compareDocuments(doc, docPlagio) > 80
 
 def test_method8():
-    doc1 = docs.Doc.newDoc("C:/dataset-nlp-plagio-utn/Marketing - TP 0.docx")
+    doc1 = docs.Doc.newDoc(path_dataset + "/Marketing - TP 0.docx")
 
     assert mainFunctions.compareDocuments(doc1, doc1) > 99
 

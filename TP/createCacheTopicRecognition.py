@@ -1,0 +1,8 @@
+import docs
+from config import CONFIG
+import mainFunctions
+from mainFunctions import PosTaggedWord
+import probabilisticTopicRecognition
+from probabilisticTopicRecognition import Topic
+
+probabilisticTopicRecognition.createCacheProbabilisticTopicRecognition()

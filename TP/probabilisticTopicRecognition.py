@@ -3,7 +3,7 @@ import pickle
 import mainFunctions
 from config import CONFIG
 
-pathBase = CONFIG["DOCS_DB"]
+pathBase = CONFIG["DOCS_DB"] + "/"
 
 class PosTaggedWord:
     pos = ""
@@ -59,8 +59,6 @@ definicionesEconomia = Topic.newTopic("Definiciones de Economía")
 topics.append(definicionesEconomia)
 comercioElectronicioArgentina = Topic.newTopic("Comercio electrónico en Argentina")
 topics.append(comercioElectronicioArgentina)
-##machinePlatform = Topic.newTopic("Machine, Platform, Crowd: Harnessing Our Digital Future")
-#topics.append(machinePlatform)
 wikinomics = Topic.newTopic("Wikinomics")
 topics.append(wikinomics)
 largaCola = Topic.newTopic("La Larga Cola")
@@ -87,7 +85,6 @@ docsTraining = [
     ("MKTG_TP0  - Definiciones Economia.pdf", definicionesEconomia),
     ("MKTG_TP4  - Suchecki - Comercio Electronico.pdf", comercioElectronicioArgentina),
     ("Preguntas TP Economía de experiencia - Gabriela Gonzalez.docx", economiaExperiencia),
-    ##("PREGUNTAS TP Machine, Platform, Crowd.docx", machinePlatform),
     ("preguntas TP Wikinomics - Gariglio.doc", wikinomics),
     ("SCHMID TP N°3 Experience Economy.pdf", marketingEnInternetYNuevaEconomia),
     ("TP - 4.docx", marketingEnInternetYNuevaEconomia),
@@ -134,7 +131,6 @@ docsTraining = [
     ("TP N°2 - La Larga Cola de Chris Anderson corto (1).doc", largaCola),
     ("TP N°2 Larga Cola.pdf", largaCola)
 
-    ## ("", ""),
 
 ]
 
@@ -142,11 +138,10 @@ docsTraining = [
 def createCacheProbabilisticTopicRecognition():
 
     for x in docsTraining:
-        print(x)
+
         docName = x[0]
         topic = x[1]
-        print(topic.name)
-        print(len(topic.tokens))
+
         doc = docs.Doc.newDoc(pathBase + docName)
 
         for par in doc.paragraphs:
@@ -156,7 +151,7 @@ def createCacheProbabilisticTopicRecognition():
     for topic in topics:
         print("Guardando en caché: " + topic.name)
         topic_file = open("probabilistic_topic_recognition/" + topic.name + ".cache", 'wb')
-        print(len(topic.tokens))
+
         pickle.dump(topic, topic_file)
 
 
