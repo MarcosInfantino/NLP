@@ -34,7 +34,7 @@ class Google:
 	def procesar_resultados(self, html):
 		soup = BeautifulSoup(html, 'html.parser')
 		resultados_encontrados = []
-		bloque = soup.find_all("div", class_="g")
+		bloque = soup.find_all("div", class_ = "g")
 		for resultado in bloque:
 			titulo = resultado.find('h3')
 			link = resultado.find('a')['href']
@@ -59,7 +59,5 @@ def scrap(termino_busqueda):
 	return resultados
 
 
-##palabra = "hola"
-##resultados = scrap(palabra)
-##print(resultados)
+
 

@@ -1,0 +1,281 @@
+2021-02-23 17:50:30,879 --------------------------------------------------------------INICIA LA APLICACION--------------------------------------------------------------
+2021-02-23 17:50:53,185 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-02-23 17:50:53,185 Archivo procesado: UTN_EVI_13 DE JULIO.docx
+2021-02-23 17:50:53,347 Alumno/s: No se ha podido reconocer un autor.
+2021-02-23 17:50:56,552 Tematica/s: Wikinomics
+2021-02-23 17:50:56,568 Porcentaje de plagio general: 14.44%
+2021-02-23 17:50:56,568 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-02-23 17:50:56,663 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-02-23 17:51:54,298 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-02-23 17:51:54,298 RESULTADOS DE BÚSQUEDA EN LA WEB
+2021-02-23 17:51:54,298 ------------------------------------------------------------------------------------------------------------------------------------------------
+2021-02-23 17:51:54,299 Puntaje de plagio en la web :0%
+2021-02-23 17:51:54,299 Fragmentos encontrados en la web
+2021-02-23 17:51:54,299 Fragmento: 
+2021-02-23 17:51:54,299                         
+EXAMEN VIRTUAL INTEGRADOR (EVI)
+LEGISLACIÓN
+(Rég. de No Presencialidad.COVI
+2021-02-23 17:51:54,299 Resultados: 
+2021-02-23 17:51:54,299 https://www.utnianos.com.ar/foro/tema-simulacro-parcial-aula-virtual-evi-2020
+2021-02-23 17:51:54,299 https://www.ancefn.org.ar/user/FILES/VARIOS/Academias_2020_COMPLETO.pdf
+2021-02-23 17:51:54,299 https://www.argentina.gob.ar/sites/default/files/informe_6_meses_de_gestion.pdf
+2021-02-23 17:51:54,299 https://untref.edu.ar/uploads/Documentos/2-pdf.pdf
+2021-02-23 17:51:54,299 https://www.educacionyfp.gob.es/dam/jcr:d1462b78-5e3f-444f-a223-d6d8796fb20c/pe-n8-participacion-educativa-2018.pdf
+2021-02-23 17:51:54,299 https://www.buenosaires.gob.ar/sites/gcaba/files/una_administracion__publica_de_cara_al_futuro_-_usal.pdf
+2021-02-23 17:51:54,299 https://www.mscbs.gob.es/ciudadanos/saludAmbLaboral/docs/guiabioseg1.pdf
+2021-02-23 17:51:54,299 https://unesdoc.unesco.org/ark:/48223/pf0000190223_spa
+2021-02-23 17:51:54,299 https://extensionistas.unlp.edu.ar/frontend/media/97/17597/0597f5949120e64777adab41ed16f3cb.pdf
+2021-02-23 17:51:54,299 http://www.madrid.org/dat_capital/circulares/pdf/guia_consulta_profesor.pdf
+2021-02-23 17:51:54,299 Fragmento: 
+2021-02-23 17:51:54,299 D-19)
+
+1°A) En cada consigna, MARCAR SOBRE el GUIÓN Verdadero (V) o Falso (F), según corresponda:  
+
+2021-02-23 17:51:54,299 Resultados: 
+2021-02-23 17:51:54,299 https://brainly.lat/tarea/12699398
+2021-02-23 17:51:54,299 https://brainly.lat/tarea/11962004
+2021-02-23 17:51:54,299 https://rdu.unc.edu.ar/bitstream/handle/11086/4546/Material%20te%C3%B3rico-pr%C3%A1ctico%20de%20la%20Nueva%20Gram%C3%A1tica%20.pdf?sequence=7&isAllowed=y
+2021-02-23 17:51:54,299 https://core.ac.uk/download/pdf/70309757.pdf
+2021-02-23 17:51:54,300 http://www.bnm.me.gov.ar/giga1/documentos/EL004338.pdf
+2021-02-23 17:51:54,300 http://www.bnm.me.gov.ar/giga1/documentos/EL000190.pdf
+2021-02-23 17:51:54,300 https://issuu.com/macmillanar/docs/bloc_docente_manualestrada_pdl-mate
+2021-02-23 17:51:54,300 https://bibliotecadigital.exactas.uba.ar/download/libro/libro_n0004_Meinardi.pdf
+2021-02-23 17:51:54,300 https://www.tdx.cat/bitstream/handle/10803/283542/afs1de1.pdf?sequence=1
+2021-02-23 17:51:54,300 http://crubweb.uncoma.edu.ar/archivos/ingreso/IMFQ.Cuadernillo.de.Actividades2019.pdf
+2021-02-23 17:51:54,300 Fragmento: 
+2021-02-23 17:51:54,300 1)___El dominio es un derecho real que le otorga a su titular las facultades de usar, gozar y dispon
+2021-02-23 17:51:54,300 Resultados: 
+2021-02-23 17:51:54,300 http://www.biblioteca.jus.gov.ar/quinto.pdf
+2021-02-23 17:51:54,300 http://www.biblioteca.jus.gov.ar/quinto.pdf
+2021-02-23 17:51:54,300 https://es.wikipedia.org/wiki/Derechos_reales
+2021-02-23 17:51:54,300 https://es.wikipedia.org/wiki/Propiedad
+2021-02-23 17:51:54,300 http://www.saij.gob.ar/eduardo-molina-quiroga-nuevos-derechos-reales-codigo-civil-comercial-conjuntos-inmobiliarios-cementerios-privados-dacf150341-2015-04-29/123456789-0abc-defg1430-51fcanirtcod
+2021-02-23 17:51:54,300 http://www.saij.gob.ar/docs-f/codigo-comentado/CCyC_Nacion_Comentado_Tomo_V.pdf
+2021-02-23 17:51:54,300 http://urbeetius.org/wp-content/uploads/2016/01/Los_derechos_reales_en_el_nuevo_Codigo_Civil_y_Comercial_de_la_Nacion_-1.pdf
+2021-02-23 17:51:54,300 http://www.uncuyo.edu.ar/propiedad.intelectual/upload/reales.pdf
+2021-02-23 17:51:54,300 http://escribanos.org.ar/rnotarial/wp-content/uploads/2015/09/RNCba-38-1979-01-Doctrina.pdf
+2021-02-23 17:51:54,300 https://ar.ijeditores.com/articulos.php?Hash=0dbe7f0d60c4dc2fa38ec3a612283e24&hash_t=086a5cb8cd9fe91f5e11b05fd3ed3f3c
+2021-02-23 17:51:54,300 https://www.redalyc.org/pdf/3600/360033184003.pdf
+2021-02-23 17:51:54,300 Fragmento: 
+2021-02-23 17:51:54,301 er de la cosa.
+2)___Los cheques pueden ser librados como cheques comunes, cruzados, imputados, difer
+2021-02-23 17:51:54,301 Resultados: 
+2021-02-23 17:51:54,301 http://servicios.infoleg.gob.ar/infolegInternet/anexos/10000-14999/14733/norma.htm
+2021-02-23 17:51:54,301 https://www.argentina.gob.ar/justicia/derechofacil/leysimple/cheque
+2021-02-23 17:51:54,301 #
+2021-02-23 17:51:54,301 http://www.saij.gob.ar/legislacion/decreto_ley-nacional-4776-1963-regimen_juridico_cheque.htm
+2021-02-23 17:51:54,301 http://www.filo.uba.ar/contenidos/carreras/edicion/catedras/derechos/sitio/leydecheques.html
+2021-02-23 17:51:54,301 http://www.ntrweb.com.ar/economicas/comercial2/titulos/GTITULOS/clase9ter.htm
+2021-02-23 17:51:54,301 http://www.bcra.gov.ar/pdfs/comytexord/a3294.pdf
+2021-02-23 17:51:54,301 http://linaresyasociados.com.ar/preguntas-frecuentes-sobre-cheques/
+2021-02-23 17:51:54,301 https://www.bcra.gob.ar/Pdfs/Texord/t-ctacte.pdf
+2021-02-23 17:51:54,301 Fragmento: 
+2021-02-23 17:51:54,301 venta que se celebran son considerados formales.
+5)___La voluntad unilateral es una de las fuentes d
+2021-02-23 17:51:54,301 Resultados: 
+2021-02-23 17:51:54,303 http://escribanos.org.ar/rnotarial/wp-content/uploads/2015/07/RNCba-66-1993-03-Doctrina.pdf
+2021-02-23 17:51:54,303 http://repositori.uji.es/xmlui/bitstream/handle/10234/5973/civil_2.pdf?sequence=1&isAllowed=y
+2021-02-23 17:51:54,303 https://es.wikipedia.org/wiki/Contrato
+2021-02-23 17:51:54,303 http://www.scba.gov.ar/leyorganica/ccyc30/pdfley/Frustagli_Laregulacion_delcontratodecomodato.pdf
+2021-02-23 17:51:54,303 https://www.dipublico.org/glossary/actos-unilaterales/
+2021-02-23 17:51:54,303 https://www.poderjudicialmichoacan.gob.mx/tribunalm/biblioteca/luisfernando/fuentesobligaciones.htm
+2021-02-23 17:51:54,303 http://www.saij.gob.ar/john-grover-dorado-contratos-electronicos-consumo-derecho-argentino-dacf160582-2016-10-26/123456789-0abc-defg2850-61fcanirtcod?&o=0&f=Total%7CFecha/2016/10%7CEstado%20de%20Vigencia%5B5%2C1%5D%7CTema/Derecho%20civil%5B3%2C1%5D%7COrga
+2021-02-23 17:51:54,303 https://abogadoortuzar.com/apuntes-de-derecho/teoria-del-acto-juridico/
+2021-02-23 17:51:54,303 https://aldiaargentina.microjuris.com/2018/05/22/el-contrato-de-compraventa-en-el-codigo-civil-y-comercial-de-la-nacion/
+2021-02-23 17:51:54,303 https://definicionlegal.blogspot.com/2012/08/declaracion-unilateral-de-voluntad.html
+2021-02-23 17:51:54,303 Fragmento: 
+2021-02-23 17:51:54,303 e las obligaciones.
+6)___En el contrato de seguro las partes intervinientes son: la prima, la póliza
+2021-02-23 17:51:54,303 Resultados: 
+2021-02-23 17:51:54,303 https://es.wikipedia.org/wiki/Contrato_de_seguro
+2021-02-23 17:51:54,303 https://www.gestion-sanitaria.com/2-elementos-personales-contrato-seguro-asegurador-tomador-asegurado-beneficiario-mediadores.html
+2021-02-23 17:51:54,303 http://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/39520/texact.htm
+2021-02-23 17:51:54,303 https://www.iberley.es/temas/obligaciones-deberes-partes-contrato-seguro-45011
+2021-02-23 17:51:54,303 https://www.orienteseguros.com/elementos-del-contrato-de-seguro/
+2021-02-23 17:51:54,304 https://www.edufinet.com/inicio/seguros/contratos/cuales-son-las-caracteristicas-de-un-contrato-de-seguro
+2021-02-23 17:51:54,304 #
+2021-02-23 17:51:54,304 https://www.consumoresponde.es/art%C3%ADculos/partes_intervinientes_en_un_contrato_de_seguro
+2021-02-23 17:51:54,304 http://www.coproa.com.ar/wp/wp-content/uploads/manual_basico_del_seguro.pdf
+2021-02-23 17:51:54,304 https://www.argentina.gob.ar/normativa/recurso/238219/texactanexopunto23/htm
+2021-02-23 17:51:54,304 http://www.oas.org/juridico/spanish/mesicic3_pry_ley827.pdf
+2021-02-23 17:51:54,304 Fragmento: 
+2021-02-23 17:51:54,304 , el asegurador, asegurado, beneficiario y el tomador.
+7)___Los socios de la Sociedad Colectiva y de
+2021-02-23 17:51:54,304 Resultados: 
+2021-02-23 17:51:54,304 http://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/58948/texact.htm
+2021-02-23 17:51:54,304 #
+2021-02-23 17:51:54,304 http://www.aacs.org.ar/doc/leyes/adjunto_21523.pdf
+2021-02-23 17:51:54,304 http://www.fapasa.org.ar/el-nuevo-codigo-civil/
+2021-02-23 17:51:54,304 https://www.elseguroenaccion.com.ar/wp-content/uploads/2012/03/EY-22400-Y-REGLAMENTO.pdf
+2021-02-23 17:51:54,304 https://www.amaseguros.com/diccionario
+2021-02-23 17:51:54,304 https://www.tuproyectodevida.es/diferencias-asegurado-tomador-beneficiario/
+2021-02-23 17:51:54,304 https://www.senado.gob.ar/parlamentario/parlamentaria/422114/downloadPdf
+2021-02-23 17:51:54,304 https://corporate-site-content.gruposancorseguros.com/SSA/PDFs/nueva-solicitud-vida-ahorro---editable.pdf
+2021-02-23 17:51:54,304 http://www.oas.org/juridico/spanish/mesicic3_pry_ley827.pdf
+2021-02-23 17:51:54,304 https://www.argentina.gob.ar/sites/default/files/ssn_190510_rgaa.pdf
+2021-02-23 17:51:54,304 Fragmento: 
+2021-02-23 17:51:54,304  la S.A. tienen igual responsabilidad.
+8)___El Habeas Corpus puede ser solamente Reparador, Preventi
+2021-02-23 17:51:54,305 Resultados: 
+2021-02-23 17:51:54,305 https://es.wikipedia.org/wiki/Habeas_corpus
+2021-02-23 17:51:54,305 http://www.biblioteca.unlpam.edu.ar/rdata/tesis/e_fonuna493.pdf
+2021-02-23 17:51:54,305 https://www.cels.org.ar/common/documentos/accion_de_habeas_corpus.pdf
+2021-02-23 17:51:54,305 https://www.palermo.edu/Archivos_content/derecho/pdf/accion_de_habeas_corpus.pdf
+2021-02-23 17:51:54,305 https://www.argentina.gob.ar/justicia/derechofacil/leysimple/habeas-corpus
+2021-02-23 17:51:54,305 http://www.derecho.uba.ar/publicaciones/libros/pdf/la-cadh-y-su-proyeccion-en-el-derecho-argentino/007-misuraca-libertad-presonal-la-cadh-y-su-proyeccion-en-el-da.pdf
+2021-02-23 17:51:54,305 http://www.mpd.gov.ar/users/capacitacion/Boletin%20-%20Habeas%20corpus.pdf
+2021-02-23 17:51:54,305 http://marcelabasterra.com.ar/wp-content/uploads/2016/11/Habeas-Corpus-Correctivo-Colectivo-Pluri-individual.-Caso-Verbitsky.-Marcela-I.-Basterra-01.03.10.pdf
+2021-02-23 17:51:54,305 https://www.amfjn.org.ar/2018/05/08/el-habeas-corpus-correctivo-como-garantia-por-antonomasia-de-las-personas-privadas-legitimamente-de-su-libertad/
+2021-02-23 17:51:54,305 #
+2021-02-23 17:51:54,305 https://sj.csjn.gov.ar/sj/suplementos.do?method=ver&data=habeascorpus
+2021-02-23 17:51:54,305 Fragmento: 
+2021-02-23 17:51:54,305 vo y Correctivo.
+9)___En el Estado como atributo de la persona humana encontramos al Estado Civil,  
+2021-02-23 17:51:54,305 Resultados: 
+2021-02-23 17:51:54,305 http://www.corteidh.or.cr/tablas/23961.pdf
+2021-02-23 17:51:54,305 https://es.wikipedia.org/wiki/Atributo_de_la_personalidad
+2021-02-23 17:51:54,305 https://www.youtube.com/watch?v=LGzr1zN2QYo
+2021-02-23 17:51:54,305 #
+2021-02-23 17:51:54,305 http://www.saij.gob.ar/docs-f/codigo-comentado/CCyC_Comentado_Tomo_I%20(arts.%201%20a%20400).pdf
+2021-02-23 17:51:54,305 https://www.bcn.cl/formacioncivica/detalle_guia?h=10221.3/45661
+2021-02-23 17:51:54,305 https://www.ohchr.org/documents/publications/hr-pub-14-2_sp.pdf
+2021-02-23 17:51:54,306 https://www.unc.edu.ar/sites/default/files/Libro_sistemasdeproteccion.pdf
+2021-02-23 17:51:54,306 https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-09502007000200005
+2021-02-23 17:51:54,306 http://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_sp.html
+2021-02-23 17:51:54,306 https://unesdoc.unesco.org/ark:/48223/pf0000151226
+2021-02-23 17:51:54,306 Fragmento: 
+2021-02-23 17:51:54,306 al Estado de Familia y en ciertos supuestos al Estado Nacional.
+10)__Todo Instrumento Público necesi
+2021-02-23 17:51:54,306 Resultados: 
+2021-02-23 17:51:54,306 http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109481/texactley340_libroII_S2_tituloIII.htm
+2021-02-23 17:51:54,306 https://www.altillo.com/examenes/uba/derecho/familia/familia2012resmat1a5cordvaza.asp
+2021-02-23 17:51:54,306 http://materialubaderecho.blogspot.com/2017/09/derecho-de-familia-parte-1.html
+2021-02-23 17:51:54,306 https://core.ac.uk/download/35292652.pdf
+2021-02-23 17:51:54,306 https://filadd.com/doc/unidad-iii-docx-derecho-privado-v-reales
+2021-02-23 17:51:54,306 https://aldiaargentina.microjuris.com/2015/10/09/aplicacion-del-art-249-del-nuevo-ccivcom-no-corresponde-que-la-desafectacion-del-regimen-de-bien-de-familia-beneficie-a-toda-la-masa-sino-tan-solo-a-los-acreedores-de-obligaciones-anteriores-a-su-i/
+2021-02-23 17:51:54,306 https://www.tdx.cat/bitstream/handle/10803/482041/tcfb_20180125.pdf?sequence=2&isAllowed=y
+2021-02-23 17:51:54,306 http://www.mpf.gob.ar/wp-content/uploads/2016/03/64-20141223-Sala-II-Guerrero-UNIDAD-N%C2%B09-II.pdf
+2021-02-23 17:51:54,306 http://biblioteca.clacso.edu.ar/Chile/di-uarcis/20120927101055/tobar.pdf
+2021-02-23 17:51:54,306 http://www.notarfor.com.ar/codigo-civil-comercial-unificado/articulo-290.php
+2021-02-23 17:51:54,306 Fragmento: 
+2021-02-23 17:51:54,306 ta para ser considerado como tal de: capacidad, competencia del funcionario respectivo, cumplimiento
+2021-02-23 17:51:54,306 Resultados: 
+2021-02-23 17:51:54,306 https://www.gordillo.com/pdf_tomo4/capitulo1.pdf
+2021-02-23 17:51:54,319 http://sedici.unlp.edu.ar/bitstream/handle/10915/65995/Documento_completo.pdf-PDFA.pdf?sequence=1
+2021-02-23 17:51:54,319 https://www.tdx.cat/bitstream/handle/10803/81859/aguilar.pdf
+2021-02-23 17:51:54,319 https://www.endalia.com/news/2019/06/diferencias-competencias-capacidades-habilidades/
+2021-02-23 17:51:54,319 http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-59232005000300002
+2021-02-23 17:51:54,319 https://www.enfermeria21.com/revistas/aladefe/articulo/149/competencias-profesionales-en-enfermeras-que-desempenan-su-labor-en-una-unidad-de-cuidados-intensivos/
+2021-02-23 17:51:54,319 http://hechosyactosjuridicos.blogspot.com/2010/05/instrumentos-publicos.html
+2021-02-23 17:51:54,319 http://www.unpcdc.org/media/220984/capacity_development_a_undp_primer_spanish.pdf
+2021-02-23 17:51:54,319 http://www.oas.org/juridico/spanish/mesicic2_blv_ley_2027_sp.pdf
+2021-02-23 17:51:54,319 https://www.argentina.gob.ar/normativa/provincial/ley-6289-123456789-0abc-defg-982-6000jvorpyel/actualizacion
+2021-02-23 17:51:54,319 Fragmento: 
+2021-02-23 17:51:54,319  de las formalidades y al Escribano público interviniente.
+
+1°B) Justificar legalmente las Consignas
+2021-02-23 17:51:54,319 Resultados: 
+2021-02-23 17:51:54,319 http://www.revista-notariado.org.ar/2017/09/la-escritura-publica-en-el-nuevo-codigo-civil-y-comercial-requisitos-y-subsanaciones/
+2021-02-23 17:51:54,319 http://sedici.unlp.edu.ar/bitstream/handle/10915/33719/Documento_completo.pdf?sequence=1
+2021-02-23 17:51:54,319 http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-21472015000200359
+2021-02-23 17:51:54,319 https://www.colegio-escribanos.org.ar/noticias/2011-11-29-Vademecum-inspeccion.pdf
+2021-02-23 17:51:54,319 https://www.monografias.com/trabajos75/hechos-actos-juridicos/hechos-actos-juridicos5.shtml
+2021-02-23 17:51:54,319 http://www.saij.gob.ar/maria-eugenia-doro-urquiza-certificacion-firmas-ambito-registral-automotor-dacf110165-2011-10-14/123456789-0abc-defg5610-11fcanirtcod
+2021-02-23 17:51:54,320 http://secretarias.unc.edu.ar/acaderc/doctrina/forma-y-prueba-de-los-actos-juridicos-instrumentos-publicos-e-instrumentos-privados-en-el-codigo-civil-y-comercial/at_download/file
+2021-02-23 17:51:54,320 https://www.colescba.org.ar/portal/el-colegio/jornadas-notariales-bonaerenses/700-xxxix-jornada-notarial-bonaerense.html
+2021-02-23 17:51:54,320 http://www.cec.org.ar/legislacion/ley-notarial-1482
+2021-02-23 17:51:54,320 https://www.escribanos-er.org.ar/galeria/colegio/revista/pdf/RCEER_194_2019_12.pdf
+2021-02-23 17:51:54,320 Fragmento: 
+2021-02-23 17:51:54,320  Número 1, 2 y 3 del punto anterior.
+
+
+
+
+
+
+
+
+-------------------------------------------------------
+2021-02-23 17:51:54,320 Resultados: 
+2021-02-23 17:51:54,320 https://www.montereyinstitute.org/courses/DevelopmentalMath/TEXTGROUP-9-14_RESOURCE/U13_L2_T1_text_final_es.html
+2021-02-23 17:51:54,320 https://www.montereyinstitute.org/courses/DevelopmentalMath/TEXTGROUP-9-14_RESOURCE/U09_L1_T2_text_final_es.html
+2021-02-23 17:51:54,320 https://www.mate.unlp.edu.ar/practicas/111_3_0509201317502.pdf
+2021-02-23 17:51:54,320 https://www.superprof.es/apuntes/escolar/matematicas/analitica/vectores/coordenadas-del-punto-medio-de-un-segmento.html
+2021-02-23 17:51:54,320 https://www.superprof.es/apuntes/escolar/matematicas/analitica/recta/distancias.html
+2021-02-23 17:51:54,320 https://www.sony.es/electronics/support/articles/S700023825
+2021-02-23 17:51:54,320 https://www.unicef.org/educini6.pdf
+2021-02-23 17:51:54,320 http://www.ehu.eus/juancarlos.gorostizaga/apoyo/sucesiones.htm
+2021-02-23 17:51:54,320 Fragmento: 
+2021-02-23 17:51:54,320 an CORRECTAS:
+I°) De las siguientes Fuentes Formales del derecho, tienen carácter vinculante:
+A)  La
+2021-02-23 17:51:54,320 Resultados: 
+2021-02-23 17:51:54,320 http://www.der.unicen.edu.ar/uploads/ingreso/libre/Julio_Rivera_Fuentes_del_Derecho.pdf
+2021-02-23 17:51:54,320 https://archivos.juridicas.unam.mx/www/bjv/libros/8/3796/7.pdf
+2021-02-23 17:51:54,320 http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0041-86332014000100002
+2021-02-23 17:51:54,320 https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-00122009000200002
+2021-02-23 17:51:54,321 https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-68512009000100013
+2021-02-23 17:51:54,321 https://dialnet.unirioja.es/descarga/articulo/3273547.pdf
+2021-02-23 17:51:54,321 https://dialnet.unirioja.es/descarga/articulo/2233657.pdf
+2021-02-23 17:51:54,321 https://confilegal.com/20180813-la-diferencia-jurisprudencia-doctrina/
+2021-02-23 17:51:54,321 https://bibliotecavirtual.unl.edu.ar:8443/bitstream/handle/11185/5535/introduccio%CC%81n_al_%20DERECHO_web.pdf?sequence=1&isAllowed=y
+2021-02-23 17:51:54,321 http://www.saij.gob.ar/margarita-monzon-capdevila-consulta-vinculante-como-manifestacion-principio-seguridad-juridica-materia-tributaria-dacf180103-2018-06-08/123456789-0abc-defg3010-81fcanirtcod?&o=15&f=Total%7CFecha%7CEstado%20de%20Vigencia%5B5%2C1%5D%7CTema/Derecho%20tributario%20y%20aduanero%5B3%2C1%5D%7COrganismo%5B5%2C1%5D%7CAutor%5B5%2C1%5D%7CJurisdicci%F3n%5B5%2C1%5D%7CTribunal%5B5%2C1%5D%7CPublicaci%F3n%5B5%2C1%5D%7CColecci%F3n%20tem%E1tica%5B5%2C1%5D%7CTipo%20de%20Documento/Doctrina&t=409
+2021-02-23 17:51:54,321 Fragmento: 
+2021-02-23 17:51:54,321  doctrina, la jurisprudencia y la ley.
+B)  La doctrina y la jurisprudencia (sólo si la ley nos remit
+2021-02-23 17:51:54,321 Resultados: 
+2021-02-23 17:51:54,321 http://www.saij.gob.ar/lorena-vega-obligatoriedad-precedentes-sistema-argentino-dacf150649-2015-06-01/123456789-0abc-defg9460-51fcanirtcod
+2021-02-23 17:51:54,321 http://www.saij.gob.ar/preguntas
+2021-02-23 17:51:54,321 https://www.justiciasanluis.gov.ar/?page_id=20129
+2021-02-23 17:51:54,321 https://www.mpf.gob.ar/protex/tipo_de_recurso/doctrina-y-jurisprudencia/
+2021-02-23 17:51:54,321 https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-09502015000100008
+2021-02-23 17:51:54,321 http://www.derecho.unlz.edu.ar/alumnos/30%20calleja/archivos/LA%20COSTUMBRE%20COMO%20FUENTE%20DEL%20DERECHO.doc
+2021-02-23 17:51:54,335 http://www.derecho.uba.ar/publicaciones/lye/revistas/34/las-formas-de-manifestaciones-del-derecho-procesal-la-jurisprudencia.pdf
+2021-02-23 17:51:54,335 https://es.wikipedia.org/wiki/Jurisprudencia
+2021-02-23 17:51:54,335 https://www.oas.org/es/cidh/expresion/docs/informes/acceso/4.%20Jurisprudencia%20nacional%20y%20buenas%20pr%C3%A1cticas%20de%20derecho%20interno%20en.doc
+2021-02-23 17:51:54,335 Fragmento: 
+2021-02-23 17:51:54,335 e a ella).
+C)  La ley, el fallo plenario y la costumbre (sólo si la ley nos remite a ella o en caso 
+2021-02-23 17:51:54,335 Resultados: 
+2021-02-23 17:51:54,335 http://www.derecho.unlz.edu.ar/alumnos/30%20calleja/archivos/LA%20COSTUMBRE%20COMO%20FUENTE%20DEL%20DERECHO.doc
+2021-02-23 17:51:54,335 http://www.saij.gob.ar/camara-nacional-casacion-penal-federal-ciudad-autonoma-buenos-aires-diaz-bessone-ramon-genaro-recurso-inaplicabilidad-ley-fa08261043-2008-10-30/123456789-340-1628-0ots-eupmocsollaf
+2021-02-23 17:51:54,335 https://uai.edu.ar/media/109533/galati-la-costumbre-en-el-derecho-argentino.pdf
+2021-02-23 17:51:54,335 https://www.palermo.edu/derecho/publicaciones/pdfs/revista_juridica/n2N1y2-Abril1997/02%201y2Juridica05.pdf
+2021-02-23 17:51:54,335 http://www.der.unicen.edu.ar/uploads/ingreso/libre/Julio_Rivera_Fuentes_del_Derecho.pdf
+2021-02-23 17:51:54,335 https://sj.csjn.gov.ar/sj/suplementos.do?method=ver&data=relevantes2003_2016
+2021-02-23 17:51:54,335 https://aulavirtual4.unl.edu.ar/mod/resource/view.php?id=210
+2021-02-23 17:51:54,335 http://www.defensapublica.org.ar/cartelera/resolucionhuelgadehambre/10347NuevoTexto.doc
+2021-02-23 17:51:54,335 https://www.thomsonreuters.com.ar/content/dam/openweb/documents/pdf/arg/white-paper/nuevo-derecho-comun-la-constitucion-y-los-tratados-legalone.pdf
+2021-02-23 17:51:54,335 https://www.unpaz.edu.ar/sites/default/files/AnalisisJurisprudencial.pdf
+2021-02-23 17:51:54,336 Fragmento: 
+2021-02-23 17:51:54,336 de laguna legal).
+D)  Todas las fuentes formales del derecho.
+
+II°) La Ley de Contrato de Trabajo N°
+2021-02-23 17:51:54,336 Resultados: 
+2021-02-23 17:51:54,336 https://repositorio.uesiglo21.edu.ar/bitstream/handle/ues21/17154/FONTANA%20MARIA%20NOELIA.pdf?sequence=1
+2021-02-23 17:51:54,336 http://www.der.unicen.edu.ar/uploads/ingreso/libre/Julio_Rivera_Fuentes_del_Derecho.pdf
+2021-02-23 17:51:54,336 http://www.trabajosocial.unlp.edu.ar/uploads/docs/conceptos_juridicos_basicos.pdf
+2021-02-23 17:51:54,336 https://www.ilo.org/dyn/travail/docs/979/Ley%20N%C2%B0%2020.744.pdf
+2021-02-23 17:51:54,336 http://dikaion.unisabana.edu.co/index.php/dikaion/article/view/2270/3119
+2021-02-23 17:51:54,336 http://escribanos.org.ar/rnotarial/wp-content/uploads/2015/07/RNCba-66-1993-03-Doctrina.pdf
+2021-02-23 17:51:54,336 http://www.ejuridicosalta.com.ar/files/derecho_trabajo.pdf
+2021-02-23 17:51:54,336 http://estudios.umc.cl/wp-content/uploads/2017/06/MANUAL-SERIE-1.pdf
+2021-02-23 17:51:54,336 https://www.gordillo.com/pdf_tomo8/capitulo04.pdf
+2021-02-23 17:51:54,336 https://es.wikipedia.org/wiki/Fuentes_del_derecho
+2021-02-23 17:51:54,336 Fragmento: 
+2021-02-23 17:51:54,336  20.744 considera como Contratos de Trabajo:  
+A) TEMPORADA    B) EVENTUAL  C) PASANTIA  D) APRENDIZ
+2021-02-23 17:51:54,336 Resultados: 
+2021-02-23 17:51:54,336 http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/texact.htm
+2021-02-23 17:51:54,336 http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/norma.htm
+2021-02-23 17:51:54,336 https://www.ilo.org/dyn/travail/docs/979/Ley%20N%C2%B0%2020.744.pdf
+2021-02-23 17:51:54,336 http://www.trabajosantiago.gob.ar/manuales_pdf/Guia_Contrataciones.pdf
+2021-02-23 17:51:54,336 https://www.monografias.com/trabajos62/contrato-trabajo/contrato-trabajo2.shtml
+2021-02-23 17:51:54,336 #
+2021-02-23 17:51:54,337 http://www.derecho.uba.ar/academica/derecho-abierto/archivos/da-04-tosca-modalidades-constractuales.pdf
+2021-02-23 17:51:54,337 http://biblioteca.clacso.edu.ar/Argentina/ceil-conicet/20110409044222/47443877d01.pdf
+2021-02-23 17:51:54,337 https://unlp.edu.ar/frontend/media/99/27599/bf0ca9bcf1f4f522ff87c1350494202d.pdf
+2021-02-23 17:51:54,337 http://bibliotecadigital.uda.edu.ar/objetos_digitales/326/seminario-4202-contrato.pdf
+2021-02-23 17:51:54,337 http://www.ejuridicosalta.com.ar/files/derecho_trabajo.pdf
