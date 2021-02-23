@@ -3,6 +3,7 @@ import pickle
 import mainFunctions
 from config import CONFIG
 import math
+
 pathBase = CONFIG["DOCS_DB"] + "/"
 
 
@@ -104,17 +105,12 @@ docsTraining = [
 ]
 
 
-
-
 def createVocabulary(tops):
     list = []
     for t in tops:
         for x in t.tokens:
             list.append(x)
     return list
-
-
-
 
 
 '''
@@ -126,12 +122,12 @@ for t in topics:
     print(t.name + "   " + str(count))
 '''
 
+
 def smoothLikelyhood(word, topic, vocabulary):
     i = 0
     for x in topic.tokens:
         if x.text == word.text:
             i = i + 1
-
 
     return (i + 1) / (len(topic.tokens) + len(vocabulary))
 
@@ -155,7 +151,6 @@ def createCacheProbabilisticTopicRecognition():
         pickle.dump(topic, topic_file)
 
 
-
 def containsToken(list, token):
     bool = False
     for x in list:
@@ -172,6 +167,7 @@ def logsumexp(x, y):
     sum += math.exp(y - max_value)
 
     return math.log(sum) + max_value
+
 
 def getTopicProbabilistic(doc):
     _topics = []
@@ -190,26 +186,19 @@ def getTopicProbabilistic(doc):
             if bool:
                 tokens_doc.append(tok)
 
-    maxProb = -10000000
+    maxProb = -10000000000
     maxTopic = ""
     vocabulary = createVocabulary(_topics)
     for _topic in _topics:
         prob = 0
-        prob += math.log(_topic.count()/len(topics)) / math.log(10)
+        prob += math.log(_topic.count() / len(topics)) / math.log(10)
 
         for word in tokens_doc:
             if containsToken(vocabulary, word):
-
-
                 prob += math.log(smoothLikelyhood(word, _topic, vocabulary)) / math.log(10)
 
-
-
         if prob > maxProb:
-
             maxProb = prob
             maxTopic = _topic
 
     return maxTopic.name
-
-

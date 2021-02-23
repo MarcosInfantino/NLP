@@ -17,30 +17,20 @@ docAlumno = [
     ("Economía de experiencia.pdf", "Gallazzi, Pablo Gabriel"),
     ("K5071 - Matias David Choren - TP N°5 Rifkin (1).pdf", "MATIAS DAVID CHOREN"),
     ("K5071 - Matias David Choren - TP N°5 Rifkin.pdf", "MATIAS DAVID CHOREN"),
-    ##("K5071 - Matias David Choren - TP3 - Experience Economy.pdf", "MATÍAS DAVID CHOREN"),
     ("Lopez Tomas - TP 6 - Sistemas Emergentes.doc", "LÓPEZ, Tomas"),
     ("Marketing - TP 0.docx", "Ivo Ursino"),
     ("Marketing - TP 1.docx", "Ivo Ursino"),
     ("Marketing - TP 2.docx", "Ivo Ursino"),
-    ##("Marketing en Internet y Nueva Economía - TP0 (1).docx","Lorena Gonzalez"), ##REVISAR
-    ##("TP 1 - Marketing.docx", "Calvo, Luciano"),
     ("TP1 - La Larga Cola - Chris Anderson (1).doc", "Lorena Gonzalez"),
     ("MKT 2016 - Alan Szpigiel - TP4 (1).pdf", "Alan Szpigiel"),
     ("Mkt_JourdanMartin_Tp1.docx", "Jourdan Martin"),
     ("MKTG_TP0  - Definiciones Economia.pdf", "Suchecki, Emiliano G."),
     ("MKTG_TP4  - Suchecki - Comercio Electronico.pdf", "Suchecki, Emiliano G."),
     ("MKT-TP N° 3 The experience Economy - Diego Noya.docx", "Diego Noya"),
-    ##("Preguntas TP Economía de experiencia - Gabriela Gonzalez.docx", "Gabriela Gonzalez"),
-    ##("Preguntas TP Marketing 4.0 - Kotler  Gabriela Gonzalez.docx", "Kotler  Gabriela Gonzalez"),
-    ##("preguntas TP Wikinomics - Gariglio.doc", "Gariglio"),
-    ##("TP 1 - Larga Cola - Campassi Rodrigo  (1).docx", "Rodrigo Campassi"),
     ("TP 1 - Wikinomics.docx", "Rocchio, Claudio"),
     ("TP 2 - Cecilia Ramacciotti.doc", "Cecilia A. Ramacciotti "),
     ("TP 2 - Franco Zanette.docx", "Franco Zanette "),
-    ##("TP 2 - La economía Long Tail.docx", "Gonzalo Fernandez"),
     ("TP 2 Larga Cola - Ezequiel Ogando .docx", "Ezequiel Ogando"),
-    ##("TP 3 - Economía de Experiencia - Andrés Basso.docx", "Andrés Basso"),
-    ##("TP 3 - the experience economy.docx", "Calvo, Luciano"),
     ("TP 3-Franco Zanette.docx", "Franco Zanette "),
     ("TP 6 - Joan Manuel do Carmo.docx", "JOAN MANUEL DO CARMO"),
     ("TP 6 - Sistemas emergentes.docx", "Levy Nazareno Isaac"),
@@ -49,7 +39,6 @@ docAlumno = [
     ("TP_3_Weiss_Gonzalo (1).pdf", "WEISS, GONZALO"),
     ("TP1PabloPallocchi.pdf", "Pablo Pallocchi"),
     ("TP3 - Ignacio Penacino - Marketing (1).docx", "Penacino Ignacio"),
-    ##("TP4-Gariglio.docx", "Gariglio"),
     ("TpN6 Hernan.doc", "Hernán Suzuki Son"),
     ("TP04 - TP Prince Difusión y adopción TIC.doc", "Spadafora, Franco Luciano"),
     ("TP4 - Adopcion TIC - Joel Melamed.docx", "Joel Melamed"),
@@ -78,8 +67,6 @@ docAlumno = [
     ("TP7 Dominio de la informacion - Juan Facundo Obregon.pdf", "Juan Facundo Obregon"),
     ("Trabajo Práctico 2 - Hernan Dalle Nogare.docx", "Hernan Dalle Nogare"),
 
-    ##("UTN Mktg 2016 - Modugno - TP1.pdf", "Agustín Modugno"),
-   ## ("", ""),
 
 ]
 
@@ -108,7 +95,6 @@ def generarTrainingData():
         nombreDoc = x[0]
         nombreAlumno = x[1].lower()
         docText = nombreDoc + '/n' + docs.Doc.newDoc(pathBase + nombreDoc).text.lower()
-        ##docText = docs.Doc.newDoc(pathBase + nombreDoc).text.lower()
         tuplaInicioFin = tuplaInicioFinSubString(docText, nombreAlumno)
         print(tuplaInicioFin)
         sub0 = tuplaInicioFin[0]
@@ -120,7 +106,7 @@ def generarTrainingData():
         TRAINING_DATA.append(obj)
 
 generarTrainingData()
-##("", {"entities": []})
+
 TRAINING_DATA2 = [
     ("1)	¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.", {"entities": []}),
     ("1)	Anderson define a la Larga Cola como la teoría que indica que Internet desafía el Principio de Pareto (el 20% de las cosas son vitales y el 80% son triviales o inútiles) y en esta nueva economía los productos y servicios para minorías tienen un amplísimo espectro de oportunidades mediante el comercio electrónico. Internet es un medio que revoluciona el modo de consumo gracias a que la tecnología ahorra costos de almacenaje y de distribución de algunos productos.", {"entities": []}),
