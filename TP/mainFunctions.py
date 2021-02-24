@@ -308,7 +308,7 @@ def showPlagiarismParameters(doc, paragraphMap, threadInternetSearch):
         log.info("RESULTADOS DE BÚSQUEDA EN LA WEB")
         log.info("------------------------------------------------------------------------------------------------------------------------------------------------")
         log.info("Puntaje de plagio en la web :" + str(round(internetPlagiarismResult.score,2))+"%")
-        log.info("Fragmentos encontrados en la web")
+        log.info("Fragmentos encontrados en la web:")
         for fragmentAndResults in internetPlagiarismResult.results:
             if len(fragmentAndResults.searchResults) > 0:
                 log.info("Fragmento: " )
@@ -316,6 +316,8 @@ def showPlagiarismParameters(doc, paragraphMap, threadInternetSearch):
                 log.info("Resultados: ")
                 for r in fragmentAndResults.searchResults:
                     log.info(r[1])
+        if len(internetPlagiarismResult.results) == 0:
+            print("Ninguno")
 
 
 def obtainTextFragments(text):
